@@ -1,0 +1,918 @@
+,acousticness,artist_name,artist_uri,danceability,energy,genre,instrumentalness,key,liveness,loudness,mode,popularity,speechiness,tempo,time_signature,track_id,track_name,valence
+0,0.294,Z-Chen,spotify:artist:5XkrVVn0lQIVPkH55nbTgZ,0.517,0.761,['mandopop'],0.0,9,0.111,-6.011,1,54,0.0351,131.985,4,4mDGkFRAqaYosoyWUI7QzM,在沒有你以後 (feat. 張智成),0.521
+1,0.00942,Z-Drive,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.719,0.883,['dubstep product'],0.0318,11,0.151,-4.493,1,8,0.0941,115.006,4,0nkpf40AIiQqQy3F7UNHM0,Stabbing Tapes (Attack of Shredder),0.183
+2,0.0373,Z-Ro,spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg,0.761,0.695,"['deep southern trap', 'dirty south rap', 'gangster rap', 'pop rap', 'southern hip hop', 'trap music']",0.0,1,0.318,-5.395,0,52,0.192,147.979,4,1MvuU0panHMv0CcAFC1Omr,"Swangin In the Rain (feat. Slim Thug, J-Dawg, Lil Keke, Z-Ro & Chamillionaire) - Remix",0.547
+3,0.0211,Z-Trip,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.898,0.67,['turntablism'],0.312,1,0.0394,-8.372,1,32,0.184,98.026,4,2ptShnDvzwFUqAhmY1FiEz,I Want You Back - Z-Trip Remix,0.724
+4,0.0373,Z:RO,spotify:artist:0k7Xl1pqI3tu8sSEjo5oEg,0.761,0.695,"['deep southern trap', 'dirty south rap', 'gangster rap', 'pop rap', 'southern hip hop', 'trap music']",0.0,1,0.318,-5.395,0,52,0.192,147.979,4,1MvuU0panHMv0CcAFC1Omr,"Swangin In the Rain (feat. Slim Thug, J-Dawg, Lil Keke, Z-Ro & Chamillionaire) - Remix",0.547
+5,0.094,Z.B.U.K.U,spotify:artist:3FJhd0PPO9EhFYPYXRzluk,0.403,0.893,['polish hip hop'],0.0,11,0.0508,-5.282,1,44,0.253,176.29,4,2oV7CNpUubcUEudcK3vuXG,Młoda krew,0.587
+6,0.318,Z.E,spotify:artist:6BrvowZBreEkXzJQMpL174,0.877,0.797,['sertanejo universitario'],0.0,1,0.0978,-3.256,0,75,0.0587,100.01,4,2zW8y5ry4YudAPnLmagr1c,Ze Willen Mee,0.4
+7,0.365,Z.J.,spotify:artist:32EMPFuSw1tkuAxXxGh2CU,0.775,0.864,['vapor trap'],2.8e-06,0,0.205,-2.897,0,34,0.058,98.998,4,0UytwP7EBqpKHbSZLN9jCN,Action,0.449
+8,0.0249,Z.one,spotify:artist:26dSoYclwsYLMAKD3tpOr4,0.774,0.838,['sleep'],0.025,5,0.242,-3.914,0,77,0.114,143.04,4,6I9VzXrHxO9rA9A5euc8Ak,Toxic,0.924
+9,0.00206,Z.TAO,spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,0.69,0.908,"['chinese hip hop', 'k-pop', 'mandopop']",0.00084,9,0.13,-4.471,0,38,0.221,128.515,4,3GfWI5oh5gqC2PxoqaMKhT,Time - Tiësto's Big Room Mixcut,0.137
+10,0.00206,Z.Tao,spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z,0.69,0.908,"['chinese hip hop', 'k-pop', 'mandopop']",0.00084,9,0.13,-4.471,0,38,0.221,128.515,4,3GfWI5oh5gqC2PxoqaMKhT,Time - Tiësto's Big Room Mixcut,0.137
+11,0.0528,Z.Z. Hill,spotify:artist:1gdaEBrH99AfhsiQNbaSBp,0.779,0.428,"['soul', 'soul blues', 'southern soul', 'southern soul blues']",0.00582,0,0.0733,-14.431,1,37,0.0494,123.697,1,5ZBnVHVp7PyuQzlAJXoHQ9,Down Home Blues,0.736
+12,0.00287,Z'ev,spotify:artist:6xvJNyQLQOuL3m5kOB42zx,0.164,0.813,['industrial'],0.815,7,0.26,-3.029,1,0,0.142,113.981,3,01Vk2HOYm5MqQYiXD6d8g0,Spiral Right,0.0339
+13,0.0117,Z&Z,spotify:artist:5pKCCKE2ajJHZ9KAiaK11H,0.579,0.821,"['bulgarian hip hop', 'east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",0.0,1,0.0631,-4.616,1,73,0.152,174.063,4,49FYlytm3dAAraYgpoJZux,Umbrella,0.551
+14,0.279,Z€N,spotify:artist:1l2ekx5skC4gJH8djERwh1,0.603,0.744,"['deep tropical house', 'indie poptimism', 'pop', 'tropical house']",4.87e-06,0,0.106,-5.724,1,71,0.0458,101.991,4,3AzvNvE3xpgelqmE5MRnbI,Take Her Place (feat. A R I Z O N A),0.605
+15,0.134,Z3 - Die Drei Zillertaler,spotify:artist:5rPwLkoXRLSzPnPvg4yvrm,0.731,0.812,['zillertal'],0.0,5,0.0347,-2.698,1,7,0.053,105.723,4,37WdEVpUS5i0hgs31cup55,A Liad von Z3,0.964
+16,0.659,Zaa,spotify:artist:1KfBKoozFugeT1PBkz33xl,0.661,0.787,"['bolero', 'latin', 'latin pop', 'ranchera', 'tropical']",3.84e-05,5,0.0985,-3.343,0,51,0.0288,130.104,4,5ijfBGS9S4ZcABGQDl4nQ8,Sentimientos: Un Disco Mas / Niegalo Todo,0.77
+17,0.659,"Zaa*,X-Trude",spotify:artist:1KfBKoozFugeT1PBkz33xl,0.661,0.787,"['bolero', 'latin', 'latin pop', 'ranchera', 'tropical']",3.84e-05,5,0.0985,-3.343,0,51,0.0288,130.104,4,5ijfBGS9S4ZcABGQDl4nQ8,Sentimientos: Un Disco Mas / Niegalo Todo,0.77
+18,0.00126,Zabili Mi Żółwia,spotify:artist:3ax9PnRMGOs5HJVLkDT2Ea,0.656,0.769,"['polish punk', 'polish reggae']",0.0,0,0.0645,-5.762,1,36,0.0338,92.026,4,5kwCTq7N25clOJsC3S28wa,Wiosna 2007,0.807
+19,0.476,Zabranjeno Pusenje,spotify:artist:2g46L9VSa45dv1Zv4QWaFt,0.719,0.525,"['sevdah', 'yugoslav rock']",0.0,4,0.0845,-9.372,1,26,0.0393,112.804,4,4Sm769Q7yAd7MbKbBuTOtD,Zenica Blues,0.889
+20,0.00803,Żabson,spotify:artist:0QR764k0D36npmTMWx5bft,0.87,0.74,['polish hip hop'],7.35e-05,11,0.0673,-5.964,0,57,0.118,136.048,4,3yGmWw3t0cRIzC7XmEso7s,DMT,0.447
+21,0.001,zabutom,spotify:artist:3z9XCKFZ4a6xxvMK9haQy5,0.504,0.983,"['chiptune', 'deep chiptune']",0.932,3,0.0534,-8.696,0,33,0.0458,151.326,4,12UYnL3q2Xm3U7gFCRfAKs,Final Blast,0.923
+22,0.645,Zac Brown,spotify:artist:6yJCxee7QumYr820xdIsjo,0.566,0.713,"['contemporary country', 'country', 'country road', 'modern country rock']",0.0,6,0.114,-4.25,1,76,0.0417,169.864,4,4dGJf1SER1T6ooX46vwzRB,Chicken Fried,0.807
+23,0.645,Zac Brown,spotify:artist:6yJCxee7QumYr820xdIsjo,0.566,0.713,"['contemporary country', 'country', 'country road', 'modern country rock']",0.0,6,0.114,-4.25,1,76,0.0417,169.864,4,4dGJf1SER1T6ooX46vwzRB,Chicken Fried,0.807
+24,0.645,Zac Brown Band,spotify:artist:6yJCxee7QumYr820xdIsjo,0.566,0.713,"['contemporary country', 'country', 'country road', 'modern country rock']",0.0,6,0.114,-4.25,1,76,0.0417,169.864,4,4dGJf1SER1T6ooX46vwzRB,Chicken Fried,0.807
+25,0.0046,Zac Dinsmore,spotify:artist:3T6MQugN3SnovyHgr7PLUa,0.341,0.667,['deep ccm'],1.63e-05,11,0.101,-6.789,1,17,0.0347,75.189,4,3REnHiIFY79l3Z2VOy4xpd,Glory Be to the Righteous One (Live),0.281
+26,0.0716,Zac Efron,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.684,0.619,"['hollywood', 'post-teen pop']",0.0,10,0.122,-7.005,1,84,0.0386,125.046,4,65fpYBrI8o2cfrwf2US4gq,Rewrite The Stars,0.284
+27,0.381,Zac Flewids,spotify:artist:6RPLfI95V4juSTtpBumiWk,0.746,0.637,['canadian hip hop'],0.0,8,0.11,-9.802,1,44,0.0875,92.986,4,3Pi2FnZ4bGST5Bmj9BQexa,Duppy Freestyle,0.251
+28,0.0099,Zac Samuel,spotify:artist:1QOHbhVRpDoNtRkz79si6b,0.698,0.697,"['deep groove house', 'disco house', 'house', 'tropical house']",8.04e-06,7,0.144,-6.125,1,54,0.0389,119.993,4,5QifrqmnjHzdOuBAheeeNU,Say Something - Zac Samuel Remix,0.688
+29,0.00703,Zac Waters,spotify:artist:3KF7anPKoBvMZSJEFvZDN9,0.762,0.862,"['catstep', 'melbourne bounce']",0.424,10,0.646,-3.715,0,38,0.0637,105.006,4,3H3uvQwt1H2hDMt4ofvZ7C,Freak,0.235
+30,0.853,Zacamandú,spotify:artist:4yDYqTFDIzGlFOUWfSU6Yu,0.549,0.579,['mexican son'],0.149,6,0.135,-4.885,1,7,0.0414,152.156,3,0MkuLwyWwx0ciOvH4Ky7ie,El Zacamandú,0.718
+31,0.0808,Zacardi Cortez,spotify:artist:1e5OohAPdgqCeMq3eegvqp,0.357,0.804,['gospel'],0.0,0,0.33,-4.313,1,40,0.0805,84.807,4,5nMWOR0iuCl0OJnHAtnj2T,One More Time,0.322
+32,0.29,Zacari,spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg,0.798,0.582,"['gqom', 'indie r&b']",0.0,10,0.153,-7.38,1,81,0.103,126.075,4,6PGoSes0D9eUDeeAafB2As,LOVE. FEAT. ZACARI.,0.766
+33,0.385,Zacarias Ferreira,spotify:artist:1LKPL2O3vA3ozNsmshDg3o,0.81,0.803,"['bachata', 'latin', 'merengue', 'merengue urbano', 'tropical']",0.0,3,0.14,-3.042,1,62,0.0349,130.049,4,1WoDc1x28zHmxnPvvM5GLh,La Asesina,0.883
+34,0.00937,Zacary,spotify:artist:0Dp5uzlISYu38jwPXsGPqF,0.598,0.78,['cumbia sonidera'],0.0417,4,0.105,-5.689,0,50,0.051,184.003,4,31McJpwOf6mvuHaBOImyyE,He Sentido Amor - Corazón Tun Tun,0.832
+35,0.519,Zach Banes,spotify:artist:4LEv5Ekvqewmlr0sXdwCxr,0.769,0.607,"['christian hip hop', 'christian trap']",0.0,1,0.0949,-6.277,1,28,0.294,74.985,4,1ASX0Y9Ui3mAdyZhu3ZbQq,Grizzy,0.191
+36,0.172,Zach Boucher,spotify:artist:5qvrAlKjc0Sqrqz6v2wBGk,0.556,0.932,['antiviral pop'],0.0,8,0.394,-5.468,1,35,0.345,120.026,4,2VgNT7CXJOCTZcPOrdyhdW,After Hours,0.586
+37,0.0142,Zach Clayton,spotify:artist:7eOnZrDVKDtP1audNng7NZ,0.668,0.754,['teen pop'],0.0,1,0.36,-5.467,0,44,0.193,99.947,4,1I0VjcGSgDYLHHijRM3I6P,How Bout Dat,0.253
+38,0.368,Zach Deputy,spotify:artist:57cuW31G8gconw4l9iqOty,0.619,0.66,['jam band'],0.0,7,0.432,-5.735,1,40,0.0873,76.964,4,1MlYluBz3FzbRRQVy5N01b,Home,0.525
+39,0.00604,Zach DuBois,spotify:artist:4uKTRrwEhTAkSuhQp2NSnt,0.593,0.635,['lift kit'],0.0,6,0.169,-6.401,1,28,0.0318,118.02,4,6F2F2YFuNx0mCQLHfrap1g,Beer for Breakfast,0.634
+40,0.0157,Zach Dylan,spotify:artist:1QaXEKVnj3c9ddU4uYSG3G,0.577,0.703,"['lift kit', 'redneck']",0.0,2,0.361,-4.592,1,40,0.0304,144.054,4,7EKunMbgKeI0V2mRUg0M8k,This Old Truck,0.619
+41,0.869,Zach Edwards,spotify:artist:6ctgu4FFlnNhMgrKiIzCxp,0.486,0.246,['deep texas country'],0.0,0,0.101,-10.64,1,34,0.0349,134.217,4,4cPCTfA9KpLMfpkgP5ES4r,Times Like These,0.371
+42,0.468,Zach Farache,spotify:artist:3zXefhSXvdPat7oeahOXJI,0.608,0.295,['lo-fi beats'],0.278,1,0.324,-10.744,1,59,0.194,120.584,4,3u0kNxqOOC8SdoODpkmoZO,The Loser,0.147
+43,0.69,Zach Galifianakis,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.497,0.522,['comedy'],0.0,3,0.89,-26.529,0,20,0.869,140.086,3,4WGu60mXtg8SUOJBGsi1oB,"Stereotypical Girlfriend, Drinking with Mom",0.0393
+44,0.0528,Zach Herron,spotify:artist:6sa5JC8xdrw2ZpGQ50nVCW,0.726,0.73,['teen pop'],0.0,1,0.171,-6.706,1,48,0.0488,92.032,4,0QwruOc9kmaurgj3l9yuyk,Timelapse,0.839
+45,0.0154,Zach Hill,spotify:artist:3GjsFPyuCazKeKgVzMg6Om,0.447,0.909,"['experimental rock', 'math rock', 'noise rock']",0.0,4,0.151,-1.936,0,36,0.0702,91.777,4,1MZjYDGUdfJYidb0UnK9Xa,The Primitives Talk,0.64
+46,0.774,Zach Loomis,spotify:artist:5A2FcaxJGrDoazXvEMA46H,0.567,0.363,['alternative ccm'],0.000373,10,0.106,-11.171,1,30,0.031,132.097,4,5FLS195zTexsx9voSwnGPs,Walking Miracle (feat. Mike Donehey),0.136
+47,0.133,Zach Matari,spotify:artist:4HpDofv5tUMQrHzYX452rK,0.741,0.604,['teen pop'],8.39e-06,1,0.106,-6.215,0,24,0.0884,115.012,4,0IUXzE601S5ajUQsnAJznx,Mirror,0.607
+48,0.578,Zach Schimpf,spotify:artist:4YB7RuaXNc5588KRO33pqz,0.578,0.447,['vapor soul'],0.434,6,0.132,-10.103,1,29,0.0335,134.965,4,3sMu10EEiEYmQcXF4fgw1V,"What's It Like There, Tomorrow?",0.0865
+49,0.0028,Zach Williams and The Reformation,spotify:artist:21Z528XAkildnVIYKYy8gU,0.385,0.632,['modern southern rock'],0.0,2,0.0879,-7.4,1,10,0.0293,115.494,3,7jZip1ycSriFIAKWL0CrDj,Picture Perfect,0.39
+50,0.928,Zach Winters,spotify:artist:163OfTopSs5dr4iVSizkvu,0.638,0.157,"['christian uplift', 'ok indie']",0.177,7,0.108,-16.749,1,42,0.0315,110.665,4,2m2Ag6Z7K8ruVlE7NKDU7d,To Have You Around,0.129
+51,0.41,Zach Zoya,spotify:artist:4V5f0tr4dGBGUvW5HsR22O,0.506,0.646,['canadian hip hop'],0.0,3,0.0874,-5.789,0,37,0.336,130.121,4,6d9kuIq25drXF5HDK1BiYk,1919,0.416
+52,0.453,Zachary Breaux,spotify:artist:2jYHSJBXjusgmYdrNeaRmg,0.737,0.643,"['jazz guitar', 'smooth jazz']",0.834,6,0.114,-10.047,0,38,0.0294,116.301,4,1H7AJLZqfCjX4PFZPUcXKP,Café Reggio,0.579
+53,0.845,Zachary Levi,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.24,0.16,"['broadway', 'show tunes']",0.0,5,0.0842,-14.213,1,66,0.0301,92.742,4,6klpXs2uAjagnZMFkt4qkl,"I See the Light - From ""Tangled"" / Soundtrack Version",0.194
+54,0.877,Zachary Lucky,spotify:artist:6iOhLVSyUQsVyW3rk8TI6E,0.531,0.182,['indie singer-songwriter'],8.53e-06,2,0.112,-13.499,1,7,0.0379,81.566,4,0LRPc1FsSBYSGTArPA0eKl,Leaves Are Falling,0.215
+55,0.0496,Zachary Richard,spotify:artist:6mpIGgvVVlb1m1OwoGKRuY,0.66,0.87,"['country quebecois', 'zydeco']",3.94e-06,9,0.0463,-12.569,1,16,0.0375,105.001,4,5iCdTNeZJW2eeCEtooQfAf,The Battle Of New Orleans,0.87
+56,0.0143,Zachary Simms,spotify:artist:4BjcB7CEHkK0QCZ7MSdyPU,0.494,0.578,['deep ccm'],0.00015,0,0.123,-9.315,1,16,0.037,129.861,4,0eqrhGwxBztywXdXP7QMih,Eyes to See (Live),0.185
+57,0.143,Zack,spotify:artist:246dkjvS1zLTtiykXe5h60,0.742,0.84,"['indie r&b', 'lo-fi beats']",0.0,5,0.133,-5.198,0,86,0.0471,138.032,4,5lZZmityu9TAjNvSY6GLhR,Zack And Codeine,0.287
+58,0.043,Zack Hemsey,spotify:artist:2Eg0o1Mok66akOkuOiGdEv,0.251,0.446,"['epicore', 'scorecore', 'video game music']",0.933,5,0.0906,-11.942,0,55,0.049,123.415,4,3JnQth6rdt2s9PXtHQMW1E,The Way,0.114
+59,0.302,Zack Ink,spotify:artist:0Jsk5iYMr5aNjHury7blm1,0.818,0.764,"['deep dutch hip hop', 'dutch hip hop']",0.0,11,0.196,-6.329,0,45,0.259,90.063,4,2MVYbvZFOEd015bQWRRO0r,Drugs (feat. Zack Ink),0.508
+60,0.118,Zack Kahn,spotify:artist:2FQLk5sv9Amkdx7ahVGdG5,0.71,0.583,['prank'],0.0,2,0.118,-7.946,1,1,0.077,94.057,4,0UwI5cixPO5eg289R6IUVt,Bonnie (feat. Zack Kahn),0.094
+61,0.273,Zack Knight,spotify:artist:7JMBJmGMqw4H33HECyW4QP,0.793,0.777,['desi hip hop'],0.0,4,0.144,-5.636,0,63,0.197,103.956,4,7Dhy1R9NmD96wfr7VJEN37,Bom Diggy,0.528
+62,0.00176,Zack Roth,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.661,0.582,['progressive trance house'],0.428,1,0.0725,-11.596,1,18,0.0459,128.008,4,2bkrXRKQkWOBY7dcgg7MOq,Tourne - Original Mix,0.255
+63,0.00156,Zack The Lad,spotify:artist:48q2mPVwlKnlSaCx07i6Ta,0.525,0.889,['vapor twitch'],0.736,1,0.222,-4.104,1,41,0.0625,140.099,4,222VOHXy05OuMQ0NXORAt4,Feel Good,0.136
+64,0.571,Zack Villere,spotify:artist:5jLbQGcvxehi2Z6qkUP9Rh,0.622,0.543,"['indie r&b', 'lo-fi beats']",2.17e-05,6,0.16,-6.291,1,58,0.0832,80.027,4,5aqI3CBgaQZlu9mvo6wKDh,Bloo,0.537
+65,0.571,Zack Walther and the Awe Hells,spotify:artist:5jLbQGcvxehi2Z6qkUP9Rh,0.622,0.543,"['indie r&b', 'lo-fi beats']",2.17e-05,6,0.16,-6.291,1,58,0.0832,80.027,4,5aqI3CBgaQZlu9mvo6wKDh,Bloo,0.537
+66,0.203,Zacke,spotify:artist:3Rjud126EhtcSDte9lORR7,0.691,0.698,"['deep swedish hip hop', 'swedish hip hop']",5.02e-05,10,0.403,-5.635,0,21,0.326,87.921,4,7xVW5kNBMetYBMvuIL5CLv,Halvvägs ft. Zacke,0.617
+67,0.0914,ZadeKing,spotify:artist:1HFOFTPBhTc2hxFWJw1yzw,0.678,0.679,['norwegian pop'],0.0,11,0.153,-8.037,1,57,0.0377,100.004,4,7cuFjRlLA0jstJpZymbEqV,Kumbaya,0.598
+68,0.25,Zaeden,spotify:artist:5lMNphVhMLvhFmTWiKiLA2,0.801,0.842,"['deep tropical house', 'tropical house']",0.000531,1,0.0747,-3.402,0,49,0.0562,120.998,4,7xyXsSD7ruRBvbeRqCcJzz,Never Let You Go,0.399
+69,6.87e-06,Zafakon,spotify:artist:7mStIWJ2rxMZqI1gH043RJ,0.489,0.999,['latin metal'],0.000736,7,0.756,-2.143,0,4,0.175,111.925,4,6Xp3Rqf6bT4O40gkkjSMbd,War as a Drug,0.0384
+70,0.538,Zafiro,spotify:artist:2Mk7yrY8Dt93tvVhyxh8Zj,0.823,0.307,"['merengue', 'merengue urbano']",0.758,8,0.11,-12.12,0,40,0.0412,130.012,4,73qAN4yiCPSPDsFy981Cqd,Zafiro,0.187
+71,0.182,Zafra Negra,spotify:artist:2Otnykd696YidQYfEGVmNq,0.727,0.737,"['bachata', 'latin', 'merengue', 'tropical']",0.0231,7,0.139,-6.279,1,41,0.101,155.049,4,7euIJiHhj1V598QTd7snUS,Zafra Negra,0.734
+72,6.72e-06,Zagar,spotify:artist:6UgzJ5LzNU5W5dIxmMhQG9,0.741,0.844,['hungarian rock'],0.61,7,0.0938,-8.083,1,16,0.037,122.0,4,5PjJnMIvTYOUtFt1LCmu0e,Light Is Everything - Dan Caster Remix - Mixed,0.119
+73,0.145,Zager & Evans,spotify:artist:55IyYO6fmYpYw6Nd4YF7bw,0.451,0.62,['bubblegum pop'],0.0239,8,0.0677,-5.609,0,47,0.0361,123.487,4,5UVsbUV0Kh033cqsZ5sLQi,In the Year 2525 (Exordium & Terminus),0.5
+74,0.0699,Zagga,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.697,0.67,['riddim'],0.0,0,0.0712,-7.474,1,15,0.0346,91.014,4,3vtCwCD6wDAQibMi7LbxLt,My Destination,0.651
+75,0.961,Zagreb Guitar Quartet,spotify:artist:44ffOJL1rvojCHtB6leYaH,0.477,0.0701,['classical guitar'],0.813,7,0.154,-14.795,1,0,0.0521,128.824,4,7qJPEnZ6kWDGjaA4r9vsTF,Septet for Boris - for string quartet and guitar trio,0.0393
+76,0.97,Zagreb Philharmonic Orchestra,spotify:artist:1JOQXgYdQV2yfrhewqx96o,0.317,0.183,['orchestra'],0.000143,8,0.0726,-14.758,1,35,0.0497,71.79,4,1kFPSIYndBb3XzXGNDzaSv,La traviata (Excerpts): Sempre libera,0.244
+77,0.88,Zagreb Soloists,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.52,0.191,['chamber orchestra'],0.24,0,0.104,-20.809,1,0,0.0487,117.858,4,0IehifPHbjZPY30ZQksqfX,"Sinfonia for Strings in C Major, RV 116: I. Allegro molto",0.396
+78,0.0108,Zahara,spotify:artist:4d5CbyJTqjfFvn9ZgU5bEa,0.841,0.71,['strut'],0.0,2,0.206,-6.223,1,49,0.0924,124.024,4,6ALP43XWTugYZuZkueHH30,Jungle Kitty,0.216
+79,0.0108,Zahara,spotify:artist:4d5CbyJTqjfFvn9ZgU5bEa,0.841,0.71,['strut'],0.0,2,0.206,-6.223,1,49,0.0924,124.024,4,6ALP43XWTugYZuZkueHH30,Jungle Kitty,0.216
+80,0.0108,ZAHARA,spotify:artist:4d5CbyJTqjfFvn9ZgU5bEa,0.841,0.71,['strut'],0.0,2,0.206,-6.223,1,49,0.0924,124.024,4,6ALP43XWTugYZuZkueHH30,Jungle Kitty,0.216
+81,0.164,Zahed Sultan,spotify:artist:0sKvyHIsuZMjaLWyHFX4RV,0.805,0.483,['electro jazz'],4.28e-05,9,0.217,-8.991,0,38,0.0818,121.987,4,6HOkraOZ7y9nHgObt8NMzD,I want her but I don't want her,0.468
+82,0.0852,Zaho,spotify:artist:0vN920jukdAbErvjo2OJ2o,0.771,0.816,"['francoton', 'french pop']",0.0,8,0.151,-4.028,0,53,0.125,120.111,4,0NtK87XUpxAnrxncVh8xzs,Laissez-les kouma (feat. MHD),0.728
+83,0.0111,Zahouania,spotify:artist:6RXNoNfqGTqlCIwAvzo4Xp,0.725,0.904,"['gnawa', 'rai']",0.0,0,0.412,-4.924,0,41,0.101,109.937,4,5ltsoMRdQ0j9nkz5Ja1F8l,Sidi Sidi,0.886
+84,0.0148,Zahounia,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.704,0.865,['deep rai'],0.0,9,0.297,-5.014,0,32,0.234,104.051,4,0bn4jHfHGnBdcjR95mvLqq,Amitiés sacrées,0.658
+85,0.859,Zahra,spotify:artist:6QncudMSOiKxYRIKRDks6S,0.788,0.435,['world'],0.0,6,0.0819,-10.151,0,50,0.0372,111.992,4,725xsrRfUExIlatLNHiKNH,Imik Si Mik - Remastered Version,0.771
+86,0.859,Zahra,spotify:artist:6QncudMSOiKxYRIKRDks6S,0.788,0.435,['world'],0.0,6,0.0819,-10.151,0,50,0.0372,111.992,4,725xsrRfUExIlatLNHiKNH,Imik Si Mik - Remastered Version,0.771
+87,0.0925,Zaider,spotify:artist:5Wuz885csKSCJoBNsOSCxz,0.757,0.788,"['champeta', 'vallenato']",0.0,0,0.16,-6.437,1,32,0.0486,100.047,4,57gNpEBAn3HOR6CizOzZdQ,Te Va a Doler,0.962
+88,0.0118,Zaïko Langa Langa,spotify:artist:0OHdN2jAGEqxSKBQQIs54k,0.602,0.6,"['african gospel', 'makossa', 'soukous']",6.98e-05,5,0.138,-13.84,1,23,0.0482,131.286,4,0tMRGTcuBU8mXs7Nvd45tg,Muvaro,0.941
+89,0.895,Zaim Imamović,spotify:artist:7FH9pZHB5Rtfl4MO7WNCUO,0.417,0.408,['sevdah'],0.0,2,0.391,-7.389,1,0,0.0326,115.205,4,6WzWd00u7ZuLvgOVqYk88M,Često Mlađan Prošetah Kraj Drine,0.373
+90,0.655,Zain Bhikha,spotify:artist:2S9mgYENcr2X6A4rRU83cb,0.717,0.391,['nasheed'],1.08e-06,5,0.0948,-10.893,0,40,0.0378,114.993,4,6k3RBYi9uGjrLRPXAO65jL,Mountains of Makkah,0.722
+91,0.000804,Zaine Griff,spotify:artist:3pOc46WCIxqlE5cCCtYzMl,0.685,0.787,['deep new wave'],0.00106,0,0.268,-4.502,1,13,0.0279,124.173,4,1COyQLPy8uyfihEFyPGHqL,Ashes and Diamonds,0.797
+92,0.503,Zaino,spotify:artist:4845qeHnxFNCasWlLszjGZ,0.603,0.638,['tejano'],0.000288,7,0.0947,-7.955,1,19,0.0558,158.019,4,1x0lMfsLiSa0p8xqPqADtb,No Podre Sobrevivir,0.801
+93,0.00531,Zak,spotify:artist:6Gk5hoM7eW8NSCYhICMDHw,0.768,0.682,"['indie anthem-folk', 'pop', 'tropical house']",0.0,2,0.106,-4.856,0,73,0.101,110.055,4,4E8u5JsVnF3qPXbNiR9m25,Love Song,0.598
+94,0.00531,Zak Abel,spotify:artist:6Gk5hoM7eW8NSCYhICMDHw,0.768,0.682,"['indie anthem-folk', 'pop', 'tropical house']",0.0,2,0.106,-4.856,0,73,0.101,110.055,4,4E8u5JsVnF3qPXbNiR9m25,Love Song,0.598
+95,0.00531,Zak Bagans vs Praga Khan,spotify:artist:6Gk5hoM7eW8NSCYhICMDHw,0.768,0.682,"['indie anthem-folk', 'pop', 'tropical house']",0.0,2,0.106,-4.856,0,73,0.101,110.055,4,4E8u5JsVnF3qPXbNiR9m25,Love Song,0.598
+96,0.0322,Zak Downtown,spotify:artist:2qcAIycColPoLfaz16NvbI,0.714,0.688,['indie pop rap'],3.39e-06,11,0.105,-7.984,1,46,0.306,145.061,4,14bZispAEUjbU4w39Wpruq,Kylie Kendall,0.715
+97,0.0602,ZAK VAN NIEKERK,spotify:artist:1O1mEcZl77EcUEuqgkgPAp,0.614,0.859,['afrikaans'],0.0,7,0.308,-6.893,1,0,0.226,160.0,4,2jzPenwFFkKunhzFhoPAv8,Bly Vir Nog Net Een (met Zak van Niekerk),0.827
+98,0.0117,Zak Waters,spotify:artist:5CdJjUi9f0cVgo9nFuJrFa,0.321,0.909,['indie poptimism'],0.0987,11,0.107,-4.159,0,46,0.0697,100.567,3,0ZJDuC20QYwbXzHffx6N90,Fade (feat. Zak Waters),0.039
+99,0.0726,Zak Williams & 1/Akord,spotify:artist:2m0atJu7GBWjXRGlsBYdeF,0.599,0.855,['praise'],0.0,1,0.078,-4.848,1,9,0.12,86.029,4,4WgYWc1NtFvHHbcxIEh2oG,He's All I Need (feat. Bishop Bruce V. Parham),0.604
+100,0.0145,Zakes Bantwini,spotify:artist:5mZLaYqN0ZkjxfeUUmiuqL,0.713,0.833,"['afro house', 'deep house', 'gqom', 'kwaito house']",0.000121,10,0.0216,-8.288,0,21,0.0658,124.997,4,3SlFZuqctsJymw9RpZX0Y1,Clap Your Hands - Club Mix,0.684
+101,0.146,Zaki Ibrahim,spotify:artist:1h3GrJokWIvpbdKn6h4Owq,0.755,0.548,['canadian pop'],0.0815,5,0.104,-6.125,0,27,0.0408,92.022,4,2LCxiEwxN2wznVI62Uz8XH,Yes! (Featuring Zaki Ibrahim),0.586
+102,0.552,Zaki Nassif,spotify:artist:0dwFxqYkvZLSA6U6XfQcDV,0.515,0.305,['classic arab pop'],3.51e-05,0,0.335,-12.528,1,25,0.0304,94.441,4,2fAx7jV08iwGhBVGiL5w86,Ahwak,0.427
+103,0.958,Zakir,spotify:artist:6DDCjHWtL6jTl1B5wG8tF6,0.579,0.472,"['hindustani classical', 'hindustani instrumental', 'indian classical', 'world fusion']",0.885,9,0.104,-15.192,1,30,0.0541,101.968,3,6BRbXfruMUC0sSPOtqKdiu,Babar - Feat. Detroit Symphony Orchestra,0.308
+104,0.958,Zakir,spotify:artist:6DDCjHWtL6jTl1B5wG8tF6,0.579,0.472,"['hindustani classical', 'hindustani instrumental', 'indian classical', 'world fusion']",0.885,9,0.104,-15.192,1,30,0.0541,101.968,3,6BRbXfruMUC0sSPOtqKdiu,Babar - Feat. Detroit Symphony Orchestra,0.308
+105,0.958,Zakir Hussain,spotify:artist:6DDCjHWtL6jTl1B5wG8tF6,0.579,0.472,"['hindustani classical', 'hindustani instrumental', 'indian classical', 'world fusion']",0.885,9,0.104,-15.192,1,30,0.0541,101.968,3,6BRbXfruMUC0sSPOtqKdiu,Babar - Feat. Detroit Symphony Orchestra,0.308
+106,0.0199,Zakk Wylde,spotify:artist:64g59lHsc4g2jMFokrKDGW,0.474,0.923,"['groove metal', 'hard rock', 'metal', 'rock']",0.0,2,0.0673,-3.405,1,64,0.0897,160.035,4,3Q8zopc4ABXhysDb1sgLVW,Porn Star Dancing,0.347
+107,0.359,Zakkum,spotify:artist:70Ya7DKJEo20SAkxjirYnu,0.584,0.478,"['deep turkish rock', 'turkish pop', 'turkish rock']",0.00282,10,0.112,-8.479,1,38,0.0316,97.097,4,4dXEUCEfsCOyJVQXQ1cWG2,Hatıran Yeter,0.513
+108,0.565,Zakopower,spotify:artist:7ipF6efgwi4IXIGUWDVN4d,0.719,0.657,"['classic polish pop', 'polish pop']",2.54e-06,2,0.343,-7.649,0,38,0.0304,130.025,4,1Ry5nEzwCJH1CVeFF8vI9x,Boso,0.717
+109,0.123,Zakwe,spotify:artist:3UwmRuIy8S7zs9Gxxusb8u,0.788,0.82,"['kwaito', 'kwaito house', 'south african hip hop']",0.0,7,0.182,-6.338,1,0,0.174,106.974,4,7HS0w9qtEcIx4HmljO8afX,Get Down (feat. Zakwe),0.767
+110,0.112,Zalama Crew,spotify:artist:6FaSJ1FXpb5QxKu77LPiZr,0.704,0.717,['colombian hip hop'],0.0,8,0.448,-13.693,1,20,0.0681,100.937,4,0ZNYPjzxofsaHnj95XottV,Calentura Mi Son,0.699
+111,0.607,Zalem Delarbre,spotify:artist:4Qc9b2ddJEE77DjrRNixyL,0.565,0.354,"['didgeridoo', 'new tribe']",0.569,9,0.088,-11.987,0,10,0.0844,115.422,4,2ilGgtrD2WjGpvMhuSIKpB,Prashumna,0.192
+112,0.141,Zalo Reyes,spotify:artist:6J9Vq69rGl3fJftWDT8jaK,0.621,0.762,['nueva cancion'],0.0,9,0.502,-5.828,1,40,0.0408,149.965,4,4y7VqeIlakC0MLyi9XxTYu,Prisionera (feat. Zalo Reyes),0.858
+113,0.141,Zalo Reyes,spotify:artist:6J9Vq69rGl3fJftWDT8jaK,0.621,0.762,['nueva cancion'],0.0,9,0.502,-5.828,1,40,0.0408,149.965,4,4y7VqeIlakC0MLyi9XxTYu,Prisionera (feat. Zalo Reyes),0.858
+114,0.0087,Zalza,spotify:artist:2Z8uw0b49TctXxO4yLX6GM,0.573,0.786,"['chiptune', 'deep chiptune']",0.196,1,0.434,-8.806,1,21,0.0298,140.019,4,6ibfO3qu7g7vSWKEEfiLvF,Interconnected,0.47
+115,0.0262,Zamaera,spotify:artist:615EQd7FBV6I9KZahoOttg,0.911,0.559,['malaysian hip hop'],0.0,4,0.0879,-8.207,0,27,0.239,120.0,4,6cxfxDyVsdwKyYlyu15eJN,Still Callin,0.364
+116,0.271,Zamajobe,spotify:artist:4wJoiQmG43ZNUSvlj6uDYv,0.572,0.332,"['kwaito', 'south african jazz']",1.16e-06,3,0.0902,-10.511,1,18,0.0342,169.882,3,0syt5xfbxS2n888ZPib8ES,Ndawo Yami,0.283
+117,0.0475,Zamalek Musicians,spotify:artist:1TH0tItd2k7vtzZvcYoU2y,0.47,0.833,['belly dance'],0.735,2,0.114,-7.656,1,17,0.0425,148.002,4,2h1AujEnXYbmN3jGdvySG4,Warda,0.464
+118,0.00153,Zamali,spotify:artist:7EyQRdOKJyalSRcMC18wk0,0.814,0.815,"['funky breaks', 'mashup']",0.682,7,0.0514,-6.519,1,13,0.0634,119.988,4,5OhomNYWllH2lj3UbfqH7J,Afro Night - Afternoons In Stereo Remix,0.653
+119,0.748,Zamba Quipildor,spotify:artist:0JrdEHsuwvc3ZWUVSCxrC8,0.626,0.332,['folklore argentino'],0.0,11,0.103,-14.393,0,1,0.94,168.183,5,7ez2Pek1J0bJmxcYqjIF65,Zamba Quipildor,0.536
+120,0.773,Zambayonny,spotify:artist:7KTtecVDKYpIseUdqdNDpd,0.543,0.477,"['argentine rock', 'rock en espanol']",0.0,0,0.89,-9.514,1,28,0.301,146.646,4,3GcBxR9pKYhdOfccx6oP1c,Yo los Considero Mis Hermanos - En Vivo,0.456
+121,0.636,Zambo Cavero,spotify:artist:57r5TRhcLSOAxl2zntsPMM,0.622,0.398,"['classic peruvian pop', 'peruvian rock']",0.0,0,0.0588,-13.089,1,39,0.0461,121.531,3,0eKnAWw6WchK2M7uZFDYKp,Y Se Llama Perú,0.761
+122,0.685,Zámbó Jimmy,spotify:artist:7pZH7c4HbKE0ONErpw9cjP,0.604,0.478,['hungarian pop'],8.41e-06,7,0.153,-10.461,0,29,0.0268,85.127,4,3ZKJF9w5X0vvPFyVInI3QO,Még nem veszíthetek,0.377
+123,0.639,Zamdane,spotify:artist:5CtPAGoxpJ4yLJLx6CSrO8,0.748,0.594,['french hip hop'],9e-05,1,0.115,-7.931,1,51,0.0867,131.962,4,5cWKh0tzGKbiaNzh2IxTPW,Favaro,0.557
+124,0.842,Zamfir,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.434,0.304,['panpipe'],0.796,2,0.1,-10.798,0,52,0.0472,66.486,4,3OQEVjVEQ6CvfAJ6XhTs6c,The Lonely Shepherd,0.108
+125,0.969,Zamir Chorale Of Boston,spotify:artist:5QnphnrokgNXrqLlPfyaAi,0.274,0.13,['judaica'],0.783,2,0.0856,-16.984,1,3,0.0354,116.891,4,2gqN6Wj1lfGzzvwFce8Evy,Halleluyoh,0.182
+126,0.479,Zamorales,spotify:artist:44fvCLlJ0stodHbkPpx7yE,0.761,0.442,['tejano'],1.84e-06,10,0.0471,-11.322,1,33,0.0556,134.975,4,4iE6ezvQFlVZWHvkSYxZMN,Diganle,0.817
+127,0.00157,Zamour,spotify:artist:6WXulwpNTeqRF9oOo2xHyY,0.45,0.715,['norwegian hip hop'],4.01e-06,1,0.282,-8.2,1,34,0.128,154.152,4,2LwADvWzyczQ8HtEZQA1nH,Alltid Ekte (feat. Kaveh),0.424
+128,0.787,Zampa,spotify:artist:64Ne9xbQUL91scDAPm7I7k,0.301,0.242,['italian hip hop'],0.66,2,0.0995,-19.101,1,7,0.0572,90.794,4,2Qo3clBy65QERM4A1xEda4,Zampa: Zampa: Overture,0.101
+129,0.347,Zamru Lo Singers,spotify:artist:71v8BUsXgb3zRapNb0ttit,0.592,0.541,['judaica'],1.09e-06,0,0.683,-16.145,0,7,0.0727,82.705,4,4ftvunKvO3bw41naSACzuv,Al Tirau,0.885
+130,0.0119,Zamunda,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.624,0.858,['riddim'],0.652,2,0.102,-9.802,1,12,0.0621,132.0,4,1FEcrcZPVnwEfVvXeDiGmD,Zamunda,0.367
+131,0.00766,Zander Bleck,spotify:artist:698G3wWsZuPgeBhS9i7qe6,0.837,0.762,['deep dance pop'],0.00213,1,0.37,-8.016,1,60,0.114,118.017,4,4cigi6EcXoqShXGEIGd6sX,Mercy Me (Black Caviar Remix),0.448
+132,0.239,Zane,spotify:artist:5ZsFI1h6hIdQRw2ti0hz81,0.46,0.567,"['dance pop', 'pop', 'post-teen pop']",6.04e-06,9,0.0934,-5.637,1,88,0.0515,168.419,4,7Fg342AJtNsIDdwCfX0paC,Let Me,0.189
+133,0.239,Zane,spotify:artist:5ZsFI1h6hIdQRw2ti0hz81,0.46,0.567,"['dance pop', 'pop', 'post-teen pop']",6.04e-06,9,0.0934,-5.637,1,88,0.0515,168.419,4,7Fg342AJtNsIDdwCfX0paC,Let Me,0.189
+134,0.133,Zane Lamprey,spotify:artist:1aOaQIfJGskyjEwjGWt9OV,0.677,0.732,['deep comedy'],0.0,9,0.723,-5.654,0,11,0.0399,121.963,4,3NKfHQfk9XHg4rS02c0uzI,Tits McGee,0.731
+135,0.0213,Zane Williams,spotify:artist:7LjXLho6TAS9wkSfnjd0AX,0.58,0.639,"['deep texas country', 'outlaw country', 'texas country']",0.000151,8,0.203,-6.313,0,43,0.0243,108.917,4,5rj1jiNzy1CXpWIt1u9w4a,Little Too Late,0.431
+136,0.377,Zangalewa,spotify:artist:4rtFg7cEsAF8HWz52p1vs7,0.756,0.837,['makossa'],0.0,2,0.645,-7.03,1,22,0.109,129.166,4,0SRANulkRghboNh80WLOde,Zangalewa,0.844
+137,0.372,Zangeres Zonder Naam,spotify:artist:6m9EYPGGPleNS457wrg9p9,0.641,0.566,"['classic dutch pop', 'dutch pop', 'levenslied', ""traditional rock 'n roll""]",0.0,5,0.161,-8.067,1,1,0.0323,117.154,4,56iNx0n5COZVBx94iGgtCx,In eenzame nachten,0.772
+138,0.944,Zani Diabaté,spotify:artist:378IxbknUgf7P09lmhyRdH,0.726,0.268,"['desert blues', 'mande pop']",0.18,11,0.114,-14.562,1,0,0.0745,141.034,4,2ezOzjeHniP8n5ONnpty3t,Kanunyogo,0.895
+139,0.079,Zanon,spotify:artist:2r7sssoF6zZbPOG0U0YOem,0.488,0.773,['classical guitar'],0.769,8,0.308,-5.788,0,40,0.0586,103.523,3,3Ea6vSL1LrHcwMiqoN1Snu,Dugly Dagly,0.394
+140,0.915,Zanski,spotify:artist:6IVta6osiP9HifjCLIw4cv,0.768,0.173,['vapor soul'],0.851,1,0.122,-19.489,0,40,0.287,89.989,4,2KY54p2m5C2UN2HxXkfRAU,Move (B-Side),0.374
+141,0.858,Zantalino and his Orchestra,spotify:artist:1hAiThqHvch6NulBAYgdpl,0.128,0.191,"['ballroom', 'romantico']",0.693,0,0.142,-14.036,0,31,0.0376,66.088,4,59MztcSluAcgWZWfZsocgA,A Time for Us (Love Theme from Romeo and Juliet),0.127
+142,0.0709,Zany,spotify:artist:54pERFIX38yh6A6PkvMNtS,0.653,0.364,"['deep hardstyle', 'happy hardcore', 'hardstyle']",0.8,9,0.145,-16.186,1,20,0.035,101.993,4,5GCn1pEemEytCERd1ZahR5,Zany Thoughts,0.553
+143,0.00349,Zanza Labs,spotify:artist:4IsR1WWz9Yn25IMHsDIwnT,0.76,0.843,['hardstyle'],0.596,4,0.067,-5.817,0,18,0.147,145.002,4,7Jwm9w0PNY1NvVfeAIhfPQ,Control The Mind - NULL,0.0895
+144,0.0003,Zao,spotify:artist:2vqfIznyoJDjhrbNAueQ6s,0.39,0.801,"['christian hardcore', 'christian metal', 'christian punk', 'mathcore', 'melodic metalcore']",0.00224,7,0.0952,-5.685,1,29,0.0699,123.951,4,30AD3nslmfyW7nZDNun1ny,The Rising End (The First Prophecy),0.302
+145,0.0003,Zao,spotify:artist:2vqfIznyoJDjhrbNAueQ6s,0.39,0.801,"['christian hardcore', 'christian metal', 'christian punk', 'mathcore', 'melodic metalcore']",0.00224,7,0.0952,-5.685,1,29,0.0699,123.951,4,30AD3nslmfyW7nZDNun1ny,The Rising End (The First Prophecy),0.302
+146,0.0227,Zap Mama,spotify:artist:1Ah5AeHBzgy2b4u6sJtkLg,0.833,0.492,"['afropop', 'world']",0.000736,1,0.314,-9.87,1,37,0.113,100.005,4,23Qrwkf7kZlzPG4bBIMNVo,La Diaspora (feat. Zap Mama),0.262
+147,0.337,Zapallo,spotify:artist:7fSIwRjwh7VTHCuU9rsuD3,0.59,0.437,['musica para ninos'],0.0,7,0.135,-12.717,1,22,0.026,95.018,4,1xr9X8AM1u4ZQOUWDD0ORr,Run run se fue pal norte,0.584
+148,0.0234,Zapaska,spotify:artist:5yLwXcdXptcHbLHLyyLEvp,0.785,0.745,['ukrainian rock'],0.546,4,0.106,-11.378,0,9,0.0693,130.032,4,0HTY6zdDbxVtRl71i0DviJ,Aliona,0.815
+149,0.0343,Zapato3,spotify:artist:38Wv3iDJm7vyk4OvaHWZxx,0.291,0.91,['venezuelan rock'],7.64e-05,9,0.425,-4.969,0,27,0.0614,145.194,4,2MslpncdKdXHFdv9X5rTOx,Pantaletas negras,0.49
+150,0.396,Zaperoko,spotify:artist:4LglACPlXaxunvInl5tMMu,0.685,0.86,['pop reggaeton'],0.00539,9,0.0997,-5.642,0,48,0.0379,93.987,4,7c6nqHaWrOchPd32EpoGx8,Mala Mujer,0.956
+151,0.124,Zapp,spotify:artist:396Kh0m4wGUvcMUULw71yi,0.85,0.818,"['disco', 'funk', 'gangster rap', 'hip hop', 'motown', 'new jack swing', 'p funk', 'post-disco', 'quiet storm', 'rap', 'soul']",0.00135,0,0.349,-8.623,1,50,0.0904,105.266,4,1LiwqqaafXkNQuWGW3HeId,More Bounce To The Ounce,0.839
+152,0.124,Zapp,spotify:artist:396Kh0m4wGUvcMUULw71yi,0.85,0.818,"['disco', 'funk', 'gangster rap', 'hip hop', 'motown', 'new jack swing', 'p funk', 'post-disco', 'quiet storm', 'rap', 'soul']",0.00135,0,0.349,-8.623,1,50,0.0904,105.266,4,1LiwqqaafXkNQuWGW3HeId,More Bounce To The Ounce,0.839
+153,0.00553,ZAQ,spotify:artist:7ntwmwm4YjHpMO1wwfoQ3T,0.596,0.95,"['anime', 'denpa-kei', 'otacore']",0.0,2,0.291,-2.718,0,47,0.0609,101.463,4,74ZcoP9bqvEvCBJrpEQ3T6,Seven Doors,0.628
+154,0.259,Zara,spotify:artist:6MDME20pz9RveH9rEXvrOM,0.707,0.629,"['dance pop', 'edm', 'pop', 'post-teen pop', 'swedish pop', 'tropical house']",1.6e-05,0,0.138,-4.581,0,85,0.0563,122.863,4,1x5sYLZiu9r5E43kMlt9f8,Symphony (feat. Zara Larsson),0.457
+155,0.259,Zara,spotify:artist:6MDME20pz9RveH9rEXvrOM,0.707,0.629,"['dance pop', 'edm', 'pop', 'post-teen pop', 'swedish pop', 'tropical house']",1.6e-05,0,0.138,-4.581,0,85,0.0563,122.863,4,1x5sYLZiu9r5E43kMlt9f8,Symphony (feat. Zara Larsson),0.457
+156,0.259,Zara,spotify:artist:6MDME20pz9RveH9rEXvrOM,0.707,0.629,"['dance pop', 'edm', 'pop', 'post-teen pop', 'swedish pop', 'tropical house']",1.6e-05,0,0.138,-4.581,0,85,0.0563,122.863,4,1x5sYLZiu9r5E43kMlt9f8,Symphony (feat. Zara Larsson),0.457
+157,0.259,Zara,spotify:artist:6MDME20pz9RveH9rEXvrOM,0.707,0.629,"['dance pop', 'edm', 'pop', 'post-teen pop', 'swedish pop', 'tropical house']",1.6e-05,0,0.138,-4.581,0,85,0.0563,122.863,4,1x5sYLZiu9r5E43kMlt9f8,Symphony (feat. Zara Larsson),0.457
+158,0.259,Zara Larsson,spotify:artist:6MDME20pz9RveH9rEXvrOM,0.707,0.629,"['dance pop', 'edm', 'pop', 'post-teen pop', 'swedish pop', 'tropical house']",1.6e-05,0,0.138,-4.581,0,85,0.0563,122.863,4,1x5sYLZiu9r5E43kMlt9f8,Symphony (feat. Zara Larsson),0.457
+159,0.259,Zara Madani,spotify:artist:6MDME20pz9RveH9rEXvrOM,0.707,0.629,"['dance pop', 'edm', 'pop', 'post-teen pop', 'swedish pop', 'tropical house']",1.6e-05,0,0.138,-4.581,0,85,0.0563,122.863,4,1x5sYLZiu9r5E43kMlt9f8,Symphony (feat. Zara Larsson),0.457
+160,0.872,Zara McFarlane,spotify:artist:2KwROtmoJfRcQHqDMiV6uo,0.63,0.0717,['indie jazz'],1.59e-05,9,0.25,-17.877,0,43,0.0412,120.087,4,4AxT7oW02TqO772n6SGrfh,Plain Gold Ring,0.393
+161,0.987,Zara Nelsova,spotify:artist:5IyFw4BDkNzoMgWoih7IIJ,0.222,0.0641,['cello'],0.772,5,0.1,-21.627,0,11,0.0405,99.916,4,7JBu9Hw5bOblDUPFgvEhdX,From Jewish Life: 1. Prayer,0.211
+162,0.925,Zarah Leander,spotify:artist:5R15K0QUPe4AhP1vaPoaX3,0.488,0.171,"['cabaret', 'vintage schlager', 'vintage swedish pop']",4.98e-05,2,0.679,-12.602,1,21,0.0737,183.904,3,1KsmKaOl4Tpl72fBACEJsg,Davon geht die Welt nicht unter,0.5
+163,0.718,Zarastruta,spotify:artist:02RPe8lsQquxA4NtZJ2chM,0.829,0.357,['brazilian hip hop'],0.0,5,0.126,-7.89,1,43,0.177,108.844,4,0pkZXyR6YkxxqAqNTM0Uxl,E Aí Moleque,0.797
+164,1.91e-05,Zardonic,spotify:artist:384RPjoLeqSOcy5qS9oQgX,0.3,0.964,"['darkstep', 'neurofunk']",0.000829,7,0.177,-3.862,1,48,0.162,178.017,4,0OqXkISVhUWXmD7FcUyDa3,Start A War (Zardonic Remix),0.0895
+165,1.91e-05,Zardonic & Counterstrike & Gein & Robyn Chaos,spotify:artist:384RPjoLeqSOcy5qS9oQgX,0.3,0.964,"['darkstep', 'neurofunk']",0.000829,7,0.177,-3.862,1,48,0.162,178.017,4,0OqXkISVhUWXmD7FcUyDa3,Start A War (Zardonic Remix),0.0895
+166,1.91e-05,Zardonic and Playma,spotify:artist:384RPjoLeqSOcy5qS9oQgX,0.3,0.964,"['darkstep', 'neurofunk']",0.000829,7,0.177,-3.862,1,48,0.162,178.017,4,0OqXkISVhUWXmD7FcUyDa3,Start A War (Zardonic Remix),0.0895
+167,1.91e-05,Zardonic and Voicians,spotify:artist:384RPjoLeqSOcy5qS9oQgX,0.3,0.964,"['darkstep', 'neurofunk']",0.000829,7,0.177,-3.862,1,48,0.162,178.017,4,0OqXkISVhUWXmD7FcUyDa3,Start A War (Zardonic Remix),0.0895
+168,0.004,Zareh Kan,spotify:artist:5yePldMswAMD9fvIfRUc2o,0.806,0.951,['hard minimal techno'],0.947,3,0.0788,-5.653,1,30,0.0502,128.002,4,2A16yOyDa4zTgz23nDv9iG,Wealth & Power - Zareh Kan Remix,0.391
+169,0.00643,Zarif,spotify:artist:3P3GwNzN4Sa1SvRPwKq837,0.731,0.711,['electro swing'],0.0,11,0.0608,-5.441,0,35,0.0841,94.673,4,6Cc4kY7fOsRJwgvfIO4VPG,Box of Secrets - Original Mix,0.683
+170,0.796,Zariz,spotify:artist:5lBKndRqULBZZX0xVuzAjH,0.791,0.278,['romantico'],0.78,5,0.0852,-13.606,1,37,0.0348,100.066,4,2lD4IvKSvSYqWyM4QyRFSZ,Los Sonidos del Silencio,0.706
+171,0.704,Zarpazo Musical,spotify:artist:0fYh4zuzZ0AXsMl6OetJVd,0.697,0.584,['duranguense'],0.000115,3,0.0749,-5.38,0,9,0.0305,104.945,4,1W968kD6ceY7na3ZlAHiA4,Zarpazo,0.772
+172,0.0535,Zas,spotify:artist:3YG18nhGaJkR1F6VpcnSG6,0.627,0.736,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']",3.33e-05,4,0.0239,-6.715,1,56,0.0386,144.651,4,25NeGSHqObqSJg79oir7pB,Cuando Seas Grande,0.774
+173,0.151,Zascha,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.616,0.715,"['deep discofox', 'discofox']",0.0,1,0.208,-3.627,1,2,0.0307,190.12,3,2Jpp5zx7xdNS9mvAgrGAv4,Zascha's Schunkel-Hitmix,0.854
+174,0.00956,Zaskia Gotik,spotify:artist:3DxLRI4vqNQ3jTJOVzOphL,0.663,0.984,['dangdut'],0.00315,6,0.209,-5.149,0,41,0.035,135.019,4,5Htx3GlNLvNo3Ssk5XuRKn,1000 Alasan,0.922
+175,0.989,The Zaslav Duo,spotify:artist:40Mol6I4qSaFwl7cLhNGQ9,0.206,0.0271,['viola'],0.816,4,0.0992,-25.708,1,9,0.0437,171.171,4,6sLaJJd7X4wlO7Y8uxF6C7,"Variations on an original theme, Op. 10",0.0399
+176,0.989,Zat Project,spotify:artist:40Mol6I4qSaFwl7cLhNGQ9,0.206,0.0271,['viola'],0.816,4,0.0992,-25.708,1,9,0.0437,171.171,4,6sLaJJd7X4wlO7Y8uxF6C7,"Variations on an original theme, Op. 10",0.0399
+177,0.222,Zato DJ,spotify:artist:75VwO8amb6eCuE9gYagNZZ,0.831,0.811,['cumbia pop'],0.206,0,0.0402,-2.584,1,32,0.0548,101.993,4,3BhbAUjt6cLjZaj1lLdLBT,Mayores,0.873
+178,0.0289,Zatopeks,spotify:artist:244vEnCU38X359TxXDdagx,0.188,0.694,"['deep power-pop punk', 'power-pop punk']",0.0,2,0.0907,-11.568,1,1,0.0481,84.742,4,4QtqbMR79tIa0JcgcJJTJS,Even Zatopeks Cry,0.203
+179,0.00141,Zatox,spotify:artist:5RKCVcnmcgyhFf85I4Ry9O,0.534,0.984,"['deep hardstyle', 'hardstyle']",0.000116,9,0.306,-3.884,0,39,0.276,149.993,4,7DWNnaj72xiJrv0uNBiZV8,Legends (Zatox Remix) [feat. TeamMate],0.111
+180,0.264,Zaturno,spotify:artist:6P8YjImNhI3N6nrCEEhISo,0.706,0.763,['rap chileno'],0.0,2,0.0749,-6.318,1,38,0.163,89.92,4,0JTUyll1bmiOv9NAAECRzs,Asi Yo Soy,0.821
+181,0.312,Zauntee,spotify:artist:7jyr9Co4MKL1iWML1G7vch,0.706,0.638,"['christian hip hop', 'christian trap']",0.0,11,0.103,-4.18,0,49,0.0916,130.066,4,44wnvKcIyLSSLE7xiUguXk,God Taught Me,0.47
+182,0.312,Zauntee,spotify:artist:7jyr9Co4MKL1iWML1G7vch,0.706,0.638,"['christian hip hop', 'christian trap']",0.0,11,0.103,-4.18,0,49,0.0916,130.066,4,44wnvKcIyLSSLE7xiUguXk,God Taught Me,0.47
+183,0.887,Zavala,spotify:artist:0UH4eoqwQgADwRoaKtEKc1,0.457,0.312,['latin christian'],0.0,3,0.0727,-8.911,1,57,0.0351,109.755,4,1mjyjgatJGw8DtNTejtztn,El Padre Que Siempre Soñe,0.349
+184,0.414,Zaw Paing,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.662,0.769,['burmese pop'],0.0,7,0.974,-7.446,1,18,0.0455,117.078,4,0QIuvsLz7SACvhyIFJm7HK,Yin Khone Ya Lon Loh,0.745
+185,0.427,Zawezo Del'patio,spotify:artist:7iJrDbKM5fEkGdm5kpjFzS,0.741,0.791,['merengue urbano'],0.0,1,0.124,-5.686,1,11,0.263,159.91,4,0EOdo8JNRnlVRWBmZYkkvY,Pensando en Ti (feat. Zawezo),0.707
+186,0.00445,Zaxx,spotify:artist:69GGBxA162lTqCwzJG5jLp,0.677,0.881,"['deep big room', 'sky room']",0.0146,1,0.359,-3.534,0,59,0.054,128.121,4,5MgBUUjbkQ27Kd9CbeZFLo,Roses - Zaxx Remix,0.566
+187,0.00445,Zaxx,spotify:artist:69GGBxA162lTqCwzJG5jLp,0.677,0.881,"['deep big room', 'sky room']",0.0146,1,0.359,-3.534,0,59,0.054,128.121,4,5MgBUUjbkQ27Kd9CbeZFLo,Roses - Zaxx Remix,0.566
+188,0.00445,Zaxx,spotify:artist:69GGBxA162lTqCwzJG5jLp,0.677,0.881,"['deep big room', 'sky room']",0.0146,1,0.359,-3.534,0,59,0.054,128.121,4,5MgBUUjbkQ27Kd9CbeZFLo,Roses - Zaxx Remix,0.566
+189,0.00381,Zay,spotify:artist:7nKeLE1toRtW4M279iS26h,0.807,0.887,['dwn trap'],0.0,1,0.391,-3.892,1,67,0.275,160.517,4,1lItf5ZXJc1by9SbPeljFd,Juju On That Beat (TZ Anthem),0.78
+190,0.00381,Zay,spotify:artist:7nKeLE1toRtW4M279iS26h,0.807,0.887,['dwn trap'],0.0,1,0.391,-3.892,1,67,0.275,160.517,4,1lItf5ZXJc1by9SbPeljFd,Juju On That Beat (TZ Anthem),0.78
+191,0.00381,Zay,spotify:artist:7nKeLE1toRtW4M279iS26h,0.807,0.887,['dwn trap'],0.0,1,0.391,-3.892,1,67,0.275,160.517,4,1lItf5ZXJc1by9SbPeljFd,Juju On That Beat (TZ Anthem),0.78
+192,0.457,Zay Gaines,spotify:artist:36TGx7BxtQA4uz6irWnX3T,0.708,0.483,['teen pop'],0.0,3,0.0466,-13.103,0,26,0.1,120.04,4,1CgvLnic8kjKMfrPCTqaub,Doesn't Make Sense (feat. Zay Gaines),0.712
+193,0.00381,Zay Hilfigerrr,spotify:artist:7nKeLE1toRtW4M279iS26h,0.807,0.887,['dwn trap'],0.0,1,0.391,-3.892,1,67,0.275,160.517,4,1lItf5ZXJc1by9SbPeljFd,Juju On That Beat (TZ Anthem),0.78
+194,0.151,Zayana,spotify:artist:0UaovQ3AOfm1NWEnw9m1I4,0.719,0.817,['cumbia villera'],0.0047,7,0.0733,-3.555,1,26,0.053,90.017,4,2AcbRJ3wGoh7ieEkY5jR7d,Diez Noches,0.821
+195,0.504,Zayda,spotify:artist:7qwl1dGrHx7WenglzKiJwd,0.677,0.517,['cumbia sonidera'],4.1e-05,3,0.144,-9.311,1,26,0.0251,88.019,4,3VRPva04fMWup49lokMD9R,De Contrabando,0.545
+196,0.0263,Zayde Wølf,spotify:artist:7LIy7KinYq7a83dUH6kvxT,0.54,0.78,['modern alternative rock'],7.12e-06,9,0.35,-5.872,1,57,0.0418,144.011,4,5ezjiqla1EIIXUOWrs2aGu,Gladiator,0.514
+197,0.239,ZAYN,spotify:artist:5ZsFI1h6hIdQRw2ti0hz81,0.46,0.567,"['dance pop', 'pop', 'post-teen pop']",6.04e-06,9,0.0934,-5.637,1,88,0.0515,168.419,4,7Fg342AJtNsIDdwCfX0paC,Let Me,0.189
+198,0.239,Zayn,spotify:artist:5ZsFI1h6hIdQRw2ti0hz81,0.46,0.567,"['dance pop', 'pop', 'post-teen pop']",6.04e-06,9,0.0934,-5.637,1,88,0.0515,168.419,4,7Fg342AJtNsIDdwCfX0paC,Let Me,0.189
+199,0.00541,Zayra,spotify:artist:4xTiWBThjZgo1uZn1WpZm3,0.765,0.775,['deep vocal house'],1.92e-06,9,0.635,-8.422,1,31,0.0509,122.046,4,7r1BQo6IpETn73xyriAVmJ,Aynik Zayra - Radio Edit,0.729
+200,0.0273,Zaytoven,spotify:artist:1CFCsEqKrCyvAFKOATQHiW,0.88,0.585,"['dirty south rap', 'gangster rap', 'pop rap', 'rap', 'southern hip hop', 'trap music', 'vapor trap']",0.0,1,0.0942,-6.695,0,63,0.178,139.979,4,2xt685SlfvEGDhxynYolRu,Get Back Right,0.533
+201,0.0907,ZAZEN BOYS,spotify:artist:6oAUOiOlMM5wvNfu2xikvM,0.502,0.807,"['j-indie', 'j-rock']",0.000113,5,0.128,-5.807,1,10,0.108,68.59,4,5CoSvxPeJhhHc0lve8iKlp,Potato Salad,0.693
+202,0.73,Zazhil,spotify:artist:58cZjsDmRR5WE8xZdfxVWo,0.623,0.721,['mexican son'],0.627,2,0.297,-9.03,1,8,0.0699,189.031,3,5waKcDqfkc6WzsVmCBFSa1,Sones de Tamborileros (Tabasco),0.896
+203,0.312,Zazie,spotify:artist:3FLS6y4AR3126l4D06V0ZD,0.54,0.706,"['chanson', 'french pop', 'french rock']",0.00308,10,0.101,-5.686,0,34,0.0278,85.172,4,2cQXsuV1hJTz4TY1Eucd5i,Je suis un homme,0.479
+204,0.758,Zbigniew Preisner,spotify:artist:3gGbSXSwHWmrUBIG9IUAau,0.245,0.385,['soundtrack'],0.372,2,0.0833,-12.949,0,37,0.0526,124.437,3,5q3UC6NG93EmH4q8WL7NDV,Lacrimosa,0.039
+205,0.699,Zbigniew Wodecki,spotify:artist:4WNxiqxAHcXWK9jWdevCIn,0.229,0.642,"['classic polish pop', 'polish pop']",4.2e-05,9,0.242,-5.646,0,45,0.0462,172.741,3,3nbwh7bLMjoyZadjRMItz4,Zacznij od Bacha,0.299
+206,0.699,Zbigniew Wodecki / Mitch & Mitch,spotify:artist:4WNxiqxAHcXWK9jWdevCIn,0.229,0.642,"['classic polish pop', 'polish pop']",4.2e-05,9,0.242,-5.646,0,45,0.0462,172.741,3,11iQIrOyUNjzH6jJtC3NIb,Rzuć Wszystko Co Złe,0.299
+207,0.994,Zdeněk Fibich,spotify:artist:6203wnH5ZX6U1s3CYacHKx,0.285,0.0744,['romantic era'],0.92,10,0.0966,-26.13,1,3,0.0413,156.46,4,2kwlG6g0tmpSCuXOwTJYG6,"The Spring, Op. 1",0.152
+208,0.879,Zdeněk Svěrák,spotify:artist:1SRNWHkYAFPb9Pl8sptF5D,0.6,0.091,['classic czech pop'],0.000114,3,0.153,-20.102,1,9,0.911,75.536,4,22s8McW01hV3OnlIUAYKJt,Padlí,0.235
+209,0.983,Zdeněk Tylšar,spotify:artist:4GlxaCsZ8CpIcwIgAk1Bog,0.57,0.116,['classical horn'],0.569,4,0.0986,-18.041,1,14,0.0477,109.039,3,3JpHCrp6YRg9IP8uuES9N5,"Concertino for French Horn and Orchestra in E minor, Op. 45: III. Polacca (attacca)",0.508
+210,0.0931,Zdob Shi Zdub,spotify:artist:2zBXlwB9d2dySXYoAYaD97,0.681,0.859,['romanian rock'],0.0,2,0.251,-3.985,1,13,0.0534,140.029,4,7vcexjXaCC6H2u5Qpg99yq,DJ Vasile,0.943
+211,0.0666,Zdob si Zdub,spotify:artist:21fmCv0mg9Xwnv3WE4mFKu,0.54,0.72,"['gypsy punk', 'romanian rock']",5.91e-05,5,0.444,-8.741,1,26,0.0475,145.065,4,4JsDJfiADbf9gHAgRckxbR,Videli noci,0.629
+212,0.174,Zdoggmd,spotify:artist:3lHfVj0WeHAixKa3Rwgq1L,0.722,0.478,['comic'],0.0,8,0.314,-8.379,1,15,0.0465,132.893,4,0gz2FZr4q3RIiClOXfZFAe,Readmission,0.842
+213,0.0793,Zdot,spotify:artist:5CCwRZC6euC8Odo6y9X8jr,0.755,0.632,['grime'],3.75e-05,2,0.103,-8.139,1,49,0.0559,134.014,4,0PFxreXPMlzz74HGL4AtVC,Poison - Zdot Remix,0.357
+214,0.724,Zdravko Colic,spotify:artist:3Lf5uaye2qaiLNrNDCLraN,0.564,0.478,"['croatian pop', 'sevdah', 'turbo folk', 'yugoslav rock']",0.0,11,0.101,-10.737,0,34,0.0285,136.383,4,5ATmlFBsWEd3BsAr3W83lx,Ti Si Mi U Krvi,0.344
+215,0.579,Zdravko Skender,spotify:artist:1LRhu0RpeuwEvygXaWWKbR,0.55,0.737,['croatian pop'],0.0,4,0.412,-6.665,1,11,0.0373,115.51,4,6B1Md8iUKru0ANq3clnMJW,Ne Mogu Da Te Zaboravim,0.403
+216,0.00662,Zdzisława Sośnicka,spotify:artist:6jEmFzQnu1bB5tP23Jvw7e,0.65,0.895,['classic polish pop'],0.00171,2,0.0555,-4.923,0,23,0.0381,124.437,4,0sp2l6w11G6JtvQq9GvSSG,Uczymy Się Żyć Bez Końca,0.364
+217,0.318,ZE,spotify:artist:6BrvowZBreEkXzJQMpL174,0.877,0.797,['sertanejo universitario'],0.0,1,0.0978,-3.256,0,75,0.0587,100.01,4,2zW8y5ry4YudAPnLmagr1c,Ze Willen Mee,0.4
+218,0.141,Zé Amaro,spotify:artist:4RPhwXdkeoT1IYQ1sQIEvi,0.732,0.869,['classic portuguese pop'],0.0,2,0.0433,-5.488,1,25,0.0577,94.016,4,3cSS2goJHBcEtzP5diresp,Malhão do Beijo,0.864
+219,0.24,Ze Carlos,spotify:artist:7HzALt2qq3VMMJ7eTqgTNY,0.871,0.66,['kizomba'],0.0,10,0.0896,-8.694,1,1,0.321,126.657,4,1QqlPevjkDBpMwgJat7w5F,Zé Carlos,0.848
+220,0.227,Zé da Velha,spotify:artist:4vKCAkbdulcqatglgbi5CG,0.714,0.756,['choro'],0.0,7,0.162,-6.47,1,29,0.255,103.944,4,1iD8aC8wRxtkEA7kSHZrmA,Interessa,0.789
+221,0.132,Zé do Pipo,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.683,0.876,['classic portuguese pop'],0.0,8,0.109,-4.43,1,14,0.0578,145.077,4,2HP18HRgUSuSdmxT35hVIx,Zé do Pipo Enfermeiro,0.926
+222,0.0683,Ze Esatek!,spotify:artist:78KyjEfbcGzw1SUwqwMNAC,0.52,0.184,['basque rock'],0.0107,7,0.0914,-7.67,1,8,0.0861,110.043,4,2vBCyVgrtTDLYlY5Y90wai,Ze Esatek!,0.107
+223,0.272,Zé Felipe,spotify:artist:0eecdvMrqBftK0M1VKhaF4,0.731,0.881,"['sertanejo pop', 'sertanejo universitario']",0.0,10,0.353,-3.693,1,48,0.0403,90.019,4,3WgedncDUcOnLkpJxfYg4q,Tan Fácil - Spanish-Portuguese Version,0.465
+224,0.356,Zé Geraldo,spotify:artist:4ph6Bt1mkDlmf32PSvRa8A,0.723,0.596,['brega'],0.0,2,0.15,-10.124,1,54,0.0692,112.121,4,69WUlAhRkKerjAxMdyaUlZ,Ai Que Saudade D'Ocê,0.413
+225,0.671,Zé Henrique & Gabriel,spotify:artist:5Dyg6H3QJHQV5c7ojyKWyv,0.623,0.711,"['sertanejo', 'sertanejo pop', 'sertanejo universitario']",0.0,11,0.38,-5.456,1,58,0.0417,140.027,4,5G4tRxI3mBlv3zq3mlOe05,Não Fui Capaz De Te Esquecer - Ao Vivo,0.54
+226,0.714,Zé Keti,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.517,0.646,"['choro', 'samba', 'velha guarda']",1.94e-06,9,0.132,-10.736,1,43,0.092,111.744,4,6ItZuqcTniqKVEwENXoDBP,A Voz do Morro,0.955
+227,0.18,Matteo,spotify:artist:31s5WlyPC6fwjO56yCwors,0.866,0.723,"['electro latino', 'romanian pop']",0.0,1,0.196,-6.539,0,51,0.0363,99.977,4,14nzS3IzR9JIk26IX8iL3P,Panama,0.963
+228,0.185,Zé Miguel Wisnik,spotify:artist:5FVYrkTlyUHUXegj892Zni,0.783,0.843,['deep brazilian pop'],0.014,2,0.338,-11.793,1,34,0.0498,104.85,4,5akZURoD4WDkdh6ElAcwJX,Xiquexique,0.875
+229,0.866,Zé Mulato & Cassiano,spotify:artist:0gptnz0qXtSowkqUYhqOKU,0.819,0.403,"['sertanejo', 'sertanejo tradicional']",0.0,11,0.117,-6.86,1,3,0.0395,98.152,3,58mnTiAaY9SWg88q4DgkUO,A Vida é Dura Pra Quem é Mole,0.656
+230,0.587,Zé Neto & Cristiano,spotify:artist:487N2T9nIPEHrlTZLL3SQs,0.799,0.743,['sertanejo universitario'],0.0,3,0.287,-6.062,0,80,0.041,121.99,4,74gguwbBvfBTurNJUWFOsC,Largado As Traças - Acústico,0.669
+231,0.793,Zé Paulo Becker,spotify:artist:0dsqfNACo3h5n5Ed6rgKG2,0.668,0.383,['choro'],0.000502,2,0.0891,-9.534,1,33,0.0429,116.059,4,6PhAQxUzvScwqDMFbwp70x,A Visita Oficial do Samba - Ao Vivo,0.861
+232,0.837,Zé Ramalho,spotify:artist:7JoWcJHDOG58JYTe6d400S,0.667,0.44,"['brazilian rock', 'forro', 'mpb', 'rock gaucho', 'samba']",0.0014,7,0.198,-9.32,1,60,0.0333,143.843,3,4XYdH6H7haUCeEm9YezQ9K,Chão de Giz,0.34
+233,0.221,Zé Ricardo,spotify:artist:4ZUahcHoVxr4lsrfdmhjhV,0.782,0.868,"['sertanejo pop', 'sertanejo universitario']",0.0,4,0.351,-4.92,1,47,0.0723,127.986,4,3M891uyJH8JRAQzcLgE7iG,Põe Ele pra Nanar - Ao Vivo,0.812
+234,0.221,Zé Ricardo & Thiago,spotify:artist:4ZUahcHoVxr4lsrfdmhjhV,0.782,0.868,"['sertanejo pop', 'sertanejo universitario']",0.0,4,0.351,-4.92,1,47,0.0723,127.986,4,3M891uyJH8JRAQzcLgE7iG,Põe Ele pra Nanar - Ao Vivo,0.812
+235,0.153,Zea Mays,spotify:artist:00NQwUnyEhXRMG7i0N5UIv,0.634,0.483,['basque rock'],0.000316,2,0.124,-6.9,1,42,0.028,131.956,4,3rzps3NV2TB9Nz9IjAbQw0,Negua Joan da ta,0.115
+236,9.89e-05,Zeal,spotify:artist:1XnyRY1hSHsZxiIEX8Nzl5,0.523,0.854,['swiss metal'],0.0,2,0.69,-6.129,1,61,0.0485,130.001,4,3DL0ENqjvC8ThxivuL3AUW,Zeal (feat. Henry Seeley),0.356
+237,9.89e-05,Zeal,spotify:artist:1XnyRY1hSHsZxiIEX8Nzl5,0.523,0.854,['swiss metal'],0.0,2,0.69,-6.129,1,61,0.0485,130.001,4,3DL0ENqjvC8ThxivuL3AUW,Zeal (feat. Henry Seeley),0.356
+238,0.103,Zeal & Ardor,spotify:artist:6yCjbLFZ9qAnWfsy9ujm5Y,0.521,0.58,['swiss metal'],0.007,7,0.194,-7.155,1,46,0.0312,63.978,3,1vWWlYogjUMdHOpZEQkLEw,Gravedigger's Chant,0.377
+239,0.0203,Zealand Worship,spotify:artist:19aBiTPBns4ztx9imMgfRi,0.394,0.754,['anthem worship'],0.0,10,0.0911,-7.814,1,37,0.0609,153.017,3,4W9GKqjYLCNkPuTjFO52Ip,Good Good Father,0.107
+240,0.59,Zealyn,spotify:artist:0ORcnlg4NMByo3oPEjaPae,0.44,0.305,['indie electro-pop'],0.00733,8,0.207,-12.729,1,30,0.0529,113.3,4,5L0uekrIjzfvcvX4gEV1aY,Talk:Listen (Sleeping Lion Remix),0.238
+241,0.0201,Zeana,spotify:artist:73GFzdRqBvOfiuJEjSeERB,0.726,0.621,['swedish idol pop'],2.82e-06,9,0.181,-7.419,0,40,0.153,96.01,4,0MvzpMFoZEkumMptmOpjRM,Ingen lek med mig,0.506
+242,0.0322,Zeb,spotify:artist:2QsynagSdAqZj3U9HgDzjD,0.869,0.731,['world fusion'],0.0063,11,0.102,-8.568,0,24,0.0801,123.313,4,69Ob4SiAvyoMUJ3KcEa150,Jamming - Nickodemus and Zeb Remix,0.678
+243,0.148,Zeb & Haniya,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.684,0.631,"['pakistani pop', 'qawwali', 'sufi']",2.62e-05,9,0.134,-14.103,1,25,0.0526,101.988,4,6zKJUZJDyf2pbiYjStBvKh,Bibi Sanam Janem,0.757
+244,0.0768,Zebbler Encanti Experience,spotify:artist:1LJR81mjpmBkowZy1MPwQg,0.618,0.825,['glitch hop'],0.712,1,0.103,-5.711,1,35,0.0687,159.998,4,1Jc15fxurf0RSLfiZoslaY,Inner G (feat. Ganavya),0.0467
+245,0.224,Zebda,spotify:artist:0eOdRJIL6L8AInJLre2uIP,0.917,0.77,"['chanson', 'french folk pop', 'french reggae', 'french rock', 'reggae fusion']",1.87e-06,10,0.135,-5.471,0,31,0.0373,133.001,4,7JGmpugbdiVWskY1S3EmTY,Tomber la chemise,0.964
+246,0.861,Zebra,spotify:artist:56ZTgzPBDge0OvCGgMO3OY,0.612,0.476,"['escape room', 'shimmer pop', 'vogue']",0.00401,8,0.147,-8.256,1,53,0.0275,118.383,3,5w7ZSNKnlG4gkhxSZydh8R,Zebra,0.257
+247,0.861,Zebra,spotify:artist:56ZTgzPBDge0OvCGgMO3OY,0.612,0.476,"['escape room', 'shimmer pop', 'vogue']",0.00401,8,0.147,-8.256,1,53,0.0275,118.383,3,5w7ZSNKnlG4gkhxSZydh8R,Zebra,0.257
+248,0.00265,Zebra & Giraffe,spotify:artist:42snysjS5m2BFhECXLfBEd,0.433,0.903,['african rock'],0.169,11,0.123,-6.323,0,20,0.0522,155.066,4,7khXO8XOnhXVgoTVftybJf,The Knife,0.368
+249,0.925,Zebra Baby,spotify:artist:5p9TUSD6SyBK533z7sVaGK,0.257,0.00259,['brooklyn indie'],0.892,8,0.109,-29.976,1,22,0.0476,111.83,4,27iFqj3xEP2vhPzL7uu6gt,Baby Sleep Music - Where is Zebra,0.0717
+250,0.0127,Zebra Centauri,spotify:artist:33NmjekkNspaG6tHcCTEW4,0.8,0.397,['deep melodic euro house'],0.863,7,0.107,-14.202,1,37,0.0775,112.024,4,4leTQPsBVEwf5P1GNkdTo5,Inflagranti,0.192
+251,0.012,Zebra Katz,spotify:artist:3AA28KZvwAUcZuOKwyblJQ,0.779,0.585,"['escape room', 'shimmer pop', 'vogue']",0.0163,7,0.106,-10.363,1,59,0.108,120.08,4,1venpPIzDTmjPBSVsM1IhB,"Out Of Body (feat. Kilo Kish, Zebra Katz & Imani Vonshà)",0.624
+252,0.000989,zebrahead,spotify:artist:6SiyKSeJo6gcsS2NvuAbsl,0.54,0.991,"['alternative metal', 'funk metal', 'nu metal', 'pop punk', 'punk', 'rap rock', 'skate punk']",0.0,1,0.41,-3.115,1,40,0.165,111.983,4,5w4QQY7P68z4Q2t441gF2V,Falling Apart,0.192
+253,0.379,Zebulon,spotify:artist:1si6mnxJ6IpTOTW13ECa0o,0.689,0.675,"['hard stoner rock', 'retro metal', 'rock quebecois']",0.0,11,0.25,-7.355,0,37,0.197,119.814,4,752Dp89E27wUgg20JV5PWA,Zebulon (fg. IX),0.284
+254,0.117,Zeca Baleiro,spotify:artist:7LunbFWIm3RPQpywjOSSd8,0.643,0.501,"['bossa nova', 'brazilian rock', 'forro', 'mpb', 'rock gaucho', 'samba']",0.0463,11,0.239,-7.981,0,64,0.0424,94.514,4,7xpDGoUGbtaquk5xMvzwTh,Telegrama,0.394
+255,0.117,Zeca di Nha Reinalda,spotify:artist:7LunbFWIm3RPQpywjOSSd8,0.643,0.501,"['bossa nova', 'brazilian rock', 'forro', 'mpb', 'rock gaucho', 'samba']",0.0463,11,0.239,-7.981,0,64,0.0424,94.514,4,7xpDGoUGbtaquk5xMvzwTh,Telegrama,0.394
+256,0.59,Zeca Pagodinho,spotify:artist:3qZ2n5keOAat1SoF6bHwmb,0.731,0.774,"['axe', 'forro', 'mpb', 'pagode', 'samba']",0.0,11,0.231,-10.11,1,37,0.232,104.76,4,2IFVgmtIwyg2AmWV6yZJqT,Deixa A Vida Me Levar,0.893
+257,0.00869,Zed,spotify:artist:1FWybrAwiSa0zKibdLfZZr,0.614,0.726,['deep trap'],0.00131,11,0.157,-6.441,1,58,0.096,144.965,4,3Oiauiojgokw9vWQvFmEoI,Eyes On Fire - Zeds Dead Remix,0.315
+258,0.00869,Zed,spotify:artist:1FWybrAwiSa0zKibdLfZZr,0.614,0.726,['deep trap'],0.00131,11,0.157,-6.441,1,58,0.096,144.965,4,3Oiauiojgokw9vWQvFmEoI,Eyes On Fire - Zeds Dead Remix,0.315
+259,0.00869,Zed & Monsoon,spotify:artist:1FWybrAwiSa0zKibdLfZZr,0.614,0.726,['deep trap'],0.00131,11,0.157,-6.441,1,58,0.096,144.965,4,3exNzFTebhrjSzxKKqQjp8,Crosses,0.315
+260,0.364,Zed Bias,spotify:artist:1XZzbCZRuj6eOdRxQcmiD7,0.811,0.87,"['bass music', 'bassline', 'broken beat', 'drum and bass', 'speed garage', 'uk garage']",0.000532,0,0.364,-8.167,1,44,0.281,129.82,4,0lQk3EUb2YTXs1xVmDiOQm,Neighbourhood (Radio Mix),0.744
+261,0.0523,Zed Zilla,spotify:artist:0W6Vi3JrMz1BtEOUqG2mcG,0.699,0.548,['deep trap'],0.0,1,0.11,-5.123,1,43,0.15,117.806,4,1QVe2hhMHMl0pdscX4gM0A,MDT: Mafia Dinner Table,0.19
+262,0.687,Zedashe,spotify:artist:17iQqtGUW7F4VDChzRAo3K,0.449,0.805,"['caucasian folk', 'polyphony']",0.0118,2,0.264,-7.569,1,0,0.0851,132.583,4,1jhFsdeEvVhqGJDdBk4RRX,"Ghrublebi - Love Song – Tusheti (Keselo Ensemble, arr. Zedashe)",0.449
+263,0.32,Zedbazi,spotify:artist:4tXhsMzLWZ1WL952nYBPTL,0.73,0.553,"['classic persian pop', 'persian alternative', 'persian hip hop', 'persian pop']",0.000274,7,0.203,-8.925,0,34,0.0408,120.01,4,0e1p005szFYPypnSjIKzn9,Tabestoon Kootahe,0.589
+264,0.198,Zedd,spotify:artist:2qxJFvFYMEDqd7ui6kSAcq,0.745,0.652,"['complextro', 'dance pop', 'edm', 'german techno', 'pop', 'post-teen pop']",0.0,7,0.133,-3.099,1,86,0.0604,106.809,4,09IStsImFySgyp0pIQdqAc,The Middle,0.409
+265,0.00869,Zeds Dead,spotify:artist:1FWybrAwiSa0zKibdLfZZr,0.614,0.726,"['brostep', 'edm', 'electro house', 'electronic trap', 'progressive electro house']",0.00131,11,0.157,-6.441,1,58,0.096,144.965,4,3Oiauiojgokw9vWQvFmEoI,Eyes On Fire - Zeds Dead Remix,0.315
+266,0.338,Zee,spotify:artist:3vdvOHn7ynZyXWRHbEeiQF,0.892,0.743,"['folk-pop', 'malaysian indie', 'malaysian pop']",0.00185,8,0.117,-5.518,1,47,0.0503,129.079,4,3MJ5Lhx1sAIsUziaImZsgc,Im Drowning,0.525
+267,0.338,Zee,spotify:artist:3vdvOHn7ynZyXWRHbEeiQF,0.892,0.743,"['folk-pop', 'malaysian indie', 'malaysian pop']",0.00185,8,0.117,-5.518,1,47,0.0503,129.079,4,3MJ5Lhx1sAIsUziaImZsgc,Im Drowning,0.525
+268,0.805,Zee Avi,spotify:artist:6zGcYBjlNOMSVVrl7ZoGsH,0.684,0.372,"['folk-pop', 'malaysian indie', 'malaysian pop']",0.0,8,0.276,-12.466,1,41,0.066,85.028,4,1QlUpsX8dGxV5vRwl8fJRK,Concrete Wall,0.653
+269,0.954,Zeena Parkins,spotify:artist:3KI6JsmaN8xyYUq8Tf9Lle,0.476,0.217,"['free improvisation', 'laboratorio', 'tzadik']",0.887,11,0.0769,-15.843,0,20,0.0695,140.693,4,3TknuZMkktwr6kaXvZmhmJ,Muted,0.166
+270,0.0399,Zefanio,spotify:artist:1eLxAzPSnsl03ajNNihddF,0.782,0.543,"['deep dutch hip hop', 'dutch hip hop']",0.0,5,0.0872,-6.229,1,61,0.0395,100.002,4,6C5iwEarMNTiiVo79nLULc,"Fluister (feat. Dopebwoy, Jonna Fraser & Zefanio)",0.541
+271,0.0947,Zefereli,spotify:artist:1HO9mrkPx8QzgF6A8GsVkB,0.468,0.839,['deep australian indie'],0.439,2,0.172,-8.641,1,15,0.046,159.999,4,4tN07no3fmJAk5R2pGTy0p,Stupid Goodbye,0.627
+272,0.668,Zehava Ben,spotify:artist:5EBnQEKoaiAk37Q7cfGrE1,0.597,0.306,"['hebrew pop', 'israeli mediterranean', 'israeli pop', 'mizrahi']",0.0,9,0.337,-8.422,1,28,0.0354,97.95,4,24KEUpL2ErA0eqxA3Ov8Tw,Ahava K​a​'zo (​A ​Love Like This),0.443
+273,0.938,Zehetmair Quartett,spotify:artist:3lFOTPCL2Vc41CtVrdhMqp,0.205,0.0957,['string quartet'],0.00283,11,0.116,-21.213,0,0,0.0407,90.422,3,2RPLhNF5Wv0FMWcBsjH7TO,Streichquartett Nr. 2: Streichquartett Nr. 2 (2007),0.0779
+274,0.0413,Zeid and the Wings,spotify:artist:262WKWZkp6ZpLUyxOVyPZi,0.762,0.447,['arab alternative'],2.41e-06,9,0.0666,-10.437,0,21,0.0784,86.996,4,72M5udVFetsH9Ga6i25no7,General Suleiman,0.581
+275,0.0111,Zeid Hamdan,spotify:artist:3M3dqhDqNK2DsZPIbopgUA,0.504,0.754,['arab alternative'],0.0104,1,0.132,-7.759,1,22,0.118,125.184,4,064sg66fWqVSUPmQInKyCK,Watan El Akk,0.644
+276,0.00864,Zeigeist,spotify:artist:7JUms0YyWoLQ0ICQvrEgjL,0.663,0.864,"['alternative dance', 'electroclash', 'neo-synthpop', 'swedish synthpop']",0.544,9,0.334,-5.3,0,35,0.027,112.986,4,7MoGZCxGCQpvzqygNPLmTh,Cuffs,0.863
+277,0.855,Zekai Tunca,spotify:artist:28qT1U6wHdW2WSCGdA7ZDQ,0.32,0.544,['turkish classical'],0.00202,10,0.189,-7.574,1,13,0.118,183.845,4,6DUvRv4UqxNEp8b5LhIfEA,Gülü Susuz Seni Aşksız Bırakmam,0.331
+278,0.166,Zeke Duhon,spotify:artist:7mk0Ws1Fg3s11VOjQEln2x,0.698,0.44,['alternative pop rock'],0.00399,0,0.1,-9.351,1,20,0.0263,84.0,4,5bePkpvdV8kGVWbrZVDw73,Faith and Hope,0.456
+279,0.679,Zekes,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.262,0.625,"['dansband', 'danspunk']",8.62e-06,3,0.198,-9.507,1,16,0.0376,98.095,4,3CI3sbYGeJ9ZXPfhpY4S69,Zekes,0.495
+280,0.0122,Zeki,spotify:artist:3JVvnP1M9vtlmezlBaXiu0,0.512,0.767,"['turkish folk', 'turkish jazz', 'turkish rock']",0.0,11,0.0857,-5.586,0,44,0.213,113.609,5,2uvEfVJ6LLHAiBo0oby1l4,Problemz,0.465
+281,0.638,Zeki Müren,spotify:artist:0ZZDIo31D35xGrXYTodWrL,0.393,0.568,"['turkish folk', 'turkish jazz', 'turkish rock']",3.4e-06,2,0.32,-11.864,0,29,0.0728,83.395,3,7xi6IGgGdjEHDxRSRTjf6i,Ah Bu Şarkıların Gözü Kör Olsun,0.591
+282,0.21,Zekle,spotify:artist:5NHtmiYsPVOQiZdji4jdiA,0.583,0.539,['kompa'],0.0,9,0.819,-14.274,1,9,0.0389,99.719,4,1vWG6ieUltp2ePfidz1PET,Chante Lanmou,0.799
+283,0.21,zekomardix,spotify:artist:5NHtmiYsPVOQiZdji4jdiA,0.583,0.539,['kompa'],0.0,9,0.819,-14.274,1,9,0.0389,99.719,4,1vWG6ieUltp2ePfidz1PET,Chante Lanmou,0.799
+284,0.749,Zélia Duncan,spotify:artist:2zDJszdrISx9K4L5hvWT33,0.616,0.205,"['bossa nova', 'mpb', 'samba']",0.000342,9,0.0836,-14.817,1,54,0.0423,131.87,4,4tBZUrAviVgUzeTIiJLEe9,Catedral,0.224
+285,0.608,Željko Bebek,spotify:artist:0dKfQuytiOgUXGmnJnHDJf,0.692,0.48,"['balkan brass', 'croatian pop', 'sevdah', 'yugoslav rock']",0.0,7,0.105,-8.363,0,33,0.0296,117.986,4,3dCt5JgczMKK2PuExurYjq,"Oprosti Mi, Što Te Volim",0.375
+286,0.00596,Željko Joksimović,spotify:artist:1pIYImXgkOQFZAeGrLk7ZI,0.783,0.643,"['croatian pop', 'eurovision', 'turbo folk', 'yugoslav rock']",1.43e-06,0,0.0583,-9.455,1,38,0.0534,99.995,4,49VIlGWrIbU1p2NPdlvJo8,Vreteno,0.756
+287,0.303,Zeljko Samardzic,spotify:artist:0M7vmKfvE4HPMPWAEsTBM3,0.754,0.65,"['sevdah', 'turbo folk']",0.0,5,0.0894,-6.863,1,33,0.0726,120.068,4,1C4rUpxYXsfS09Lo4Q3R73,Ja Te Volim Vise (9000 Milja),0.635
+288,0.0653,Zeljko Sasic,spotify:artist:4Aat0H3LjCunBuWyDskL8v,0.608,0.521,"['sevdah', 'turbo folk']",0.0,5,0.125,-10.372,1,17,0.0344,170.458,4,7MNd06ywktU3ntX28EHkk9,Ona je prica zivota moga,0.795
+289,0.0889,Zella Day,spotify:artist:100sLnojEpcadRx4edEBA6,0.635,0.718,"['gauze pop', 'indie poptimism', 'pop']",0.0,6,0.306,-5.168,0,56,0.0378,80.957,4,2zsWRxMcUdGjj8TnWkVKw0,Hypnotic,0.408
+290,0.0439,Zellberg Buam,spotify:artist:65y8x3zuy7HQVHrb3tn3hM,0.695,0.965,"['volksmusik', 'zillertal']",0.0,5,0.122,-5.392,1,27,0.0594,135.992,4,7E0LN1NDUCT699yfwOB7iV,Urknall im Zillertal,0.857
+291,0.174,Zelliack,spotify:artist:2uvjQ4Szl714wfOtoSkH9s,0.348,0.582,['progressive post-hardcore'],1.25e-05,7,0.0869,-6.579,0,32,0.0634,165.132,4,5qPEbum6bXtwxBkomU1Pjh,Autumn In Analog,0.318
+292,0.0501,Zelonka,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.786,0.444,['deep chill'],1.23e-06,10,0.134,-5.163,0,21,0.0297,94.999,4,6TtLEiD7Xhl85QWiJ96F7E,Impossible Dream,0.587
+293,0.0038,Zemlja gruva,spotify:artist:4hgagVu0lVE2cMX0Uaenzm,0.692,0.848,['yugoslav rock'],6.97e-05,11,0.0839,-5.242,0,8,0.0766,135.009,4,0V9Mp1sLorcWZ6u7RUru2A,Najlepse zelje,0.745
+294,0.000347,Zen,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,0.48,0.856,"['environmental', 'sleep']",0.00418,0,0.133,-4.409,1,57,0.0484,134.229,4,7waRjsA2ehXv619f47lYOT,Everything Zen,0.324
+295,0.000347,Zen,spotify:artist:78SHxLdtysAXgywQ4vE0Oa,0.48,0.856,"['environmental', 'sleep']",0.00418,0,0.133,-4.409,1,57,0.0484,134.229,4,7waRjsA2ehXv619f47lYOT,Everything Zen,0.324
+296,0.981,Zen Cafe,spotify:artist:3zZw7SJZFWJURkchuzBFTX,0.472,0.00969,"['finnish pop', 'iskelma', 'suomi rock']",0.88,2,0.133,-19.715,1,37,0.0391,109.958,4,3PNrulaCZY00ZabDovlXX6,The Peaceful Ocean,0.176
+297,0.981,Zen Cafe,spotify:artist:3zZw7SJZFWJURkchuzBFTX,0.472,0.00969,"['finnish pop', 'iskelma', 'suomi rock']",0.88,2,0.133,-19.715,1,37,0.0391,109.958,4,3PNrulaCZY00ZabDovlXX6,The Peaceful Ocean,0.176
+298,0.0371,Zen Death Squad,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.593,0.815,['glitch hop'],0.000165,8,0.0693,-4.214,1,4,0.199,181.932,4,3gbm12YHsJz4Ldro9GC8tU,Superman Rmx (Zen Death Squad vs Roger),0.349
+299,0.994,Zen Garden,spotify:artist:3zZw7SJZFWJURkchuzBFTX,0.492,0.0733,"['environmental', 'sleep']",0.982,8,0.104,-20.483,1,52,0.0429,115.856,4,1V8oSfRpQT4MKDbqdBurQ1,Yoga Morning,0.194
+300,0.932,Zen Garden Music,spotify:artist:3zZw7SJZFWJURkchuzBFTX,0.362,0.118,"['environmental', 'sleep']",0.987,9,0.108,-18.686,0,51,0.0443,126.235,1,48RoanFaRSlKpllyqgLccm,Morning Fog,0.0321
+301,0.00262,Zen Guerrilla,spotify:artist:1DXSOh1Ej7spg9XCFUt3nU,0.166,0.979,"['garage rock', 'punk blues']",0.562,1,0.118,-3.937,1,10,0.0878,154.122,4,5abKWkZHhvpR5H6OSJgomG,Moonage Daydream,0.296
+302,0.991,Zen Hanami,spotify:artist:15HhIikIlN2rc1JZSBzrhj,0.145,0.0245,"['healing', 'kirtan', 'meditation', 'sleep', 'tone']",0.925,5,0.092,-30.513,1,46,0.0449,68.315,4,3x27YTgedJZlHvBcF7aaQ0,A Gentle Rain Of Thoughts,0.0383
+303,0.00013,Zen Mechanics,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.665,0.835,"['full on', 'progressive psytrance', 'psychedelic trance']",0.826,7,0.0999,-7.483,1,42,0.0392,134.998,4,47nBmWU5EW6qWEzKD9LZLX,Dragonfruit,0.193
+304,0.994,Zen Meditation and Natural White Noise and New Age,spotify:artist:3zZw7SJZFWJURkchuzBFTX,0.492,0.0733,['sleep'],0.982,8,0.104,-20.483,1,52,0.0429,115.856,4,1V8oSfRpQT4MKDbqdBurQ1,Yoga Morning,0.194
+305,0.994,Zen Meditation and Natural White Noise and New Age Deep Massage,spotify:artist:3zZw7SJZFWJURkchuzBFTX,0.492,0.0733,['sleep'],0.982,8,0.104,-20.483,1,52,0.0429,115.856,4,1V8oSfRpQT4MKDbqdBurQ1,Yoga Morning,0.194
+306,0.0246,Zen Mindwaves,spotify:artist:3SwqynF0kqvqwKJX9EXEQ3,0.106,0.559,['sleep'],0.996,10,0.654,-16.652,0,38,0.0777,153.836,3,0PHQqdPBIm2si8AnnaWnzC,Pink Noise with Slow Swell - Pink Waves,0.0272
+307,0.932,Zen Music Garden,spotify:artist:3zZw7SJZFWJURkchuzBFTX,0.362,0.118,"['environmental', 'sleep']",0.987,9,0.108,-18.686,0,51,0.0443,126.235,1,48RoanFaRSlKpllyqgLccm,Morning Fog,0.0321
+308,0.0109,zenbukiminoseida.,spotify:artist:67B747RX4JBRjFntR5FlqJ,0.424,0.927,"['alt-idol', 'idol rock']",0.0,0,0.0594,-2.774,1,5,0.0433,175.98,4,6U7RLGSuIXmA8DjzEmEBSq,YAMIKAWAGUN MARCH,0.548
+309,0.0716,Zendaya,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.684,0.619,"['dance pop', 'pop', 'post-teen pop', 'viral pop']",0.0,10,0.122,-7.005,1,84,0.0386,125.046,4,65fpYBrI8o2cfrwf2US4gq,Rewrite The Stars,0.284
+310,0.865,Zenet,spotify:artist:2s7td67DdtSXTx2TGzs01i,0.51,0.3,"['cantautor', 'flamenco']",6.57e-06,7,0.111,-10.075,0,50,0.0453,121.303,4,5PyDjh950FnFbibipV2RoS,Soñar Contigo,0.481
+311,0.974,Zeng Chengwei,spotify:artist:6jMjIrnQO8BaCTJrYJE0jC,0.435,0.281,"['chinese guzheng', 'chinese traditional', 'japanese traditional']",0.682,9,0.0829,-14.766,0,19,0.0423,71.96,4,7EZEs8MEPOs0Ze5qzt036f,Running Water,0.265
+312,0.994,Zeng Xun,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.449,0.0744,['chinese traditional'],0.558,5,0.324,-15.771,0,4,0.0617,69.356,4,2TMwv9YC0AnmSfjRMVsTlz,Marching On a Bright Road,0.627
+313,0.0554,Zenglen,spotify:artist:2yxotUcQyVGm6LGYfPW8Mj,0.563,0.869,['kompa'],0.000315,6,0.127,-6.014,1,35,0.0339,161.988,4,1Whs5ALWz4z5VAtrcUWQJY,M Sweté'l Dansé,0.915
+314,2.82e-06,Zeni Geva,spotify:artist:6kK9Cr3vkM5F8JrdMDSyET,0.233,0.866,"['j-metal', 'japanoise']",0.49,9,0.337,-9.474,0,7,0.0596,181.206,5,0aBtpJGutq8BNUCtYtBh8K,Dead Sun Rising,0.35
+315,0.0103,Zeni N,spotify:artist:18MdCa6sJKKOf9JttVCdUC,0.837,0.467,['groove room'],0.181,2,0.0939,-10.385,1,36,0.0431,120.03,4,21feU9uRP1JaC2NCMuCluT,Someone Like Her - Original Mix,0.0832
+316,0.00177,Zenji,spotify:artist:7q7puZ5wtpfQe3doDb4834,0.689,0.932,['filthstep'],0.424,6,0.347,-6.012,0,20,0.137,140.02,4,5RVY5sVHmZnuuyrEvwZiEQ,Ghostmachine,0.331
+317,0.812,Zeno,spotify:artist:6gpOLOIn9tu4nfK52nrAIM,0.425,0.366,['christian relaxative'],0.651,3,0.108,-9.154,1,32,0.0376,86.849,4,67niG5X8VM4ZZoHsXVkffW,Break Every Chain,0.325
+318,0.44,Zenobia,spotify:artist:2JeIr3DJ38EwOVXoNckpDV,0.607,0.255,['latin metal'],0.851,10,0.076,-13.029,0,22,0.0317,174.026,4,2VKf1LDBlCDzNQzg5mt7pU,The Good Hurt,0.335
+319,0.00316,Zënzar,spotify:artist:1YFrhov5H4KBd13rWQvzpe,0.418,0.941,['galego'],0.00827,9,0.221,-3.369,1,0,0.0472,141.923,4,3wVi0kHRAvqUppZuLoBpAQ,Dálle (feat. Bociza Zenzar),0.704
+320,5.17e-05,Zenzile,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.804,0.547,"['electro dub', 'french reggae']",0.81,8,0.03,-16.497,1,31,0.0912,123.493,4,4exzMolWj4QwlOro7fkDky,Wa Dem A Go Do Riddim,0.97
+321,0.271,Zequinha De Abreu,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.53,0.712,"['choro', 'latin classical']",0.0114,9,0.118,-11.963,0,8,0.049,124.972,4,1uzW2bO6DnA72WTAebZiQn,"Tico Tico - From ""The Three Caballeros""",0.9
+322,0.000856,Zeraphine,spotify:artist:5FfIAyIWRRiPFoIIeuO26U,0.662,0.788,"['dark wave', 'neue deutsche harte']",0.0104,10,0.0258,-6.088,1,21,0.0279,104.013,4,4JejVsL2cUEFGHOR2bTTt2,Be My Rain,0.656
+323,0.00512,Zerb,spotify:artist:1HQGhla3VNj1dBmKTtVT2t,0.814,0.822,['brazilian electronica'],0.388,11,0.0692,-5.914,1,41,0.0996,123.963,4,1rER3f2g7zajBzjBwRyRlb,Thief - Zerb Remix,0.357
+324,0.00512,Zerb,spotify:artist:1HQGhla3VNj1dBmKTtVT2t,0.814,0.822,['brazilian electronica'],0.388,11,0.0692,-5.914,1,41,0.0996,123.963,4,1rER3f2g7zajBzjBwRyRlb,Thief - Zerb Remix,0.357
+325,0.122,Zereno,spotify:artist:2CCwUNmgYIp0buq4aBcXY1,0.51,0.709,['tejano'],9.75e-06,9,0.118,-6.618,1,21,0.0317,104.066,4,1aCvx9eOs1D5zrduYgetuW,Hermoso Dia,0.614
+326,0.0254,Zeri,spotify:artist:1ISG0zSleX4gwbBf4AydB8,0.539,0.79,['rock cristiano'],0.0,0,0.0783,-3.282,1,48,0.0326,97.061,4,2dS5xuToWQleZ6q3sImUC2,Tus Planes,0.336
+327,0.47,Zeritu Kebede,spotify:artist:5hn5axBeYPCxuGA07FE731,0.691,0.396,['ethiopian pop'],0.0,10,0.0797,-10.565,0,21,0.0249,99.955,4,7CHjGeDr8EgVPCNc1XqKn7,Yene Konjo,0.509
+328,0.763,Zero,spotify:artist:3TVXtAsR1Inumwj472S9r4,0.707,0.709,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.0,11,0.274,-3.979,0,72,0.34,89.094,4,4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,0.501
+329,0.763,Zero,spotify:artist:3TVXtAsR1Inumwj472S9r4,0.707,0.709,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.0,11,0.274,-3.979,0,72,0.34,89.094,4,4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,0.501
+330,0.763,Zero,spotify:artist:3TVXtAsR1Inumwj472S9r4,0.707,0.709,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.0,11,0.274,-3.979,0,72,0.34,89.094,4,4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,0.501
+331,0.763,ZERO,spotify:artist:3TVXtAsR1Inumwj472S9r4,0.707,0.709,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.0,11,0.274,-3.979,0,72,0.34,89.094,4,4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,0.501
+332,0.763,Zero,spotify:artist:3TVXtAsR1Inumwj472S9r4,0.707,0.709,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.0,11,0.274,-3.979,0,72,0.34,89.094,4,4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,0.501
+333,0.763,Zero,spotify:artist:3TVXtAsR1Inumwj472S9r4,0.707,0.709,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.0,11,0.274,-3.979,0,72,0.34,89.094,4,4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,0.501
+334,0.763,Zero,spotify:artist:3TVXtAsR1Inumwj472S9r4,0.707,0.709,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.0,11,0.274,-3.979,0,72,0.34,89.094,4,4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,0.501
+335,0.76,Zero 7,spotify:artist:14H7ag1wpQOsPPQJOD6Dqr,0.561,0.33,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.134,5,0.106,-13.51,1,64,0.0268,79.01,4,5ARrtxJLVCeTv5TWo1oKgC,In The Waiting Line,0.378
+336,0.76,Zero 7,spotify:artist:14H7ag1wpQOsPPQJOD6Dqr,0.561,0.33,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.134,5,0.106,-13.51,1,64,0.0268,79.01,4,5ARrtxJLVCeTv5TWo1oKgC,In The Waiting Line,0.378
+337,0.76,Zero 7,spotify:artist:14H7ag1wpQOsPPQJOD6Dqr,0.561,0.33,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.134,5,0.106,-13.51,1,64,0.0268,79.01,4,5ARrtxJLVCeTv5TWo1oKgC,In The Waiting Line,0.378
+338,0.119,Zero Assoluto,spotify:artist:3bf7Y2it29DeOjXpIibCOe,0.633,0.871,"['italian arena pop', 'italian pop']",0.0009,11,0.0938,-6.906,1,60,0.0543,165.026,4,1fdCjH8Y8n9j7lFr7tLbfm,Per dimenticare,0.872
+339,0.946,Zero Bedroom Apartment,spotify:artist:15qFI9lBFmSuw6G88sods8,0.308,0.171,['compositional ambient'],0.874,0,0.0965,-25.437,1,17,0.0418,180.01,3,2Rbn0JZivyVUBntRvZC7xB,Float,0.101
+340,0.00102,Zero Boys,spotify:artist:3tasoNLQ6d3uNBGrC1LEOD,0.469,0.995,"['crossover thrash', 'garage punk', 'hardcore punk', 'punk', 'thrash core']",0.667,11,0.351,-1.852,0,37,0.13,101.104,4,0dTAoGEUWv9dUXzRlVmSgN,Civilization's Dying,0.458
+341,0.143,Zero Cult,spotify:artist:2o4W4SoTLzb3ksgfG9UcJm,0.778,0.696,"['ambient psychill', 'psychill']",0.824,8,0.149,-7.43,1,30,0.0387,119.993,4,3kzwNqwHhc5AqaO0Sm4bxm,Tangoa,0.0869
+342,0.348,zero dB,spotify:artist:4aGzjQAZ9lGucob81X8hLr,0.789,0.501,"['ninja', 'trip hop']",0.000144,1,0.105,-6.859,1,28,0.244,90.082,4,2cS4kOGMRfCByrK5qwrNkz,anything's possiBle,0.498
+343,0.509,Zero Mostel,spotify:artist:5M0BsKplclHv3l6QjOpotN,0.693,0.202,"['cabaret', 'show tunes']",3.57e-05,2,0.333,-14.84,1,25,0.119,108.552,4,41xOlm3Kl620klE0J2MB7p,Comedy Tonight,0.538
+344,0.107,Zero People,spotify:artist:5CHcX5KtuSz5uo1p5fM3sz,0.272,0.995,['russian rock'],0.0,9,0.546,-2.48,0,23,0.338,204.699,4,5oDdvRqPBSGrkBKWvu6uNg,Some People,0.0732
+345,0.00139,Zero Project,spotify:artist:2FmgW6Jee0JQKtb6EnBWCq,0.612,0.966,"['deep hardstyle', 'hardstyle']",0.0097,9,0.353,-1.396,0,52,0.109,149.992,4,3dwEwzejQANVY8VrOOv7vA,Burn (Sub Zero Project Remix),0.166
+346,0.769,Zero T,spotify:artist:5HenzRvMtSrgtvU16XAoby,0.648,0.428,"['drum and bass', 'drumfunk', 'jungle', 'liquid funk', 'neurofunk']",0.0125,8,0.116,-8.173,1,38,0.028,78.084,4,5daJe2AddqQHUm7FTpJaMH,Zero Gravity,0.533
+347,0.000206,Zero Tolerance,spotify:artist:4f5V3PQ66nIrBCqugJtaGn,0.232,0.957,['liquid funk'],0.00441,9,0.0317,-5.506,1,37,0.117,80.745,4,71MrVsb0pbIDpFOlYCVIhE,Zero Tolerance,0.308
+348,0.763,Zero Zero,spotify:artist:3TVXtAsR1Inumwj472S9r4,0.707,0.709,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.0,11,0.274,-3.979,0,72,0.34,89.094,4,4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,0.501
+349,0.00139,Zero-Project,spotify:artist:2FmgW6Jee0JQKtb6EnBWCq,0.612,0.966,"['deep hardstyle', 'hardstyle']",0.0097,9,0.353,-1.396,0,52,0.109,149.992,4,3dwEwzejQANVY8VrOOv7vA,Burn (Sub Zero Project Remix),0.166
+350,0.763,zero/zero,spotify:artist:3TVXtAsR1Inumwj472S9r4,0.707,0.709,"['acid jazz', 'downtempo', 'electronic', 'nu jazz', 'trip hop']",0.0,11,0.274,-3.979,0,72,0.34,89.094,4,4jtyUzZm9WLc2AdaJ1dso7,0 To 100 / The Catch Up,0.501
+351,0.876,Zero8,spotify:artist:6hhVdnmWMxGDbE2uA9byXa,0.145,0.134,['barbershop'],0.0,0,0.107,-13.102,1,10,0.0339,66.76,3,0iWjlqDxuHzzODQ9anfILl,Amazing Grace,0.0591
+352,0.000312,Zerohead,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.639,0.796,['dubstep product'],0.00121,1,0.0776,-6.023,0,10,0.0502,129.999,4,6IySqWC95XVGZZ7PjuevnG,XXX,0.912
+353,0.000127,Zeromancer,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.458,0.817,"['dark wave', 'ebm', 'electro-industrial', 'futurepop', 'industrial metal', 'industrial rock', 'neue deutsche harte']",0.00738,0,0.408,-5.342,0,33,0.052,130.208,4,0yNHIRmlzXJvC1dRK8hu0l,Doctor Online,0.26
+354,0.165,Zeropositivo,spotify:artist:5mhAqBlaOlTLA5txzZf22K,0.666,0.773,['spanish hip hop'],0.0,3,0.21,-4.513,0,36,0.242,89.279,4,0xanRIp1ugU4wj9zu5KTgS,Quiero Que Sea Guapa,0.849
+355,0.292,Zeros,spotify:artist:7giUHu5pv6YTZgSkxxCcgh,0.542,0.589,"['folk-pop', 'indie folk', 'indie pop', 'indie rock', 'la indie', 'modern rock', 'stomp and holler']",0.000522,2,0.177,-6.623,1,75,0.0318,111.665,4,7w5cxTEzp1rfV3KCy0Bd5N,Home,0.137
+356,0.292,Zeros,spotify:artist:7giUHu5pv6YTZgSkxxCcgh,0.542,0.589,"['folk-pop', 'indie folk', 'indie pop', 'indie rock', 'la indie', 'modern rock', 'stomp and holler']",0.000522,2,0.177,-6.623,1,75,0.0318,111.665,4,7w5cxTEzp1rfV3KCy0Bd5N,Home,0.137
+357,2.7e-05,Zerozonic,spotify:artist:52cXJ1fE7JNEqbhSMSH3uO,0.426,0.971,['thrash-groove metal'],0.0567,7,0.166,-5.31,1,4,0.188,148.051,4,4LxOsPv5yDNOd9GVBKeAVU,It Never Dies,0.15
+358,0.447,Zerrin Özer,spotify:artist:2CleFSxMoxkm2RduyMwcrm,0.743,0.613,"['arabesk', 'classic turkish pop', 'turkish folk', 'turkish pop']",5.06e-06,10,0.139,-14.639,0,21,0.0419,95.986,4,3hZO58Vun13s6i8WCDhRDo,Paşa Gönlüm,0.9
+359,0.93,Zervas & Pepper,spotify:artist:2lFC8l5L6rI3pFIUMYqgBa,0.617,0.196,['welsh rock'],2.53e-06,9,0.0796,-14.878,1,2,0.0346,112.971,4,0PoNN0kblA7cevVI59iznR,Here and Now,0.134
+360,0.224,ZES,spotify:artist:3Ps6le7tj5BdNtdnfNgTU4,0.748,0.66,"['hip hop', 'indie r&b', 'pop', 'rap', 'trap music']",0.053,6,0.101,-4.704,1,74,0.0487,137.033,4,2BoeDIEzoS9diuyaqqVaDh,Faygo Dreams,0.328
+361,0.108,ZESKULLZ,spotify:artist:47z7ZrgFoBvVpCnElCE3Zh,0.685,0.945,['deep big room'],0.0568,10,0.0277,-3.909,0,28,0.0733,126.022,4,1Xohbj4W9I73oE7CaqTd3m,Blood Diamond (feat. Serebro) - Zeskullz Remix,0.369
+362,0.393,ZETA,spotify:artist:4o6DE8hZbgTTInaDQDEQVa,0.601,0.34,"['hollywood', 'show tunes']",0.0,1,0.456,-12.092,1,58,0.363,125.309,4,28Tmk14BdrfaV2YzxpB35c,Cell Block Tango,0.654
+363,0.393,Zeta,spotify:artist:4o6DE8hZbgTTInaDQDEQVa,0.601,0.34,"['hollywood', 'show tunes']",0.0,1,0.456,-12.092,1,58,0.363,125.309,4,28Tmk14BdrfaV2YzxpB35c,Cell Block Tango,0.654
+364,0.393,Zeta,spotify:artist:4o6DE8hZbgTTInaDQDEQVa,0.601,0.34,"['hollywood', 'show tunes']",0.0,1,0.456,-12.092,1,58,0.363,125.309,4,28Tmk14BdrfaV2YzxpB35c,Cell Block Tango,0.654
+365,0.639,Zetazen,spotify:artist:66BpLv7bc0OLbr50D1cnGS,0.717,0.738,"['spanish hip hop', 'trap latino']",0.0,10,0.118,-5.897,0,48,0.108,127.07,4,015Du1WarHWIl5jGLzhq9z,Derramo el Licor,0.455
+366,0.124,Zetty,spotify:artist:4fdudhIT1GNNvtvM309dyM,0.84,0.857,['rap cristiano'],0.0,8,0.0718,-2.942,1,32,0.0599,84.019,4,3cMhaNlq7FAlx9TLEXCmP6,Svae (Remix) [feat. Manny Montes & Zetty],0.976
+367,0.413,Zeus,spotify:artist:0khqcsFxd6ans7Zh1JqraT,0.889,0.324,"['bhangra', 'desi', 'desi hip hop', 'indian pop', 'punjabi', 'sufi']",0.0,5,0.09,-7.55,0,46,0.0468,110.041,4,0NbxvadJQOnlwk3cFbhDNV,Zeus,0.577
+368,0.413,Zeus,spotify:artist:0khqcsFxd6ans7Zh1JqraT,0.889,0.324,"['bhangra', 'desi', 'desi hip hop', 'indian pop', 'punjabi', 'sufi']",0.0,5,0.09,-7.55,0,46,0.0468,110.041,4,0NbxvadJQOnlwk3cFbhDNV,Zeus,0.577
+369,0.413,Zeus,spotify:artist:0khqcsFxd6ans7Zh1JqraT,0.889,0.324,"['bhangra', 'desi', 'desi hip hop', 'indian pop', 'punjabi', 'sufi']",0.0,5,0.09,-7.55,0,46,0.0468,110.041,4,0NbxvadJQOnlwk3cFbhDNV,Zeus,0.577
+370,0.413,Zeus,spotify:artist:0khqcsFxd6ans7Zh1JqraT,0.889,0.324,"['bhangra', 'desi', 'desi hip hop', 'indian pop', 'punjabi', 'sufi']",0.0,5,0.09,-7.55,0,46,0.0468,110.041,4,0NbxvadJQOnlwk3cFbhDNV,Zeus,0.577
+371,0.423,Zeus Kabadayı,spotify:artist:2gI1RWBJVIYrYO7QFRBsrm,0.625,0.793,['turkish hip hop'],0.294,11,0.103,-4.607,1,19,0.244,90.794,4,003r7QlP2g5AKpfmg4JvWx,Kabadayı,0.312
+372,0.984,Zev Feldman & Andy Statman,spotify:artist:6GM2GEdAqqocmb6OT3RfOJ,0.357,0.239,['klezmer'],0.888,4,0.115,-18.308,0,4,0.0393,85.196,4,6yLx2UFaQztaToxBkJmqDL,Gypsy Hora & Sirba,0.393
+373,0.8,Zeynep,spotify:artist:1XZNZT3xecy9Wt5LtMOJVk,0.528,0.403,"['deep turkish pop', 'turkish pop']",2.49e-05,9,0.146,-10.816,0,49,0.0286,109.964,4,4MH5lh1VQZfAXWFJFmPnKB,Vazgeç Gönül,0.291
+374,0.788,Zeynep Başkan,spotify:artist:47bXR9alQD6AUNUYQX2nO4,0.578,0.449,['turkish folk'],0.0,7,0.174,-5.587,0,28,0.0284,90.008,5,6H3HMTPbJvucw3rPGRkbHR,Vay Beni Ağlar Miydum,0.405
+375,0.141,Zeynep Casalini,spotify:artist:7gcpWHccoirYLWCkHgyKtI,0.467,0.778,['turkish pop'],0.0,9,0.314,-3.343,0,44,0.0419,156.169,3,6tb84hDlnpjPioxBiyO3vs,Duvar,0.473
+376,0.8,Zeynep Dizdar,spotify:artist:1XZNZT3xecy9Wt5LtMOJVk,0.528,0.403,"['deep turkish pop', 'turkish pop']",2.49e-05,9,0.146,-10.816,0,49,0.0286,109.964,4,4MH5lh1VQZfAXWFJFmPnKB,Vazgeç Gönül,0.291
+377,0.995,Zez Confrey,spotify:artist:3t84SvLyeJ5dBZRAdHvcXB,0.489,0.243,['ragtime'],0.895,5,0.167,-22.478,1,31,0.0366,114.741,4,1SH49GqeyitOd9C4kk9dTM,Kitten on the Keys,0.838
+378,0.27,Zeze,spotify:artist:3HqSLMAZ3g3d5poNaI7GOU,0.771,0.848,"['pagode', 'sertanejo', 'sertanejo universitario']",0.0,11,0.0873,-1.682,1,44,0.108,93.024,4,1dwOTQnBuN8LeVX4jNwJXS,Zezé,0.708
+379,0.097,ZeZé Di Camargo,spotify:artist:4dyYjqmYDjegbB3F2mbvcT,0.675,0.52,"['pagode', 'sertanejo', 'sertanejo universitario']",1.09e-06,6,0.333,-8.793,1,55,0.025,113.255,4,3u3G8q8xzUv3ujZ59DLKzU,Sem Medo de Ser Feliz,0.607
+380,0.097,Zezé Di Camargo & Luciano,spotify:artist:4dyYjqmYDjegbB3F2mbvcT,0.675,0.52,"['pagode', 'sertanejo', 'sertanejo universitario']",1.09e-06,6,0.333,-8.793,1,55,0.025,113.255,4,3u3G8q8xzUv3ujZ59DLKzU,Sem Medo de Ser Feliz,0.607
+381,0.372,Zezinho Barros,spotify:artist:6sJxxxihVa8xS4Zr2SQhjN,0.803,0.52,['brega'],0.0,5,0.148,-8.702,1,0,0.0695,83.166,4,6yzJSA4WeGgeSfVcbSjJcF,Meu País,0.968
+382,0.425,Zezo,spotify:artist:5R18GNmvBWGTfBAG0Xy8WT,0.662,0.957,"['brega', 'forro']",0.00703,5,0.108,-1.651,0,32,0.061,180.112,4,4RmHKgJnB8KYmik8CPywCu,Meu Cenário,0.888
+383,0.943,Zha Fuxi,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.665,0.0807,"['chinese guzheng', 'chinese traditional']",0.297,2,0.0618,-23.637,1,10,0.135,115.574,4,2LKuQozg3wcpeG73ZCB0r4,Autumn Reflections By The Dongting Lake (Dong Ting Qiu Si),0.266
+384,0.0674,Zhala,spotify:artist:2vI70V5Tc6jB3d2uzb2UEA,0.537,0.877,['swedish indie pop'],0.796,11,0.199,-7.77,0,20,0.0552,124.99,4,3X7nDirAEPus1ko6TSf0QS,Aerobic Lambada,0.195
+385,0.724,Zhan Yongming,spotify:artist:6yLBmIINX8I4upEXXZ5gIt,0.31,0.206,['chinese traditional'],0.328,0,0.418,-14.755,1,11,0.0449,163.039,4,6B6XwHkE7jhTBd55jQ62Ym,Joyful Songs On The Wujiang River,0.39
+386,0.0325,Zhane,spotify:artist:6cjSmkVvMvyE6tCAo1M9Is,0.719,0.498,"['funk', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",0.0949,7,0.059,-9.856,1,51,0.0541,95.021,4,5yMQERKmNx6ajo4qHi1KT2,Sending My Love,0.212
+387,0.0325,Zhané,spotify:artist:6cjSmkVvMvyE6tCAo1M9Is,0.719,0.498,"['funk', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",0.0949,7,0.059,-9.856,1,51,0.0541,95.021,4,5yMQERKmNx6ajo4qHi1KT2,Sending My Love,0.212
+388,0.78,Zhang Bichen,spotify:artist:2SOrfXWlb17EoCqupfGX4u,0.463,0.56,['mandopop'],1.09e-05,4,0.0891,-7.832,0,55,0.0292,90.005,4,7LmFgyIHlXRqjDOt68RQoQ,凉凉 - 電視劇《三生三世十里桃花》片尾曲,0.267
+389,0.986,Zhang Shao,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.445,0.118,['chinese traditional'],0.912,9,0.129,-21.589,1,14,0.0534,117.271,4,4SZR7ssQbbOMC78j9O5mjs,Birds Singing In a Tranquil Valley,0.713
+390,0.994,Zhang Weiliang,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.355,0.177,['chinese traditional'],0.895,7,0.0861,-17.97,1,18,0.0444,86.577,4,4pE1HYiHtzUjzxkCWCII1O,Moored By a River on an Autumn Night,0.127
+391,0.901,Zhang Weiwei & Guo Long,spotify:artist:3EikhmaQsUg9fkywcVBI4E,0.662,0.133,['chinese minyao'],3.38e-05,2,0.0757,-17.209,1,12,0.0342,126.054,3,0ppL01izm3mzEzqSXplNMt,米店,0.436
+392,0.425,Zhang Yu Sheng,spotify:artist:3LefT7hR0PJgShJNQoPns5,0.516,0.491,"['c-pop', 'classic mandopop', 'mandopop']",1.89e-05,10,0.231,-9.99,1,42,0.0307,86.118,4,4XglvuvmwdVQ1MpV3zNUnR,大海,0.279
+393,0.552,Zhang Zhen Yue,spotify:artist:6PNEi9i2MxUgRufqYr76Xt,0.646,0.356,"['c-pop', 'mandopop']",1.63e-06,0,0.0964,-10.804,1,47,0.0268,90.079,4,2fc2vUA5H3mTAr9rQoBDKt,愛我別走,0.684
+394,0.994,Zhang Ziqian,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.658,0.112,"['chinese guzheng', 'chinese traditional']",0.884,11,0.119,-19.85,1,11,0.0526,114.954,4,4kNixFFc1UGqZf6TR9t7FN,Plum Blossom Melody - Three Variations (Mei Hua San Nong),0.13
+395,0.944,Zhao Yuzhai,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.396,0.432,"['chinese guzheng', 'chinese traditional']",0.915,2,0.281,-13.107,1,17,0.0547,176.331,4,5p7GAsxHNrCNZRyOFV4rAU,Nightingale and Oriole,0.238
+396,0.282,Zhaoze,spotify:artist:37qa50Glbxe4xOGhE9WbWr,0.274,0.499,['instrumental post rock'],0.952,0,0.106,-9.339,1,7,0.0307,96.932,3,1NSPVvyEUBrmO5GGctVHh4,The Worthless,0.129
+397,0.721,Zhen Chen,spotify:artist:0K0PYkcoj9DfV20gpn7Gbx,0.204,0.275,['chinese classical'],0.295,4,0.0639,-11.685,0,34,0.0411,82.787,5,2j6QxVmMVv73LIkl1hPWnN,On the Roof,0.193
+398,0.00526,Zhena,spotify:artist:5pLSTWvO2yiOHERlNuanA5,0.734,0.942,['sky room'],0.0548,1,0.0755,-4.73,1,22,0.136,127.998,4,2Y2jz2EvE2mDEVOspmUShL,Midnight Sun - Original Mix,0.573
+399,0.00231,Zhestyanshiki,spotify:artist:26dtVGC9YRJ0HESFAr6ctN,0.639,0.974,['hard bass'],0.000509,1,0.0337,-6.248,1,31,0.285,149.973,4,4dTGr5IIDErBykh2WjBvQX,Party Alarm,0.161
+400,0.0433,Zhony Style,spotify:artist:2sHHbMKDjdsokskVn9yQ1j,0.836,0.873,['electro bailando'],0.0014,11,0.221,-4.357,0,20,0.0638,110.018,4,6B9eLUfy7zAtZ5GRiL7TaP,Empuja,0.76
+401,0.821,Zhou Yu,spotify:artist:4fDoSKt5R8xLEYFpFg6Eqx,0.433,0.171,['chinese traditional'],0.0674,4,0.0908,-13.253,0,13,0.0429,117.258,4,7biOVZ0Ge7rUPW5zfXM7xA,White Hada,0.513
+402,0.00293,Zhrine,spotify:artist:1pbBYjEha7Imflp991yDzG,0.313,0.603,"['icelandic metal', 'voidgaze']",0.962,0,0.0948,-11.222,0,13,0.0451,105.245,4,2UHWCSeQpVsBdQHiuNGWJy,Utopian Warfare,0.0421
+403,0.00567,ZHU,spotify:artist:7CajNmpbOovFoOoasH2HaY,0.777,0.799,"['edm', 'tropical house']",0.267,11,0.102,-6.815,0,33,0.0551,124.012,4,6Jxi24gCI8CX9dg853YPC2,One Kiss (with Dua Lipa) - ZHU Remix,0.219
+404,0.989,Jianer Zhu,spotify:artist:2weBYkdrjYo0bNq9qnjPCJ,0.348,0.0611,['chinese classical'],0.925,5,0.143,-24.601,0,0,0.0438,112.117,3,6ZWGCpWj0V75L4VJ1NmQzS,"Prelude No. 2, Op. 4, No. 2, ""The Running Stream""",0.0436
+405,0.996,Zhu Xiao-Mei,spotify:artist:2UqjDAXnDxejEyE0CzfUrZ,0.35,0.00985,['classical piano'],0.963,5,0.104,-36.043,1,43,0.0539,70.67,4,6niy47JlyU2BbXRyvahTNm,Kinderszenen opus 15: Kinderszenen opus 15: VII. Träumerei,0.248
+406,0.397,Zhu Xiaolin,spotify:artist:1hDzFyUdQtYCZDetKH3nWu,0.525,0.364,['vintage chinese pop'],2.35e-05,10,0.0681,-12.341,1,0,0.0315,106.816,4,73XBgMIQGLkSq9VQsPZBlZ,Mama's Kisses,0.73
+407,0.984,ZIA,spotify:artist:4aR05jFatlHj8gBEmlzPq8,0.405,0.0347,['korean pop'],0.922,1,0.0779,-23.628,1,37,0.0445,66.143,4,71RsyOqBGLXGlIvVEwSI3U,Sparkling Heart,0.161
+408,0.836,Zia Mohiuddin Dagar,spotify:artist:2vHem6PNwo85W01g17IRbG,0.117,0.00725,"['hindustani classical', 'hindustani instrumental', 'indian classical']",0.00137,8,0.0907,-31.667,1,14,0.0311,82.967,3,28p3AUitPD7fiJP56kFIZY,Raga Shuddha Todi: Alap,0.0699
+409,0.32,Ziad Borji,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.585,0.867,['arab pop'],0.0,9,0.622,-5.807,0,18,0.135,139.997,4,2aWuqvVQC32soEui0huO3d,Habib Mira,0.814
+410,0.655,Ziad Bourji,spotify:artist:04N4sGkSTSxjVfbiItLvTj,0.826,0.719,['arab pop'],0.0117,11,0.106,-4.654,0,46,0.0374,119.976,4,51hN3ScR3uO358mhvpYJ8F,Shou Helou,0.944
+411,0.952,Ziad Rahbani,spotify:artist:56F07EgoDt7uxzQUb6HZnT,0.291,0.231,"['arab folk', 'arab pop', 'classic arab pop']",0.382,9,0.237,-18.808,1,27,0.0418,157.168,3,0fylgLeNObjVvwhd8caHqX,Bala Wala Chi,0.371
+412,0.218,Ziana Zain,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.538,0.636,"['classic malaysian pop', 'malaysian indie', 'malaysian pop']",1.43e-06,11,0.0881,-5.967,0,22,0.0313,179.921,3,1xBeJixN7iLgnURpoHXldu,Indah Di Hari Raya,0.892
+413,0.798,Ziba Shirazi,spotify:artist:6NNGSSk426m22KPETpX0Tt,0.495,0.498,['classic persian pop'],0.0,4,0.49,-10.031,0,1,0.0605,141.366,4,6cJrGorcVkVDQX0FIX3ZFB,Zan (Live),0.501
+414,0.798,Ziba Shirazi,spotify:artist:6NNGSSk426m22KPETpX0Tt,0.495,0.498,['classic persian pop'],0.0,4,0.49,-10.031,0,1,0.0605,141.366,4,6cJrGorcVkVDQX0FIX3ZFB,Zan (Live),0.501
+415,0.00111,Zibra,spotify:artist:2Bf6p6mOOM2fXrerjiDsHe,0.587,0.794,['alt-indie rock'],1.26e-06,7,0.0782,-4.949,1,33,0.0384,113.05,4,3DY5LE8QRLm2kpefWFtF09,Goodbye Mondays,0.296
+416,0.00111,Zibra,spotify:artist:2Bf6p6mOOM2fXrerjiDsHe,0.587,0.794,['alt-indie rock'],1.26e-06,7,0.0782,-4.949,1,33,0.0384,113.05,4,3DY5LE8QRLm2kpefWFtF09,Goodbye Mondays,0.296
+417,0.221,Zico,spotify:artist:6aLdhHUqgdKE86xbtNmY8g,0.457,0.818,"['dance pop', 'k-hop', 'k-pop', 'korean pop']",0.0,4,0.435,-4.157,0,54,0.261,96.168,4,6BMoDsXoj1bdIRBCYzYjcw,Oasis (feat. ZICO),0.822
+418,0.221,Zico,spotify:artist:6aLdhHUqgdKE86xbtNmY8g,0.457,0.818,"['dance pop', 'k-hop', 'k-pop', 'korean pop']",0.0,4,0.435,-4.157,0,54,0.261,96.168,4,6BMoDsXoj1bdIRBCYzYjcw,Oasis (feat. ZICO),0.822
+419,0.221,Zico,spotify:artist:6aLdhHUqgdKE86xbtNmY8g,0.457,0.818,"['dance pop', 'k-hop', 'k-pop', 'korean pop']",0.0,4,0.435,-4.157,0,54,0.261,96.168,4,6BMoDsXoj1bdIRBCYzYjcw,Oasis (feat. ZICO),0.822
+420,0.858,Zico & Zeca,spotify:artist:3Rf9Uwfr70eqblPsUjhaBp,0.594,0.442,"['sertanejo', 'sertanejo tradicional', 'sertanejo universitario']",3.37e-06,7,0.158,-6.426,1,4,0.0339,85.097,4,7BCEW3sdp5LU5curCst1hb,A Caneta e a Enxada,0.316
+421,0.124,Zididada,spotify:artist:0KPG6aJ67hbMAG9WkE5VvQ,0.912,0.978,"['classic danish pop', 'danish pop rock']",0.0,7,0.0392,-4.267,1,41,0.0441,123.983,4,0hJXZWpkUx61XnFAybscZN,Zididada Day,0.965
+422,0.0295,ZieZie,spotify:artist:26XzvosH2cl8Re6KSo9m8Z,0.867,0.509,['uk hip hop'],0.0,7,0.0424,-4.884,0,73,0.0918,100.998,4,2H9zpvV33I48HE5jnNvWVB,Fine Girl,0.684
+423,0.291,Zie'l,spotify:artist:031LijKu0G6dcMNQiycICM,0.3,0.594,['praise'],0.0,3,0.105,-7.428,1,19,0.0402,73.258,3,0BLB7mdzNGojzRhsMByx7b,State of Emergency,0.213
+424,0.246,Zifou,spotify:artist:6HhnhnxLsowYuuejvku0Bz,0.796,0.765,['francoton'],1.17e-06,9,0.0867,-6.932,0,34,0.0567,125.035,4,2yOmX1jA6robb4N9k2byda,Olé olé - Remix,0.944
+425,0.322,Zig Zags,spotify:artist:4Icvbp9RDt5aY2TWDOVDsr,0.927,0.368,['garage pop'],0.0,9,0.168,-7.875,1,67,0.393,99.051,4,1ACZpHI5vZ5Ea4xGlkdGWM,Crazy Rap (Colt 45 & 2 Zig Zags),0.55
+426,0.898,Zig Ziglar,spotify:artist:0mOj2krxqIiBWl8Ie0phrP,0.63,0.306,"['guidance', 'motivation']",0.0,11,0.0913,-13.994,1,23,0.957,82.654,4,2YvCCcOqA8RdQ4Aj3nP59G,"How to Stay Motivated: Developing the Qualities of Success (Unabridged), Part 1",0.692
+427,0.00118,Zigan Aldi,spotify:artist:5nNJbOr2phyzj0KvIv7HL1,0.745,0.414,['deep melodic euro house'],0.908,2,0.0969,-12.012,1,33,0.0578,117.993,4,5bAGi2Q55H5gHMX90dNe39,Blue Hill Feat. Sandeck - Pophop Remix,0.0762
+428,0.0796,Ziggi Recado,spotify:artist:0tvYfnkHhiQcVsR69cfAW8,0.636,0.694,"['dancehall', 'reggae fusion']",0.0,11,0.183,-6.517,0,43,0.318,79.779,4,0wqjdq7nZUVdNOEdyu8xb7,Need To Tell You This,0.82
+429,0.048,Ziggy,spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy,0.44,0.565,"['reggae', 'roots reggae']",0.0,7,0.213,-11.657,1,65,0.121,161.124,4,5IyL3XOaRPpTgxVjRIAxXU,Ziggy Stardust - 2012 Remastered Version,0.495
+430,0.048,Ziggy,spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy,0.44,0.565,"['reggae', 'roots reggae']",0.0,7,0.213,-11.657,1,65,0.121,161.124,4,5IyL3XOaRPpTgxVjRIAxXU,Ziggy Stardust - 2012 Remastered Version,0.495
+431,0.048,Ziggy,spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy,0.44,0.565,"['reggae', 'roots reggae']",0.0,7,0.213,-11.657,1,65,0.121,161.124,4,5IyL3XOaRPpTgxVjRIAxXU,Ziggy Stardust - 2012 Remastered Version,0.495
+432,0.048,Ziggy,spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy,0.44,0.565,"['reggae', 'roots reggae']",0.0,7,0.213,-11.657,1,65,0.121,161.124,4,5IyL3XOaRPpTgxVjRIAxXU,Ziggy Stardust - 2012 Remastered Version,0.495
+433,0.048,Ziggy,spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy,0.44,0.565,"['reggae', 'roots reggae']",0.0,7,0.213,-11.657,1,65,0.121,161.124,4,5IyL3XOaRPpTgxVjRIAxXU,Ziggy Stardust - 2012 Remastered Version,0.495
+434,0.33,Ziggy Alberts,spotify:artist:6tuPdaFPIytg3l2f51L7Hw,0.752,0.498,"['indie anthem-folk', 'indie folk']",0.000134,5,0.351,-11.936,1,61,0.0412,109.992,4,5lN3gM5Q6rcHzkY6TFAslJ,Runaway,0.505
+435,0.976,Ziggy Elman,spotify:artist:4WoGga7UeRcmjD4ufif4nG,0.666,0.266,['jazz trumpet'],0.029,5,0.066,-8.422,0,12,0.04,131.292,4,1Ec5BWpDrD34eQOguIqN2d,"Kiss the Boys Goodbye (From ""Kiss the Boys Goodbye"")",0.554
+436,0.211,Ziggy Marley,spotify:artist:0o0rlxlC3ApLWsxFkUjMXc,0.807,0.458,"['reggae', 'roots reggae']",9.01e-06,9,0.0839,-9.594,0,65,0.0361,100.959,4,1ZPsdTkzhDeHjA5c2Rnt2I,Beach In Hawaii,0.874
+437,0.211,Ziggy Marley,spotify:artist:0o0rlxlC3ApLWsxFkUjMXc,0.807,0.458,"['reggae', 'roots reggae']",9.01e-06,9,0.0839,-9.594,0,65,0.0361,100.959,4,1ZPsdTkzhDeHjA5c2Rnt2I,Beach In Hawaii,0.874
+438,0.497,Ziggy Marley & The Melody Makers,spotify:artist:3Z2jmNAP2UaGa8lPpi54wD,0.617,0.464,"['reggae', 'reggae fusion', 'roots reggae']",7.08e-06,2,0.0724,-11.918,1,50,0.142,107.982,4,5WRntsKbqmDrlF0ElhRFTl,One Good Spliff,0.613
+439,0.431,Ziggy Pockets,spotify:artist:0eOQRbcnwnvLhqwEC0SJGb,0.81,0.591,['redneck'],9.1e-06,0,0.1,-4.9,1,27,0.0724,92.955,4,6y36030TXZtTbUcOuo8nuD,Whiskey Bottle (feat. Junior Raimey & Junior Raimey),0.678
+440,0.431,"Ziggy Pockets, Footer White, Sunny Ledfurd)",spotify:artist:0eOQRbcnwnvLhqwEC0SJGb,0.81,0.591,['redneck'],9.1e-06,0,0.1,-4.9,1,27,0.0724,92.955,4,69WhBkh1AJvXeBT7oblGl4,Wild Child,0.678
+441,0.0579,Ziggy Soul,spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy,0.573,0.404,['gospel reggae'],1.6e-06,2,0.217,-12.142,1,52,0.0624,72.906,4,1bo6xzrCrK7ocEirC5rrZk,Soul Love - 2012 Remastered Version,0.71
+442,0.000259,Ziggy X,spotify:artist:3n6RTmT1sgWeNNCfPyJMw3,0.772,0.626,"['bubble trance', 'hands up']",0.0,4,0.355,-8.798,0,41,0.0391,98.907,4,6LcdjXKcSzyp2dMboGWvvz,Right Now (feat. SOB x RBE & Ziggy),0.448
+443,0.147,Ziggy Lah,spotify:artist:641ldeBxXmEgw6lsffQa23,0.764,0.705,['bongo flava'],0.0,7,0.0766,-4.99,1,0,0.183,96.979,4,2F7UP8DM5bJanyagqyTz4L,"All Over the Map (feat. Maggz, Kenny Majozi and Ziggy Lah) - Worldwide Remix",0.745
+444,0.162,Zigtebra,spotify:artist:7FOUZmhWx5J8zSVHpTryLb,0.802,0.485,['chicago indie'],0.00305,2,0.15,-8.49,1,7,0.0933,160.074,4,0qUhy6c7rv62rnpcwQe22v,Bay Bay,0.558
+445,3.39e-05,Ziki,spotify:artist:4BKyei61gtyDFxlKhcvBJJ,0.554,0.835,['full on'],0.601,9,0.237,-11.834,1,7,0.0351,145.024,4,7E1cJG2qO6nj6axl5mLUTh,Switchback - Ziki Remix,0.28
+446,0.0523,Zilla,spotify:artist:0W6Vi3JrMz1BtEOUqG2mcG,0.699,0.548,['deep trap'],0.0,1,0.11,-5.123,1,43,0.15,117.806,4,1QVe2hhMHMl0pdscX4gM0A,MDT: Mafia Dinner Table,0.19
+447,0.0523,Zilla,spotify:artist:0W6Vi3JrMz1BtEOUqG2mcG,0.699,0.548,['deep trap'],0.0,1,0.11,-5.123,1,43,0.15,117.806,4,1QVe2hhMHMl0pdscX4gM0A,MDT: Mafia Dinner Table,0.19
+448,0.219,Zillertal Power,spotify:artist:6Vi0KXOqdfCqg3g2TvWNt8,0.696,0.906,"['volksmusik', 'zillertal']",0.00041,0,0.0657,-3.221,1,28,0.0409,140.033,4,2aunByDg2fGhFVcElph4wk,Zillertal Power - Stimmungsmedley: Die Hände zum Himmel / Esellied / Esellied / Viva Colonia / Cowboy und Indianer (Hol das Lasso raus) / Ein Stern der deinen Namen trägt,0.961
+449,0.194,Zillertal Pur,spotify:artist:36QN3QC46XPHcRL83SlOC6,0.777,0.94,"['volksmusik', 'zillertal']",0.885,2,0.0338,-2.233,1,9,0.0483,150.057,4,3NXi2P7D8Cqsd8MSN4rKTv,Zillertal Pur-Polka,0.973
+450,0.696,Zillertaler Gipfelstürmer,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.617,0.525,['zillertal'],9.82e-06,5,0.0712,-10.652,1,0,0.0371,83.905,4,1cKfsVO1iFbJ7WaGVQETUV,Zillertaler Musig,0.971
+451,0.677,Zillertaler Gipfelwind,spotify:artist:6ARzW2LDWfrrUtRLu4nhg6,0.515,0.658,"['volksmusik', 'zillertal']",0.0,5,0.136,-6.065,1,23,0.0624,129.591,4,5H96Q3abzF8o0YEORpCYMw,Mit A Tiroler Musig Aus Den Bergen,0.938
+452,0.378,Zillertaler Haderlumpen,spotify:artist:5dEmNDjaVcNDfSiwkbghyM,0.74,0.862,"['volksmusik', 'zillertal']",0.0,0,0.331,-3.345,1,9,0.0925,139.989,4,2HWLen1nyfSeiO6Ygg1ZM5,Mordsgaudi - Haderlumpen XXL,0.893
+453,0.208,Zillertaler Mander,spotify:artist:1FbohdkiJtGf2RXTnoUi57,0.483,0.886,"['volksmusik', 'zillertal']",0.0,2,0.234,-4.772,1,8,0.214,206.158,4,0PyakkaLtxmFU8Tee7d9Hd,Zillertaler Mander live on Tour,0.915
+454,0.712,Zillertaler Schürzenjäger,spotify:artist:1Co7VCKyS0KXwn3SiKXykR,0.535,0.787,"['austropop', 'classic schlager', 'schlager', 'volksmusik', 'zillertal']",0.000666,5,0.196,-3.456,1,29,0.0354,138.026,4,3OPfMmSNorSMefoUtQ5JGq,Solo Jodler,0.974
+455,0.104,Zilo,spotify:artist:3fcW2V4zOfFm0IsWCJUuzz,0.734,0.531,['bass trap'],0.0,6,0.125,-5.691,0,41,0.221,91.076,4,22jjnj2eL1aEGwWEM8d0WH,Keep Up Wimmi,0.558
+456,0.725,Zim Ngqawana,spotify:artist:4qdVIjJlcWfH8Y1l9Rbcpc,0.567,0.27,['south african jazz'],0.445,6,0.107,-14.42,1,12,0.0295,139.398,4,32ELFeRRXefxReHKgfZ7JI,Elegies in C minor: (Opus #1) Qula Kwedini,0.407
+457,0.0295,Zimbabwe Legit,spotify:artist:4s35bUDFJoEk1UnbfQ4wOW,0.589,0.547,['zim'],0.391,0,0.226,-10.764,1,11,0.159,150.985,4,4djyP83Aq8tUDXH1Zt7akr,Shadow's Legitimate Mix,0.44
+458,0.942,Zimbabwe Shona Mbira Music,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.464,0.175,"['mbira', 'zim']",0.00112,11,0.0492,-22.346,0,9,0.0545,120.89,4,45pahgQezqv4xU3GHbgrqF,Nhemamusasa: Complete Performance,0.466
+459,0.537,ZIMBABWE The African Mbira: Music of the Shona People,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.63,0.0979,['mbira'],0.0,5,0.243,-20.121,1,4,0.0848,116.302,4,0KTgr6OglZBxjDysHE7c2b,Kana Ndoda Kuramba Murume,0.698
+460,0.668,Zimbo Trio,spotify:artist:55ya732YIbmYcA2E9foMJe,0.455,0.545,"['bossa nova', 'brazilian composition', 'choro', 'samba']",0.0171,5,0.0918,-7.664,0,26,0.0414,138.355,4,3bqzeiktzDnOu7RtbB8kb6,Zimbo Samba,0.498
+461,0.0751,Zimbra,spotify:artist:2x9SpqnPi8rlE9pjHBwmSC,0.67,0.743,['brazilian rock'],0.223,8,0.241,-10.371,1,45,0.0332,113.883,4,2zdlkG9g5Mt0alUdqn7s3D,I Zimbra - 2005 Remastered Version,0.93
+462,0.155,Zimmer,spotify:artist:0YC192cP3KPCRWx8zr8MfZ,0.221,0.0879,['soundtrack'],0.698,7,0.0869,-16.996,1,71,0.0381,126.622,4,6ZFbXIJkuI1dVNWvzJzown,Time,0.0401
+463,1.72e-05,Zimmers Hole,spotify:artist:3oEgpuVSe4DDtzR7GMiLyS,0.333,0.863,"['canadian metal', 'vancouver metal']",0.161,8,0.187,-5.115,0,31,0.069,175.04,4,6CjjAOX5k0J3hKypzOJyrH,When You Were Shouting at the Devil...We Were In League With Satan,0.0492
+464,0.795,Zimpala,spotify:artist:0sKvyHIsuZMjaLWyHFX4RV,0.786,0.416,['electro jazz'],0.00227,4,0.199,-10.058,0,32,0.0357,118.875,4,5NBn717wWdFfdJvo692amC,Adios,0.256
+465,0.154,Zina Daoudia,spotify:artist:7z6FZ4HMfpp3zHy5OFq93i,0.607,0.887,"['deep rai', 'rai']",0.0,7,0.107,-2.905,0,31,0.128,93.964,4,3LzMkcKrdofnBShewD48J5,Sayidati,0.686
+466,0.00138,Zinc,spotify:artist:1cwlYsgHBYvLzT4C24AliQ,0.838,0.737,"['bassline', 'deep groove house', 'drum and bass', 'house', 'jump up', 'jungle', 'speed garage', 'uk garage']",0.897,11,0.123,-5.094,0,52,0.155,130.024,4,7Hfv8YkxL6dZRyuKQLMD0H,Gammy Elbow,0.799
+467,0.0711,Zingaia,spotify:artist:4p9YAEmGLGHbwqkhJEagtK,0.719,0.434,['healing'],0.842,9,0.0803,-14.373,1,9,0.0328,119.998,4,1l8yV7w1V2G3TwBbY9uJ0H,Nomad's Land,0.523
+468,0.00225,Zinhle Ngidi,spotify:artist:4j9zc19lwaM4NY6PDHn81B,0.758,0.816,['gqom'],0.0537,11,0.0367,-8.321,0,17,0.0389,125.002,4,7Dho3iSFr91XxOvyTRqz2n,"Sikelela (feat. Professor, Zinhle Ngidi & Nelz)",0.893
+469,0.00225,Zini,spotify:artist:4j9zc19lwaM4NY6PDHn81B,0.758,0.816,['gqom'],0.0537,11,0.0367,-8.321,0,17,0.0389,125.002,4,7Dho3iSFr91XxOvyTRqz2n,"Sikelela (feat. Professor, Zinhle Ngidi & Nelz)",0.893
+470,0.995,Zinka Milanov,spotify:artist:5cFoaoS38WBzMmMU8lrZFL,0.326,0.163,['classical soprano'],7.64e-06,6,0.0924,-16.395,0,0,0.0421,96.234,1,2KJdRwQU2ZuvEGNEDslcud,Na Bembasi,0.178
+471,0.97,Zino Francescatti,spotify:artist:2mPWTnscb2ieCZdEHn3mbG,0.471,0.445,['violin'],0.902,4,0.258,-11.106,0,4,0.0431,131.598,3,5snHcwX3YBkuPnIpjnfK04,Preludium And Allegro In The Style Of Pugnani,0.598
+472,0.4,Zinou,spotify:artist:55ucKrMMV6vgUCe52TedFh,0.497,0.699,['deep rai'],0.0,2,0.342,-6.655,0,0,0.122,178.61,4,5UJkYoGH5JhqcoO0U4pOsV,Mahla Zinou,0.671
+473,0.16,Zion,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+474,0.16,Zion,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+475,0.16,Zion,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+476,0.16,Zion,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+477,0.16,Zion,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+478,0.16,Zion,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+479,0.16,Zion,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+480,0.16,Zion,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+481,0.16,Zion,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+482,0.16,Zion & Lennox,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+483,0.16,Zion Baruch,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,2DE8YKCT5KUvbNiRJDhK4g,Baruch Eheye,0.602
+484,0.154,Zion Golan,spotify:artist:24HI9hevLjIQtj7xp2CeHs,0.713,0.949,"['hebrew pop', 'israeli mediterranean', 'mizrahi']",0.0,3,0.258,-3.882,0,18,0.0441,97.008,4,3pNTU8KByNAc9IN3fy3e2U,Janantani,0.9
+485,0.0333,Zion I,spotify:artist:3LLs28LJVlXAjWc8UDkcQZ,0.811,0.678,"['abstract hip hop', 'alternative hip hop', 'hip hop', 'pop rap', 'underground rap']",0.00123,8,0.105,-7.357,1,55,0.0561,91.976,4,2FhN2KhUvT91Q3Er4v9Qpd,Coastin',0.426
+486,0.256,Zion Train,spotify:artist:2QsynagSdAqZj3U9HgDzjD,0.914,0.512,"['dub', 'electro dub', 'uk dub']",3.96e-05,9,0.0723,-8.183,0,38,0.0364,128.67,4,2Uqayp7267V5SJYOf7fLmV,Zion Train,0.946
+487,0.16,Zion & Lennox,spotify:artist:21451j1KhjAiaYKflxBjr1,0.769,0.838,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']",0.0,2,0.0935,-5.238,1,90,0.0633,93.996,4,0VKkyBKCXyR99navhVRqcP,La Player (Bandolera),0.602
+488,0.0298,Zion.T,spotify:artist:4XpUIb8uuNlIWVKmgKZXC0,0.736,0.806,"['k-indie', 'k-pop', 'korean pop']",0.0,7,0.0847,-2.709,1,52,0.328,119.936,5,2MNv9hlHsQUlxG00IKNxUY,Eureka (Feat. Zion.T),0.763
+489,0.0187,Zior,spotify:artist:4ATq1cOmrIAtiZkIfxRXaS,0.524,0.778,['psychedelic blues-rock'],0.000516,2,0.162,-8.673,1,17,0.0335,169.554,4,2eYHDsS2hCaNZ2wpjwPHeU,Strange Kind Of Magic,0.936
+490,0.000164,Zip-Tie Handcuffs,spotify:artist:3S0fKe8bGWt8Q0EQAqpjyE,0.337,0.953,['boston rock'],0.0524,11,0.351,-4.814,0,6,0.0545,104.485,4,0w5UX2rac1DJhUnywBSAuD,Beach Peach,0.508
+491,0.0257,Zipera,spotify:artist:4Nf16BAGYNUNLHbvm6xUQd,0.695,0.824,['polish hip hop'],0.0,11,0.586,-4.977,0,37,0.213,91.496,4,6RgnUQ9jV1bLGyRD3gHYzd,Bez Ciśnień,0.748
+492,0.508,Zippers,spotify:artist:0LIll5i3kwo5A3IDpipgkS,0.566,0.802,['swing'],0.000235,2,0.101,-7.495,1,39,0.0751,102.984,4,7bgqK0cWSR4wFNxhnBtFyB,Hell,0.808
+493,0.0141,Zippo,spotify:artist:1BBIIH0h76KN8gYeXFcPjR,0.375,0.949,['retro metal'],0.0,0,0.274,-5.025,1,25,0.086,89.193,3,3bPs8H1voLAfjIgwOFSt7H,Zippo,0.671
+494,0.148,Zippy,spotify:artist:42pJWNBJ7CtAGFjmuPksEp,0.712,0.808,"['azonto', 'hiplife']",3.55e-06,9,0.0513,-7.995,0,26,0.0464,115.996,4,0g1VSk3zf99q1ku5LLUaws,Aso,0.953
+495,0.0217,ZIPS,spotify:artist:3HiuzBlSW7pGDXlSFMhO2g,0.798,0.642,['deep punk rock'],0.0,1,0.137,-5.221,1,39,0.31,120.033,4,15LEbW0gqxtgy2eXSArkwG,16 Zips,0.247
+496,0.382,Zipso,spotify:artist:5ShmPgIOdaTBYxWl97rTyU,0.72,0.547,['polynesian pop'],0.0,7,0.0756,-10.302,1,20,0.0464,129.878,4,5rIiKni9zpeeqX6wUV0O1w,Muzika o Le Alofa,0.669
+497,0.000306,Zircon,spotify:artist:0CGpNBihXlpMsjwHjVKNIO,0.62,0.885,"['deep chiptune', 'video game music']",0.908,4,0.123,-6.28,0,43,0.0607,125.003,4,06kiKfvYW5ZaXwfvZYlnhY,Colossus,0.344
+498,0.257,Zita Swoon,spotify:artist:59SiM3ClD8AGada5EGJ5G7,0.67,0.609,"['belgian indie', 'belgian rock', 'dutch indie']",0.0136,0,0.0526,-8.029,1,36,0.035,83.031,4,7zmXOkHrbbTtPb8OLamdnC,Thinking About All The Time,0.876
+499,0.0846,Zita Zoe,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.662,0.836,['rap chileno'],0.0,4,0.675,-6.318,1,50,0.355,90.126,4,20JyLsaGV5UJ0RLXDL4KXG,God Level (La Batalla de los Dioses),0.905
+500,0.0478,Zito,spotify:artist:4IPDnwurwc0J2tXUty2hO4,0.721,0.582,"['blues', 'blues-rock', 'electric blues', 'modern blues', 'power blues-rock']",0.00224,9,0.2,-10.419,0,44,0.0262,95.141,4,2b1akqaINKryMyWyNe1WZL,I Wouldn't Treat a Dog (The Way You Treat Me),0.778
+501,0.0478,zitrotipol,spotify:artist:4IPDnwurwc0J2tXUty2hO4,0.721,0.582,"['blues', 'blues-rock', 'electric blues', 'modern blues', 'power blues-rock']",0.00224,9,0.2,-10.419,0,44,0.0262,95.141,4,2b1akqaINKryMyWyNe1WZL,I Wouldn't Treat a Dog (The Way You Treat Me),0.778
+502,1.6e-05,ZitroxBeats,spotify:artist:368D3gemNA7eJdumgamAbV,0.611,0.358,['beats'],0.896,5,0.257,-12.719,0,11,0.0324,140.072,3,1gmfkD6o7c8FHjcBjbnP6U,There Is Always A Way Motivational Instrumental Beat,0.235
+503,0.394,Zitten,spotify:artist:3of4z5k152Et4C0IQ7HUAg,0.552,0.359,"['k-indie', 'korean pop']",0.0,1,0.114,-6.856,1,30,0.0347,119.918,4,46Dj1mRpPLotsozWRlUvIy,I'll Be There,0.082
+504,0.0723,Zivilia,spotify:artist:4LyTIqOGH7OtKQtRTTuACE,0.588,0.731,['dangdut'],0.0,4,0.204,-4.897,1,39,0.0302,140.016,4,1ZWXCJLXxCVGqlIE63QcAP,Aishiteru - Version 1,0.59
+505,0.00549,Ziynet Sali,spotify:artist:7zVYyYhGZxvPHPuhzReYHP,0.804,0.734,"['arabesk', 'deep turkish pop', 'turkish pop']",0.000201,8,0.155,-6.579,0,46,0.0386,115.969,4,72tPqfHrm8AllLhNIiXKOl,Deli Divanenim,0.571
+506,0.53,Ziyon,spotify:artist:0R3pn7bweUwpLd98080DYO,0.726,0.605,['afro house'],5.1e-05,2,0.0681,-7.098,0,7,0.0612,82.027,4,2OYrqAxbuAZE8cANvcGjx5,Feel so Good (feat. Ziyon),0.916
+507,0.033,Ziza Bafana,spotify:artist:1psxnLyHCsAG7LYFZonEnS,0.845,0.923,['ugandan pop'],0.0,1,0.0595,-1.936,0,14,0.283,105.738,4,1iIGYjQvuMsXTyUSMI4uKg,Akalulu,0.83
+508,0.847,Ziza Fernandes,spotify:artist:1FpUYWktSYkpryKsKQFWiK,0.296,0.299,['brazilian ccm'],6.96e-05,4,0.869,-12.463,1,36,0.0317,119.934,4,77BGYjSaufQr7IvkIZn752,O Que Agrada a Deus / Meu Tudo (Ao Vivo),0.18
+509,0.216,Zizan Razak,spotify:artist:7GkUskIBOKpJRyzpE7WQBD,0.803,0.88,"['malaysian hip hop', 'malaysian pop']",0.0,11,0.0548,-4.611,1,47,0.0922,95.014,4,1x591ZoPiFNxlXRNeX1rvz,Kita OK,0.948
+510,0.923,Zizi Possi,spotify:artist:65yVjvbkC6m9DzQFihrSvL,0.286,0.223,"['bossa nova', 'forro', 'mpb', 'samba']",0.000156,0,0.141,-9.858,1,22,0.0353,124.223,4,2G92ylPgFY7QDdrGZG1uwV,Per Amore,0.223
+511,0.365,ZJ,spotify:artist:32EMPFuSw1tkuAxXxGh2CU,0.775,0.864,['vapor trap'],2.8e-06,0,0.205,-2.897,0,34,0.058,98.998,4,0UytwP7EBqpKHbSZLN9jCN,Action,0.449
+512,0.365,ZJ Liquid,spotify:artist:32EMPFuSw1tkuAxXxGh2CU,0.775,0.864,['riddim'],2.8e-06,0,0.205,-2.897,0,34,0.058,98.998,4,0UytwP7EBqpKHbSZLN9jCN,Action,0.449
+513,0.5,ZK,spotify:artist:4uvOZHqwKYuWz1ywTBN5En,0.826,0.51,"['danish hip hop', 'danish pop']",0.000531,1,0.138,-8.626,0,62,0.0813,115.084,4,2lZEnKxY1v6wgR8ipQMwEI,Zum Zum,0.62
+514,0.0438,ZL-Project,spotify:artist:4w8PGLhS3yzYSzeV3x2hkA,0.902,0.364,"['norwegian pop', 'russelater']",0.0164,6,0.623,-14.505,0,52,0.188,115.002,4,5QTMXGjbt5Im429KKeqcwr,Galleriet 2015,0.529
+515,0.0294,Zlata Ognevich,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.605,0.808,['eurovision'],0.0591,9,0.198,-7.271,1,11,0.248,91.914,4,3SC0LVUzSe4SlBqUmnzi2g,Dance - Original Mix,0.526
+516,0.175,Zlata Petrovic,spotify:artist:5zBVfn94hp1g7ws9qvhq3X,0.686,0.884,['turbo folk'],0.0,6,0.311,-4.062,0,10,0.0646,106.01,4,5EFeCocXKSTXaWA6TSaS3J,Vodicemo mi ljubav,0.827
+517,0.627,Zlatko Pejakovic,spotify:artist:4cV4srAwRAGytCM8Bpxh9x,0.733,0.473,['croatian pop'],0.0,9,0.119,-10.765,1,24,0.0321,108.016,4,5yFky6b4qpJT1wkZdG1nkO,Ako odem prijatelji,0.742
+518,0.435,Zlatne Uste,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.527,0.565,['balkan brass'],0.866,7,0.0413,-7.616,0,5,0.217,50.357,4,3ph50LadtVfEa0VqpOEjro,Boki 13,0.484
+519,0.257,Zlatni Dukati,spotify:artist:6wNpKnX7J4VMll0LKHGGlD,0.275,0.712,['croatian pop'],0.000493,4,0.859,-7.083,1,12,0.0357,83.578,4,0ZLOyJTQWFpXnvO0DykgyN,Ne dirajte mi ravnicu,0.179
+520,0.228,Zmoney,spotify:artist:0iPpMGGZ6U9ohbnaVr3FIA,0.768,0.628,['deep trap'],0.0,2,0.229,-7.343,0,9,0.152,75.502,1,2hPuJba46lgh7sOTt4sOuA,Regular,0.861
+521,0.0229,Zodiac,spotify:artist:29XOeO6KIWxGthejQqn793,0.346,0.753,['beatdown'],0.0641,10,0.3,-4.606,0,55,0.273,79.275,4,4GtN7yHlsvQanJfp2Qzw1A,Zodiac Shit,0.184
+522,0.0229,Zodiac,spotify:artist:29XOeO6KIWxGthejQqn793,0.346,0.753,['beatdown'],0.0641,10,0.3,-4.606,0,55,0.273,79.275,4,4GtN7yHlsvQanJfp2Qzw1A,Zodiac Shit,0.184
+523,0.00515,Zodiac Death Valley,spotify:artist:4iEZf7NRwoSJ4O8sPzYb8z,0.356,0.733,['bay area indie'],0.928,7,0.125,-5.174,1,11,0.033,119.965,4,6aqbfCsCpCNbmYEbX74bhs,Love the Lie,0.583
+524,0.0253,Zodiac Empire,spotify:artist:1QQdz4yWDmGAy2f5c94PC4,0.83,0.724,['indie poptimism'],0.103,7,0.0977,-8.493,1,34,0.277,113.74,4,6hkbIboDoXu4JUuWCY51XV,Zodiac Overdrive,0.633
+525,0.0389,Zodiacs,spotify:artist:1EJzWKVDeysgbyuZGfEFde,0.842,0.434,['doo-wop'],0.866,1,0.0924,-8.601,1,59,0.0922,84.975,4,3by8TFARD2faf2MjZbooSH,Intergalactic Jazzlude Take 2,0.702
+526,0.00212,Zodiaks,spotify:artist:1qhkYLiyOSzQ4yaN66oWVl,0.472,0.631,['latvian pop'],0.818,1,0.113,-14.865,0,15,0.0419,144.891,4,51hV9DFXlZ8aVVd1C29kbt,Zodiac,0.593
+527,0.0461,Zodwa,spotify:artist:3EMGveEEpQzF7iaSomYCRr,0.699,0.923,['kwaito'],4.67e-05,0,0.118,-3.187,1,0,0.0626,116.968,4,21NMPmtGeEC3I7RdoXJTXH,Zodwa,0.695
+528,0.0441,Zoe,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,0.73,0.681,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",0.000245,8,0.27,-7.582,0,65,0.0405,106.017,4,1Z2MfAx1nJ09NzGjodnvRW,Screwed (feat. Zoë Kravitz),0.446
+529,0.0441,Zoe,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,0.73,0.681,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",0.000245,8,0.27,-7.582,0,65,0.0405,106.017,4,1Z2MfAx1nJ09NzGjodnvRW,Screwed (feat. Zoë Kravitz),0.446
+530,0.0441,Zoé,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,0.73,0.681,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",0.000245,8,0.27,-7.582,0,65,0.0405,106.017,4,1Z2MfAx1nJ09NzGjodnvRW,Screwed (feat. Zoë Kravitz),0.446
+531,0.0441,Zoé,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,0.73,0.681,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",0.000245,8,0.27,-7.582,0,65,0.0405,106.017,4,1Z2MfAx1nJ09NzGjodnvRW,Screwed (feat. Zoë Kravitz),0.446
+532,0.0441,ZOË,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,0.73,0.681,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",0.000245,8,0.27,-7.582,0,65,0.0405,106.017,4,1Z2MfAx1nJ09NzGjodnvRW,Screwed (feat. Zoë Kravitz),0.446
+533,0.0441,Zøe,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,0.73,0.681,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",0.000245,8,0.27,-7.582,0,65,0.0405,106.017,4,1Z2MfAx1nJ09NzGjodnvRW,Screwed (feat. Zoë Kravitz),0.446
+534,0.152,Zoe Badwi,spotify:artist:16Mje1BDQmN1DWp4a94YOC,0.528,0.93,['australian dance'],0.0,8,0.356,-4.139,1,30,0.0903,127.932,4,2nr7Ueoj836o32p7105GbG,Freefallin' (Radio Edit),0.22
+535,0.124,Zoe Benson,spotify:artist:3Xnd3IJhfMTY3rh2ONA9Ml,0.388,0.48,['channel pop'],0.0,10,0.105,-6.732,1,39,0.0345,132.17,3,50xD6NBwu5FjHFTNk9Wefj,A Drop in the Ocean,0.379
+536,0.958,Zoë Conway,spotify:artist:1rnvaObFo1fV8lH3nMPpos,0.432,0.161,['irish folk'],0.00202,2,0.0795,-10.609,1,19,0.0354,81.165,4,5x8HPzKUMhnsvnypijJyJx,Capaillín Dubh ina Thaibhreamh,0.668
+537,0.0233,Zoe Grace,spotify:artist:0oT6l2qeK7AECIYMAzp0fe,0.293,0.486,['african gospel'],0.0859,7,0.11,-7.822,0,34,0.0313,86.18,4,0o9Rw3nJYaWxYgL4mwyiRA,Running,0.19
+538,0.953,Zoë Keating,spotify:artist:6OHXnLZCeWUwtdDsBdqOdr,0.496,0.128,"['ballet class', 'bow pop', 'cello', 'compositional ambient', 'etherpop']",0.784,7,0.0749,-16.785,1,37,0.0351,118.013,4,4P1NbXfy88kP5QpV4pcWVh,Sun Will Set,0.138
+539,0.00477,Zoe Lilly,spotify:artist:2d5f52gkCsCBLBqIm7YPsm,0.312,0.646,['brazilian gospel'],0.000423,1,0.677,-4.308,0,38,0.0361,139.768,4,1IOuRVxbNLFoTmWhCT6ufa,Céus Abertos (feat. Zoe Lilly),0.198
+540,0.665,Zoe Mulford,spotify:artist:4gqAmRkKVULUoXROhwi38k,0.636,0.524,['geek folk'],1.31e-06,0,0.224,-6.731,1,8,0.0336,121.794,4,21jHyA1anXoGVNVX0DO8RN,"Sister, Sail",0.76
+541,0.325,Zoe Realla,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.732,0.588,['deep southern trap'],0.0,1,0.338,-6.142,1,17,0.232,153.055,4,4o00rxjvqchzPI6yBWOEjx,Shit Water (feat. Zoe Realla),0.438
+542,0.602,Zoe Sky Jordan,spotify:artist:2eA4glPCdlED6WRJreG0aS,0.431,0.433,['toronto indie'],0.155,10,0.122,-10.919,1,24,0.0306,139.811,4,6yIcw6ebuNt9cXrBg7gb9v,In Another Lifetime (feat. Kyler England),0.198
+543,0.348,Zoe Viccaji,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.653,0.633,['pakistani pop'],5.43e-05,0,0.134,-6.14,1,14,0.0244,110.067,4,70iL1GeEpTTwuTflTpcSwY,Jaana,0.514
+544,0.0441,ZOE',spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,0.73,0.681,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",0.000245,8,0.27,-7.582,0,65,0.0405,106.017,4,1Z2MfAx1nJ09NzGjodnvRW,Screwed (feat. Zoë Kravitz),0.446
+545,0.00807,ZOEgirl,spotify:artist:22xemK8mgxv9dkSKTw6T0G,0.624,0.856,"['ccm', 'christian alternative rock', 'christian music', 'christian rock']",8.15e-06,6,0.305,-5.564,1,24,0.0378,132.018,4,1UX3TUXDf2A2LCbv4cRnJd,I Believe,0.708
+546,0.00874,Zoelah,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.714,0.857,"['chutney', 'soca']",0.0,9,0.0917,-6.206,1,33,0.0425,118.026,4,4V1sxTLIM6lDwBwCXoTmoN,Wine Up On Me,0.945
+547,0.659,Zoen,spotify:artist:0QWgIFBC6pfKTJFdOH4YrS,0.61,0.523,['chip hop'],0.0,3,0.11,-9.025,1,0,0.11,89.893,4,4GFCiYiqFRBxJROrjTtSzD,Mille Fois,0.446
+548,0.0695,Zoey Dollaz,spotify:artist:39Uhf21aJFjMLus1j0YGT8,0.73,0.726,['trap music'],0.0,6,0.155,-3.862,0,56,0.162,120.08,4,17tsMKMSuViTcnDiYwL2tQ,Post & Delete,0.33
+549,0.448,Zoey Van Goey,spotify:artist:0U4tRRQ7UXppF4yXKy03t8,0.69,0.673,"['scottish rock', 'stomp and whittle']",0.0128,8,0.127,-5.49,1,31,0.046,146.965,4,0cSndRbNFjicNcfSzgBrQ8,You Told the Drunls I Knew Karate,0.833
+550,0.383,Zof Ziro,spotify:artist:02zSCw0p861wNWUjuC2jc3,0.841,0.573,['colombian hip hop'],9.62e-05,6,0.105,-11.715,0,34,0.302,92.684,4,3gBcBIHTSd3nab5w53U45C,Ojos de Diablo,0.644
+551,0.0604,Zofka,spotify:artist:7xg75jjxXlfzTi7Vxmo6zE,0.824,0.539,"['acid jazz', 'electro jazz']",0.0,9,0.248,-5.192,0,20,0.0381,118.007,4,5Ed6nmBNVVWDhECiIQOr5A,Je Ne Suis Qu'à Moi,0.672
+552,0.993,ZOFO Duet,spotify:artist:7DnLQaXsqcYkgm0nyDrB3r,0.371,0.00373,['classical piano'],0.553,11,0.0681,-39.064,0,45,0.0518,96.147,4,42DlYwoJlR9aQtGjnStBcA,"The Heaven Ladder, Book 7: Simone's Lullaby (arr. E.-M. Zimmermann for piano 4 hands)",0.132
+553,0.0387,Zohar,spotify:artist:54jZWpivOTllo1afYNSx5U,0.599,0.728,"['hebrew pop', 'israeli mediterranean', 'israeli pop', 'mizrahi']",6.62e-06,10,0.0789,-4.056,0,38,0.0261,133.413,4,02dq80DpQQ0vPkSQEoQzKt,נכון להיום,0.531
+554,0.166,Zoheb Hassan,spotify:artist:77JA6QNMHvMWYArrboZO5i,0.731,0.474,"['pakistani pop', 'sufi']",0.00599,1,0.0724,-9.579,1,39,0.0286,113.888,4,6R8Ai2lNsusm7K7LSvNEHS,Disco Deewane,0.961
+555,0.953,Zohreh Jooya,spotify:artist:4aPe9EHxbJctF6lD7BOslz,0.36,0.387,['classic persian pop'],0.000755,11,0.0889,-9.68,0,30,0.0384,113.2,3,2mzD1w8RXwyNppAhZo7O98,Ayishighinda (Moonlight),0.408
+556,0.0967,Zoinks!,spotify:artist:4Hl6TEQAFgH0XrZq4f8okX,0.79,0.496,['power-pop punk'],0.848,1,0.491,-11.111,0,27,0.0746,116.986,4,06YGEEI6BzNOeEyRxF4qHc,Zoinks,0.808
+557,0.0933,Zola,spotify:artist:3oxkIoEAyXXQlLTZXlffLJ,0.608,0.406,"['indie poptimism', 'indie psych-rock', 'indie r&b', 'vapor pop', 'vapor soul']",0.48,9,0.0752,-10.174,0,49,0.0305,139.901,4,1ulA9EYFYNKePWslyb8evj,Islands,0.312
+558,0.0933,Zola,spotify:artist:3oxkIoEAyXXQlLTZXlffLJ,0.608,0.406,"['indie poptimism', 'indie psych-rock', 'indie r&b', 'vapor pop', 'vapor soul']",0.48,9,0.0752,-10.174,0,49,0.0305,139.901,4,1ulA9EYFYNKePWslyb8evj,Islands,0.312
+559,0.0933,Zola,spotify:artist:3oxkIoEAyXXQlLTZXlffLJ,0.608,0.406,"['indie poptimism', 'indie psych-rock', 'indie r&b', 'vapor pop', 'vapor soul']",0.48,9,0.0752,-10.174,0,49,0.0305,139.901,4,1ulA9EYFYNKePWslyb8evj,Islands,0.312
+560,0.0933,Zola Blood,spotify:artist:3oxkIoEAyXXQlLTZXlffLJ,0.608,0.406,"['indie poptimism', 'indie psych-rock', 'indie r&b', 'vapor pop', 'vapor soul']",0.48,9,0.0752,-10.174,0,49,0.0305,139.901,4,1ulA9EYFYNKePWslyb8evj,Islands,0.312
+561,0.978,Zola Jesus,spotify:artist:78OKNrjc3BvniYTqvpOp6P,0.351,0.128,"['art pop', 'chamber psych', 'chillwave', 'grave wave', 'indie r&b', 'indietronica', 'metropopolis', 'neo-synthpop', 'noise pop', 'witch house']",0.0558,8,0.088,-17.115,1,43,0.0392,119.936,4,2OBnIbLErfbt47kSPmCfAw,Skin,0.076
+562,0.000853,Zolar X,spotify:artist:7cj8glvHhVeCGWpsRGiveT,0.381,0.656,['glam rock'],2.15e-06,7,0.0846,-5.368,1,0,0.0346,114.561,4,6XsYfKEY88PBRuEMcBH7gS,X Marks the Spot,0.305
+563,0.985,Zolik,spotify:artist:09YODZebNUt2BxaAJyU29j,0.257,0.136,['otacore'],0.848,0,0.0716,-13.791,1,42,0.0402,180.041,3,4dJvi7zRoXFW9FuyzOLlOQ,My Lie,0.12
+564,0.00273,Zoltán Erika,spotify:artist:7C6WY3mGuz9yBnmtJpKgJp,0.716,0.944,['hungarian pop'],0.573,2,0.076,-7.07,0,19,0.0304,126.069,4,3gjCVcVH3kMFkknDnkshEA,Szerelemre születtem,0.968
+565,0.994,Zoltán Kocsis,spotify:artist:1Uff91EOsvd99rtAupatMP,0.417,0.0174,"['classical', 'classical performance']",0.873,4,0.0684,-27.388,1,48,0.0349,66.278,3,5eRfljNo9nICHm8i77T1rA,Deux Arabesques L. 66: No. 1 Andante con moto,0.0552
+566,0.97,Zoltán Kodály,spotify:artist:7MjAFDEchgyC28I0asclTE,0.303,0.073,"['classical', 'early modern classical']",0.928,10,0.446,-26.442,1,36,0.0374,132.156,4,3aj0Mu8DoSkE0QiF7ZfTbp,"Háry János, Op. 15: II. Viennese Musical Clock",0.221
+567,2.85e-05,Zombie Cats,spotify:artist:5RBdF1pJSLF3ugc2Y2PoB8,0.44,0.701,['neurofunk'],0.88,8,0.0579,-7.764,0,19,0.0348,158.125,4,2QxZgQHdpsFAKzNzaJNoH0,Zombie Cats - Original Mix,0.213
+568,0.0295,Zombie Disco Squad,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.857,0.833,"['destroy techno', 'fidget house']",0.00512,7,0.0606,-7.493,1,33,0.0598,124.987,4,6fHx3cPXMCTAt4CtR03V5A,Pinky - Monkey Safari Remix,0.678
+569,0.00513,Zombie Girl,spotify:artist:3HVdAiMNjYrQIKlOGxoGh5,0.524,0.944,"['aggrotech', 'ebm', 'electro-industrial', 'industrial metal', 'steampunk']",0.0269,11,0.236,-5.527,1,59,0.0733,103.062,4,10V8XpuyMoEcSMfM79WDET,Living Dead Girl,0.52
+570,0.00569,Zombie Hyperdrive,spotify:artist:72naL8vQVNsx85zPLuTSWf,0.381,0.809,"['deep chiptune', 'retro electro']",0.975,5,0.114,-6.946,0,46,0.0351,118.069,4,5LbANuq6zz96fVjwLX0Da5,Red Eyes,0.215
+571,0.00415,Zombie Nation,spotify:artist:7vFpNLbCXbBFs4kFBUlkSl,0.714,0.528,['german techno'],0.854,6,0.0819,-8.789,1,59,0.0692,139.983,4,7g8cjrj0sXScNE727685JE,"Kernkraft 400 - DJ Gius Mix, Radio Edit",0.297
+572,0.0209,Zombie Sam,spotify:artist:3XFatrcJ1zXdwJXP3CrWle,0.836,0.578,['neo-industrial rock'],0.0,2,0.105,-8.6,1,19,0.373,114.005,4,1Wwi2hq2hXblsPtEeE9xD8,"Zombie (feat. Lil Dred, Chad 99 & Sam Sneak)",0.499
+573,0.0135,Zombie Western,spotify:artist:5uYImwwtacCGFrFzoRO8tT,0.573,0.883,['instrumental post rock'],3.7e-05,9,0.353,-5.849,0,1,0.0339,97.026,4,3XFSTn2act8WiNHAG9eKo1,Zombie Western,0.748
+574,0.00756,Zombie Zombie,spotify:artist:0eI3X5rAzHRZVe5FPk4MN1,0.448,0.826,"['alternative metal', 'groove metal', 'hard rock', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rap metal', 'rap rock', 'rock']",0.0,2,0.117,-3.244,0,80,0.0319,77.093,4,1vNoA9F5ASnlBISFekDmg3,Zombie,0.19
+575,0.000358,Zombiekrig,spotify:artist:2UM5JWGjTiMPrJ8XxVyiXA,0.208,0.996,['black thrash'],0.228,4,0.236,-3.609,0,9,0.328,190.203,4,74h8Vd15hVjgu5XgYQZcvK,Sjalamord,0.0733
+576,0.506,Zombies,spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL,0.643,0.413,"['hip hop', 'rap', 'trap music', 'underground hip hop']",0.00197,0,0.067,-12.081,1,59,0.142,159.891,4,73kAUSAht4YOR7xNPmNb2L,Zombies,0.457
+577,0.0141,Zombies! Organize!!,spotify:artist:5ZLaKWJMHxlSXG1eREV4fg,0.76,0.711,['nerdcore'],0.000644,4,0.11,-7.018,0,5,0.294,179.963,4,3qERATzsNqtF3Wj4aAl2m8,Trioxin,0.729
+578,7.19e-05,ZombieSuckers,spotify:artist:74IbPaXFMvaoYacsAKZPAS,0.347,0.855,['horror punk'],0.0,7,0.284,-7.559,0,12,0.0545,100.555,4,6u5n26wOldZyJMagBAbkvQ,Endless Sleep - feat. Michale Graves,0.531
+579,0.000592,Zombina,spotify:artist:6yfUz4F7jvOfc8RbK9AmNR,0.333,0.815,"['horror punk', 'psychobilly']",0.125,8,0.46,-6.934,1,25,0.0447,178.127,4,31bmMqEuhkIzMNH3VWzDly,Nobody Likes You (When You're Dead),0.615
+580,0.000592,Zombina & The Skeletones,spotify:artist:6yfUz4F7jvOfc8RbK9AmNR,0.333,0.815,"['horror punk', 'psychobilly']",0.125,8,0.46,-6.934,1,25,0.0447,178.127,4,31bmMqEuhkIzMNH3VWzDly,Nobody Likes You (When You're Dead),0.615
+581,0.000767,Zomboy,spotify:artist:0ycHhPwPvoaO4VGzmMnXGq,0.592,0.988,"['brostep', 'catstep', 'complextro', 'edm', 'electro house', 'electronic trap', 'filthstep', 'glitch', 'moombahton', 'zapstep']",0.707,6,0.0847,-0.846,1,55,0.0997,149.985,4,72RFLY7sigTDszBRAKg9Mf,Like A Bitch - Extended Mix,0.268
+582,0.0725,Zomby,spotify:artist:6ra4GIOgCZQZMOaUECftGN,0.334,0.864,"['bass music', 'dubstep', 'escape room', 'fluxwork', 'future garage', 'intelligent dance music', 'outsider house', 'uk garage', 'vaporwave', 'wonky']",0.00789,2,0.0574,-8.351,1,30,0.227,178.818,4,6nVbBTpuktjfPEOhKNPo7K,Zomby Woof,0.565
+583,0.0467,Zona,spotify:artist:7qG3b048QCHVRO5Pv1T5lw,0.713,0.783,"['latin', 'latin hip hop', 'latin pop', 'pop', 'reggaeton', 'tropical']",1.93e-06,7,0.0449,-3.499,1,71,0.124,90.937,4,32lm3769IRfcnrQV11LO4E,Bailando - Spanish Version,0.958
+584,0.00747,Zona 7,spotify:artist:00NjBHJBqHJXIiKr9OLAhI,0.382,0.963,"['latin christian', 'rock cristiano']",0.000123,9,0.182,-4.196,1,36,0.224,191.905,4,2UD4w1OS6FNWxrbwQi36LF,Harto,0.389
+585,0.335,Zona Ganjah,spotify:artist:3yyWIPmsesks6c7uMnvNn2,0.844,0.74,"['argentine reggae', 'latin alternative']",0.0,6,0.271,-5.054,1,56,0.331,125.536,4,5e7yUjMWmYBvSRFnDihyQ2,Fumando Vamos a Casa,0.871
+586,0.353,Zona Infame,spotify:artist:4nPzlkvWx8hbgt9Ma6if6L,0.607,0.624,['peruvian hip hop'],0.0,1,0.172,-8.257,1,37,0.443,83.656,4,2GxUyF5r1pvjVihKfFoNSH,Tu Traición,0.844
+587,0.71,Zona Roja,spotify:artist:2zXofGxFg93OZHBFAiweAI,0.793,0.617,['merengue'],0.000192,0,0.0971,-11.117,0,18,0.0481,124.721,4,4HEi3yQ9BerjBeeHbpT7Lc,Ven Y Dame Un Poco Mas,0.969
+588,2.87e-05,Zonaria,spotify:artist:3Z2aRkCRESMtOCuRICjDFn,0.373,0.978,"['melodic death metal', 'swedish death metal', 'swedish metal']",0.232,11,0.377,-3.029,1,26,0.0979,143.995,4,2kVv7QJUKAQbOc5yAmWX1W,The Last Endeavour,0.067
+589,0.000219,Zonata,spotify:artist:6EiP4zf8DuisqFZFtoXS49,0.399,0.972,['neo classical metal'],1.72e-06,9,0.321,-3.872,1,36,0.107,160.042,4,7FU1U7N66hWyXiR06M3rqB,Gate of Fear,0.161
+590,0.435,Zonderling,spotify:artist:7f5Zgnp2spUuuzKplmRkt7,0.764,0.762,"['big room', 'deep big room', 'edm', 'electro house', 'house', 'progressive electro house', 'progressive house', 'tropical house']",8.3e-05,11,0.105,-5.092,0,68,0.125,114.966,4,64fwanXDvwmsQrLsDSVHMv,Crazy,0.447
+591,0.0249,Zone,spotify:artist:26dSoYclwsYLMAKD3tpOr4,0.774,0.838,['sleep'],0.025,5,0.242,-3.914,0,77,0.114,143.04,4,6I9VzXrHxO9rA9A5euc8Ak,Toxic,0.924
+592,0.279,Zone 2,spotify:artist:5sRhscbWRXFbjXtSZyfaWY,0.723,0.691,['uk hip hop'],0.0,1,0.0363,-6.784,0,61,0.219,138.038,5,5i2bkKprKcLgcYb07g7I5u,In My Zone,0.512
+593,0.279,Zone 39,spotify:artist:5sRhscbWRXFbjXtSZyfaWY,0.723,0.691,['uk hip hop'],0.0,1,0.0363,-6.784,0,61,0.219,138.038,5,0NeskhLd17jt3EQKN101rE,"Zone 5, Kapitel 39",0.512
+594,0.128,Zongo Junction,spotify:artist:6jMZZ2jAtLmK3TGBYoNmOt,0.703,0.702,['afrobeat'],0.688,4,0.0616,-6.668,0,8,0.0344,99.075,4,7c6l3xg3RayK1zpDp6TGDO,Longtooth,0.824
+595,0.00321,Zonke,spotify:artist:6wMr4zKPrrR0UVz08WtUWc,0.842,0.599,"['afro house', 'kwaito', 'kwaito house', 'south african pop']",0.0167,3,0.0853,-9.436,0,30,0.0769,124.0,4,6MjArfAxpJ7Xf0gazd9WXa,Gardens of Eden,0.513
+596,0.0244,Zonnique,spotify:artist:2pWk5BYgN6HXwIHrZsA1YZ,0.643,0.53,['deep pop r&b'],0.0,3,0.0837,-9.097,1,41,0.0505,120.035,4,27IbTtJDyvoezAn0aQWSMd,Should've Been,0.187
+597,0.0244,Zonnique,spotify:artist:2pWk5BYgN6HXwIHrZsA1YZ,0.643,0.53,['deep pop r&b'],0.0,3,0.0837,-9.097,1,41,0.0505,120.035,4,27IbTtJDyvoezAn0aQWSMd,Should've Been,0.187
+598,0.0475,Zonoma,spotify:artist:5UrrQCLgSkyFRo0I59nXWH,0.637,0.863,"['deep pop edm', 'deep tropical house', 'tropical house']",1.13e-05,11,0.202,-3.129,1,58,0.0949,94.929,4,0ycVaIaqd6xgDOnqr5n2fR,Don't Let Me Down - Tropical House Mix,0.582
+599,0.046,Zonora Point,spotify:artist:5Nj8sBYPlnStp5EkE2f0Lf,0.814,0.632,['nu-cumbia'],0.0,1,0.0873,-5.157,1,18,0.343,92.784,4,70uXcCtOWl07V0xAUaql97,Zkte Esa Bless (feat. Zonora Point),0.876
+600,0.178,Zontani nekri,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.668,0.812,['greek hip hop'],0.0,2,0.682,-7.248,1,0,0.215,94.882,4,5lkuvnfdg4HbzITW0pqMwj,I Nyhta Ton Zontanon Nekron (Live),0.683
+601,0.0853,ZOO,spotify:artist:45zxvEnVXErZclFitxFe7L,0.541,0.52,['tech house'],0.0,6,0.556,-6.561,1,56,0.0572,141.886,4,1RqhnI5ilTMkszaXmq96qc,Sun Zoo,0.877
+602,0.0853,Zoo,spotify:artist:45zxvEnVXErZclFitxFe7L,0.541,0.52,['tech house'],0.0,6,0.556,-6.561,1,56,0.0572,141.886,4,1RqhnI5ilTMkszaXmq96qc,Sun Zoo,0.877
+603,0.0775,Zoo Animal,spotify:artist:27T030eWyCQRmDyuvr1kxY,0.459,0.702,['mathcore'],0.276,9,0.374,-10.109,1,48,0.0937,103.085,4,0YpmF3aZXOIuyi8itZbpkp,The Zoo,0.252
+604,0.112,Zoo Brazil,spotify:artist:7KXpXc29g9x7kFBnM2HcrM,0.513,0.526,['tech house'],0.481,6,0.123,-12.071,0,28,0.0995,121.441,3,3X6m7Cio10i1ocCGhu1qrs,The Dark End,0.557
+605,0.112,Zoo Brazil,spotify:artist:7KXpXc29g9x7kFBnM2HcrM,0.513,0.526,['tech house'],0.481,6,0.123,-12.071,0,28,0.0995,121.441,3,3X6m7Cio10i1ocCGhu1qrs,The Dark End,0.557
+606,0.135,Zoocci Coke Dope,spotify:artist:5aaOOXRTHiW0HNNEcBcmZf,0.771,0.465,['south african hip hop'],0.0,0,0.124,-7.817,1,0,0.374,130.11,4,2Gsg4JrtU8kaqL1snculHW,She Bad (feat. Zoocci Coke Dope),0.169
+607,0.886,Zooey Wonder,spotify:artist:6VI0p0xTjBKKxQN8i8vGpD,0.605,0.222,['taiwan indie'],0.000241,7,0.111,-11.761,1,35,0.0313,108.039,4,5Gs7avC6HzSOD7pyUi1IuI,面對明日的勇氣,0.167
+608,0.0107,Zoogma,spotify:artist:065LNvUlWn6czWo7Eu3HrH,0.559,0.932,['jam band'],0.000221,7,0.283,-1.777,1,37,0.267,159.985,4,10qnLYMfMcYJwR8DwGHJKE,Make Me Feel Good,0.795
+609,0.887,Zoogz Rift,spotify:artist:60tXNkCi5JvKMc4pmucGVU,0.545,0.538,['outsider'],0.000542,6,0.57,-14.125,1,3,0.471,116.638,4,3OZfw4hRXZfADQoMaxc1ti,Rediscover Downtown Paterson,0.407
+610,0.0274,Zookeeper,spotify:artist:1InMheudBVufPrhOccCQHQ,0.651,0.881,"['austindie', 'emo punk']",0.000564,11,0.149,-6.475,1,32,0.309,202.04,4,79WDKE0FyntuBWYpts0Sq2,Zookeeper,0.421
+611,0.156,Zookeepers,spotify:artist:1frSJ3BwjRHE9jgMRQV5wC,0.743,0.616,['bass trap'],0.0,5,0.0921,-5.708,0,69,0.0611,162.067,4,25HWrN7rPVMy7r7JlYZvsC,Drunk On You,0.369
+612,0.0104,Zooki,spotify:artist:13nykZehbewVMKbh6kTGfg,0.501,0.976,"['israeli hip hop', 'israeli mediterranean', 'israeli pop']",0.0,11,0.36,-1.37,0,29,0.164,150.094,4,2iT9IWKuWHma1KmJbB3GMV,Go Stupid! (feat. Ido B & Zooki) - Jaiden Remix,0.629
+613,0.000163,Zoolanda,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.919,0.657,['melbourne bounce'],0.0698,7,0.037,-5.621,1,27,0.211,128.0,4,0Ktc89TBW68J8bR6ZQq3Mq,Schticky - Zoolanda Remix,0.766
+614,0.0328,Zoology,spotify:artist:3V1zHjaKSXKbaOEGNHjuPO,0.556,0.419,['vapor soul'],0.0,9,0.112,-15.014,1,46,0.235,139.617,4,6cv4CM4nkrosrBrUOHEZv6,Maroon,0.305
+615,0.0147,Zoos Of Berlin,spotify:artist:0GZHuvmW6YXFTOxTx9qQ0I,0.573,0.862,['michigan indie'],0.132,9,0.391,-9.259,0,0,0.031,133.5,1,4iZxQ4jBZWSdaSDF8I6Mte,Speak Well of Manderlay,0.59
+616,0.175,Zoot,spotify:artist:1stGNsBocVFM9MfQtySETw,0.568,0.706,"['bebop', 'contemporary post-bop', 'cool jazz', 'hard bop', 'jazz', 'jazz saxophone', 'soul jazz', 'stride', 'vocal jazz']",0.0,8,0.157,-8.679,0,48,0.0837,184.126,4,1qmJbXpVLydNcN6VTR40GU,Zoot Suit Riot,0.896
+617,0.0884,Zoot Money,spotify:artist:3YMjSZPsyhxwfVLJhtol81,0.651,0.725,['british blues'],2.88e-05,7,0.064,-6.374,0,0,0.0352,100.018,4,67BgXDX6U3LEFDoOkPYieT,Mr Money,0.854
+618,0.859,Zoot Sims,spotify:artist:1pwr5rTWLVfqhvHfB7Reap,0.534,0.193,"['bebop', 'contemporary post-bop', 'cool jazz', 'hard bop', 'jazz', 'jazz saxophone', 'soul jazz', 'stride', 'vocal jazz']",0.387,5,0.128,-16.618,1,30,0.0371,106.056,4,1SLEJdHo84mfGoMQXT5PVt,Low Life,0.266
+619,0.0159,Zoot Woman,spotify:artist:25w2vpqq7dYleBAqMx7Ijx,0.572,0.761,"['alternative dance', 'dance-punk', 'electroclash', 'indietronica', 'new rave']",0.189,6,0.175,-6.956,1,38,0.0334,146.975,4,304RTuEoxiePNKRVhIMAvk,Grey Day,0.461
+620,0.859,Zoot Sims,spotify:artist:1pwr5rTWLVfqhvHfB7Reap,0.534,0.193,"['bebop', 'contemporary post-bop', 'cool jazz', 'hard bop', 'jazz', 'jazz saxophone', 'soul jazz', 'stride', 'vocal jazz']",0.387,5,0.128,-16.618,1,30,0.0371,106.056,4,1SLEJdHo84mfGoMQXT5PVt,Low Life,0.266
+621,0.629,Zoowax,spotify:artist:2ATDrbeGBXDzZ4rxXcQNNo,0.893,0.577,['electro swing'],0.0366,0,0.109,-9.734,1,17,0.042,116.033,4,0MMvA3EJq113Wr4o87wDFE,Nine to Five - Radio Edit,0.931
+622,0.462,Zora Jones,spotify:artist:5qKCgbxBDmDc9Ckgmt4EaN,0.808,0.653,['fluxwork'],0.0136,5,0.553,-7.392,0,28,0.0644,111.006,4,7GFYHbviQtKXvha1q4M5Ag,God,0.56
+623,0.0372,Zora Randhawa,spotify:artist:1zrFFDzoE9XXyjEqqgDpMm,0.922,0.855,['desi hip hop'],0.0,1,0.393,-3.743,1,51,0.113,111.797,4,4zuthiRjgwbVdqLL2G5C3x,Nakhra Nawabi,0.92
+624,0.962,Zoran Dukic,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.201,0.11,['classical guitar'],0.862,9,0.0864,-22.646,0,15,0.0437,84.633,4,5GYwXXbbYA5zRQspozn7I7,Reverie on a Javanese Folk-Song - 1990-98,0.0761
+625,0.662,Zoran Kalezic,spotify:artist:14wdK9vxvKaqGQbDkPRnsP,0.588,0.613,['sevdah'],0.0,7,0.242,-6.597,0,2,0.0338,120.12,4,5gZCiOAZJ8ntDbOvQTGQIY,Nocne ptice,0.528
+626,0.295,Zoran Predin,spotify:artist:46uphg1gkRzSckzfFR9HFa,0.607,0.687,['slovenian rock'],1.02e-05,1,0.0644,-7.479,0,1,0.0341,116.993,4,6vEkOBv3yjnNKmJvEYai6p,Sto Bi Mi Bez Nas (feat. Zoran Predin),0.573
+627,0.995,Zoran Tadic,spotify:artist:6CcuPHBAjZtCPeOtLAsc1Y,0.468,0.00426,['focus'],0.908,8,0.0896,-34.803,0,50,0.0686,69.996,3,1gBbH0RjC9Itjj6vinWhfB,Like Trees Planted Near Water,0.162
+628,0.148,Zoran Vanev,spotify:artist:6FTNTuxSSqtaLIK2aCqPKg,0.612,0.975,"['macedonian folk', 'macedonian pop', 'turbo folk']",0.0,7,0.0756,-4.057,1,26,0.115,104.958,4,3MnCasP7iqgVqx8xo6GD8i,Lila,0.721
+629,0.00402,Zorch,spotify:artist:16eRpMNXSQ15wuJoeqguaB,0.458,0.974,['austindie'],1.38e-05,2,0.112,-1.8,1,16,0.261,122.823,4,70mPHwXWGqdGmIHiRXZiUy,"Good Morning Good Morning (feat. Zorch, Grace Potter & Treasure Mammal)",0.101
+630,0.775,Zorica Brunclik,spotify:artist:558hPnuL52uOva91ABioZQ,0.383,0.572,"['sevdah', 'turbo folk']",1.01e-05,4,0.589,-2.65,0,26,0.0407,112.262,4,2UQ7OTlMNa80IMESda9Xqi,A tebe nema,0.5
+631,0.124,Zorka,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.245,0.302,['disco polo'],0.0985,7,0.152,-15.47,1,0,0.0386,179.78,4,6kYuRUV4KmrIDAANfpbHcN,Zorka,0.11
+632,3.51e-05,Zornheym,spotify:artist:5YUadeP4WiWAwaMwXsczgJ,0.45,0.978,['swedish death metal'],0.000186,4,0.234,-6.128,0,28,0.0572,94.776,4,1iTLAMveJjtJQ499czu97W,The Opposed,0.186
+633,0.0581,Zoro,spotify:artist:2Y6qTM9q0K3mZ43HyHIjk5,0.824,0.686,['oshare kei'],0.565,2,0.268,-7.447,0,32,0.0496,122.944,4,11zmA4V1FCdmmDvOWMKlKU,Zbar,0.745
+634,0.0015,Zoroaster,spotify:artist:5OPhZptrztOU4W75eMEPiX,0.439,0.714,"['drone metal', 'sludge metal', 'stoner metal', 'stoner rock']",0.113,7,0.216,-8.302,1,14,0.063,83.148,4,0eNrpeCcF6WthUwX7Bz0ea,Zoroaster,0.734
+635,0.598,Zorro,spotify:artist:1jSjfSgDjedJdi5MoyRu78,0.719,0.503,"['banda', 'duranguense']",0.0,0,0.178,-7.265,1,48,0.193,133.079,4,55z8oZaEv5V0gBTr13Tk56,El Zorro,0.566
+636,0.598,Zorro,spotify:artist:1jSjfSgDjedJdi5MoyRu78,0.719,0.503,"['banda', 'duranguense']",0.0,0,0.178,-7.265,1,48,0.193,133.079,4,55z8oZaEv5V0gBTr13Tk56,El Zorro,0.566
+637,0.263,Zorro Viejo,spotify:artist:6DyrupNjarXQX3e45nKAjh,0.553,0.632,['puerto rican rock'],0.0,4,0.227,-7.431,1,22,0.0366,124.905,4,5OFZEIwqqxUejFyymuZ1VJ,Duele Perder,0.572
+638,0.609,Zoster,spotify:artist:7kj83YY9v5Iky0TnjcaAl3,0.731,0.411,['yugoslav rock'],1.12e-06,2,0.0624,-6.818,1,8,0.289,86.488,4,2EFhq2n0W4Fyu0kMdpPnf6,Ko Je Jamio...,0.238
+639,0.00927,Zotti,spotify:artist:3po7iOEDHDHM8gnpoe7DY3,0.793,0.723,['vapor twitch'],0.826,10,0.0801,-7.694,0,38,0.0465,122.995,4,5wpwKea77iMd3kn3Jr6SSY,Sputnik,0.274
+640,0.444,Zoufris Maracas,spotify:artist:2aW5pvTZYAAZxbh75uVzZD,0.651,0.412,['french reggae'],0.0,3,0.103,-9.686,0,42,0.0517,179.852,3,5kBAS93dHatBVw5lve0NVF,Pacifique,0.922
+641,0.404,Zouglou Maker's,spotify:artist:68CV3CnqK9590TcoBGYr7M,0.681,0.953,"['azontobeats', 'zouglou']",0.0,10,0.2,-3.34,1,11,0.0962,129.94,4,3nlwfiVVkf3XxGczBpF2sl,Zouglou 1er,0.865
+642,0.477,Zouk All Stars,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.694,0.584,['zouk'],0.0019,11,0.163,-9.205,1,33,0.0397,160.034,4,4Zuc2GeCvVkF7eWIBy6zqT,A Tes Cotes,0.629
+643,0.0406,Zouk Look,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.603,0.72,['zouk'],0.000608,5,0.0635,-6.502,0,20,0.0455,177.993,4,58yQNBzcmmQiBKCiKf9u1J,Nou Ja Pri,0.791
+644,0.477,Zouk Love,spotify:artist:5xQfIwHbLqy2SLsnjdZao6,0.651,0.69,['zouk'],0.0,3,0.119,-5.038,1,34,0.0282,88.005,4,0Zq2enconcgaEjcLt0eCyk,A jamais,0.623
+645,0.155,Zouk Machine,spotify:artist:7g4xlENR9dJm09i7ADhi21,0.779,0.639,['zouk'],0.000275,9,0.315,-12.37,0,43,0.0555,132.714,4,6YoBe1FqFL5w10bQbemW16,Maldòn - Version originale,0.848
+646,0.78,Zoumana Téréta,spotify:artist:3XHp0LmHYLkVBPsH3B66zi,0.665,0.318,['desert blues'],0.429,0,0.685,-15.41,1,13,0.264,120.391,4,0XZT9nLJk64jTrjGtC7Kqq,Tribute to Zoumana Tereta,0.618
+647,0.00371,Zounds,spotify:artist:3tW6JfMRC7ySiqBabUmSJc,0.675,0.822,"['anarcho-punk', 'crust punk']",8.29e-05,0,0.5,-5.363,1,30,0.05,98.083,4,0EKmXy4gKAvM5wKXM0WPKh,Can't Cheat Karma,0.902
+648,0.182,Zoviet,spotify:artist:6QeqchiN0LpzfkwMp7wwtn,0.669,0.671,['mexican rock'],0.00014,0,0.159,-5.628,1,39,0.0434,141.998,4,7ptiFWcBrZuX1dyMQgkJcL,Animal,0.882
+649,0.324,Zowie,spotify:artist:2yEkeJoFOvm6qHuECSDHFg,0.791,0.574,['house'],0.0,0,0.102,-7.061,0,48,0.0673,122.053,4,7u9zFAWUAZy2vdVwAIAv5s,House Every Weekend - Radio Edit,0.406
+650,3.73e-05,Zoxea,spotify:artist:2uuaoYjn1Pk0Y3NOyMR0KR,0.539,0.399,['french hip hop'],0.874,1,0.127,-6.142,1,13,0.0391,89.02,4,3MVJYUfKgWM3rf0EC8xFBv,Comme Un Lion - Instrumental - Bonus Track,0.648
+651,0.936,Zozobra,spotify:artist:0jkK3K1ATFFHofEWjd2i00,0.488,0.348,"['atmospheric post-metal', 'mathcore', 'post-doom metal', 'post-metal', 'sludge metal']",0.538,0,0.105,-11.394,1,22,0.0333,125.923,4,2bjV7ZvkMFjmhsSpMeYYBq,Zozobra,0.129
+652,0.484,ZPU,spotify:artist:7F9Bd5X4sxdwWRJVpbfMtb,0.586,0.781,['spanish hip hop'],0.0,7,0.103,-7.459,0,48,0.303,146.039,4,5rGXHIBXrINjQuab5zLLKM,Mi Mejor Amigo,0.44
+653,0.000777,ZPYZ,spotify:artist:6qvO3rrXMBAAcmcb0giCuN,0.76,0.681,['electropunk'],0.0041,1,0.0753,-7.298,0,24,0.0348,124.977,4,2wQKxaQjopUHeXj6K6cI3c,The Most Beautiful Legs - Zwette Remix Radio Edit,0.63
+654,0.258,ZRM,spotify:artist:0DSeQfUi6Plel7M5sBP98K,0.786,0.76,['brazilian hip hop'],0.0,6,0.262,-8.5,1,31,0.783,168.343,4,0rwIdDv0iJrFwNGyybFtw6,Skatedrink,0.72
+655,0.673,Zrní,spotify:artist:25lSouuskuxVFXdJvUhkJX,0.532,0.759,"['czech folk', 'czech rock']",0.0122,9,0.0969,-9.933,0,23,0.0281,87.028,4,4v6IKmHUe8lp1ZooW18zHe,Dva,0.704
+656,0.000709,ZROQ,spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ,0.572,0.91,['big room'],0.486,9,0.439,-3.744,0,27,0.0498,128.0,4,6x84omnQPn4jJTYWtvNR2P,Skydrop (Original Mix),0.234
+657,0.342,Zs,spotify:artist:6iNVICWoG8BfqoyejEQdpF,0.356,0.799,['laboratorio'],0.0671,10,0.264,-5.636,1,35,0.356,149.488,4,0TK3DgKT7VgEADJS9lzxFG,Needs More Z's,0.27
+658,0.000899,Zsa Zsa,spotify:artist:1ffoX9YTVIAGEibATbav3Z,0.687,0.53,"['classic opm', 'manila sound', 'opm']",0.276,10,0.087,-8.979,0,28,0.0525,105.014,4,6S8qh9A06oJnyIxQ4EjowG,Zsa Zsa - Original Mix,0.245
+659,0.236,Zsa Zsa Padilla,spotify:artist:5E5sr7RkHU6tdxk5G8zF4A,0.326,0.277,"['classic opm', 'manila sound', 'opm']",4.87e-06,0,0.121,-13.027,1,33,0.0317,124.183,4,7rD7NBOxfn6nzSTcGKHnJY,Through The Years,0.137
+660,0.236,Zsa-Zsa Padilla,spotify:artist:5E5sr7RkHU6tdxk5G8zF4A,0.326,0.277,"['classic opm', 'manila sound', 'opm']",4.87e-06,0,0.121,-13.027,1,33,0.0317,124.183,4,7rD7NBOxfn6nzSTcGKHnJY,Through The Years,0.137
+661,0.000148,ZSK,spotify:artist:1uVlxzx7r6LBQsY4yqyxSa,0.469,0.964,"['german punk', 'german rock']",0.0,5,0.197,-4.113,1,47,0.105,173.959,4,51Rd25n8yCtiHwIewVovo0,Antifascista,0.726
+662,0.968,Zsolt Fejervari,spotify:artist:3CHAbftzZ0yklkTIyubxqL,0.386,0.0421,['contrabass'],0.827,9,0.0763,-23.43,1,12,0.0466,114.702,4,2qZLn8B8eFEWW2006vGoAn,Double Bass Concerto in D Major: I. Allegro moderato,0.262
+663,0.976,Zu,spotify:artist:2wOqMjp9TyABvtHdOSOTUS,0.452,0.159,"['c-pop', 'cantopop', 'mandopop']",0.571,7,0.169,-16.378,0,16,0.0304,124.637,4,2xxbIBG0mTNB3x6UYmR27J,"Musik zu einem Ritterballett in D Major, WoO 1: I. Marsch",0.383
+664,0.976,Zu-Zu,spotify:artist:2wOqMjp9TyABvtHdOSOTUS,0.452,0.159,"['c-pop', 'cantopop', 'mandopop']",0.571,7,0.169,-16.378,0,16,0.0304,124.637,4,2xxbIBG0mTNB3x6UYmR27J,"Musik zu einem Ritterballett in D Major, WoO 1: I. Marsch",0.383
+665,0.49,Zubaida Khanum,spotify:artist:0xmOeuUilEnWPwJjKrAP1Z,0.618,0.929,['ghazal'],7.09e-05,8,0.373,-4.097,1,4,0.0843,110.844,4,72GfFDwWuH7A7SgytFEZc9,Ni Main Udi Udi Jaawan,0.882
+666,0.186,Zubeen,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.626,0.778,['indian pop'],0.0,4,0.109,-11.277,0,38,0.0468,123.005,4,1LJRNbwOZ9TopITPaWDbsr,Ya Ali,0.813
+667,0.186,Zubeen Garg,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.626,0.778,['indian pop'],0.0,4,0.109,-11.277,0,38,0.0468,123.005,4,1LJRNbwOZ9TopITPaWDbsr,Ya Ali,0.813
+668,0.186,Zubeen Garg,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.626,0.778,['indian pop'],0.0,4,0.109,-11.277,0,38,0.0468,123.005,4,1LJRNbwOZ9TopITPaWDbsr,Ya Ali,0.813
+669,0.961,Zubin Mehta,spotify:artist:0OzxPXyowUEQ532c9AmHUR,0.171,0.308,"['classical performance', 'orchestral performance']",0.00546,2,0.319,-12.383,1,47,0.0456,171.798,5,74WjYdm3Lvbwnds4thYPUU,"Turandot / Act 3: ""Nessun dorma!""",0.0889
+670,0.37,Zucchero,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.324,0.714,"['classic italian pop', 'italian pop', 'italian pop rock']",0.0,4,0.724,-6.338,1,41,0.0453,133.906,4,01Mi9xc3nOoxuJWSptf7LY,We Are The World,0.296
+671,0.37,Zucchero,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.324,0.714,"['classic italian pop', 'italian pop', 'italian pop rock']",0.0,4,0.724,-6.338,1,41,0.0453,133.906,4,01Mi9xc3nOoxuJWSptf7LY,We Are The World,0.296
+672,0.123,Zuco 103,spotify:artist:7m5FwndSbCRd5vJvgviUCA,0.805,0.779,"['acid jazz', 'electro jazz', 'nu jazz']",0.0507,1,0.236,-10.445,1,39,0.0668,111.847,4,0Y9uhKbeNi9CpipJ3jPYFp,Treasure,0.851
+673,0.0534,Zug Izland,spotify:artist:5vLdqGKFcEkTQ4iJ3TJ5rv,0.78,0.666,['horrorcore'],1.03e-06,9,0.372,-5.632,1,25,0.0472,104.973,4,3Bg1fYMPR5ueKfCM9Oimat,Sunny Day,0.395
+674,0.0204,Zugezogen Maskulin,spotify:artist:1yrJYfMWNHZWIGWM2Cb4gF,0.626,0.731,"['german hip hop', 'indie deutschrap']",0.0,1,0.338,-4.689,1,46,0.169,150.112,4,0Lg3i4xzvwJ5lvHbkgk39b,Alle gegen Alle,0.526
+675,0.552,Zuhal Olcay,spotify:artist:6XTIDpYqIA3fUeQM8zA4Ix,0.548,0.681,"['classic turkish pop', 'deep turkish rock', 'turkish jazz', 'turkish pop', 'turkish rock']",0.0,0,0.269,-7.461,0,23,0.0451,169.85,4,3h7ub7H4tVLQNqsCduzZ01,Yine Aşk Var,0.776
+676,0.994,Zuill Bailey,spotify:artist:1cUI4Behr7k566gOOx35H1,0.338,0.0831,['classical cello'],0.906,10,0.0946,-21.027,1,28,0.0378,70.576,4,6cnwTtOGTfFnhi9X60BO7M,On the Town: Some Other Time (arr. for cello and piano),0.207
+677,0.98,Zulal,spotify:artist:6lKPQEUCOZnjA1pQ96bcvW,0.77,0.193,"['armenian folk', 'polyphony']",0.0,1,0.171,-10.357,1,19,0.174,132.835,4,6ESBenF4QXgEnbD1xmRfyR,Nino,0.75
+678,0.779,Zuleyka Barreiro,spotify:artist:3rEUQwNnHbUewHOF0HDuFG,0.609,0.459,['latin christian'],0.0,5,0.0972,-6.434,1,45,0.0314,126.928,4,7qptGHfwpi4Nqs1JKfzxZq,Que Me Falte Todo,0.19
+679,0.583,Zülfü Livaneli,spotify:artist:3ZV2kReDeCXgw0RJaPV5wX,0.455,0.754,"['turkish folk', 'turkish jazz', 'turkish rock']",5.29e-05,0,0.885,-6.3,0,27,0.0482,120.575,4,4z9gtWys4Jwypy21vxmAAv,Yiğidim Aslanım - Live,0.368
+680,0.0568,Zulker,spotify:artist:0HOKaD4722Nsk1b1rfrXYh,0.867,0.7,['brazilian electronica'],0.000562,7,0.343,-5.24,1,35,0.214,123.029,4,7MsQfgYkI67Mzzmwfbt9WW,I'm So Hot,0.183
+681,0.397,Zulma Yugar,spotify:artist:4P6BbGD4vPfePNs4iPKVcF,0.394,0.327,['andean'],0.0,5,0.0527,-11.663,1,21,0.143,69.224,4,3FVMyE0r1nDTSHaWzdngQG,Boquerón Abandonado,0.39
+682,0.291,Zulu Winter,spotify:artist:2DtrE0mryOk5L7uR3RZqmd,0.544,0.587,"['indietronica', 'shimmer pop']",0.866,2,0.0939,-10.556,1,25,0.0316,139.575,3,03kHhHgnB1tEGAAZQSVjeH,People That You Must Remember,0.128
+683,0.00205,ZUMBA,spotify:artist:33ScadVnbm2X8kkUqOkC6Z,0.729,0.894,['workout'],0.021,5,0.128,-3.494,1,59,0.0397,124.992,4,43CL49bukqUMNxontuQtR2,Zumba,0.832
+684,0.178,Zumba Fitness,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.784,0.895,['workout'],1.27e-06,9,0.286,-5.155,1,32,0.0553,100.026,4,2PTKI5tC3XpXo9YquaaYTD,Zumba Mami,0.636
+685,0.000213,Zumbis Do Espaço,spotify:artist:50D3DxCvODblAyVHqJWl7T,0.536,0.976,"['brazilian hardcore', 'brazilian punk', 'brazilian rock', 'rock gaucho']",0.45,7,0.115,-4.054,1,7,0.044,110.036,4,4UxoKTjp7eYhaj6cjyfNhq,Drink do Demônio,0.496
+686,0.881,Zumi-Kai,spotify:artist:4PQS1eMZep9glCnJcrAo4o,0.616,0.289,['japanese traditional'],0.8,0,0.123,-11.669,0,9,0.0718,72.742,4,533V2Af6M6lZIbGvFn5l3f,Rokudan,0.398
+687,0.00849,Zumpano,spotify:artist:3GKGaNwUBS31LcXuWWFEJU,0.362,0.776,['vancouver indie'],1.59e-05,5,0.114,-6.087,1,9,0.0292,141.895,4,4xgRoLrhime7TFBbVaWhyd,The Party Rages On,0.766
+688,0.00849,Zumrad Xalfa,spotify:artist:3GKGaNwUBS31LcXuWWFEJU,0.362,0.776,['vancouver indie'],1.59e-05,5,0.114,-6.087,1,9,0.0292,141.895,4,4xgRoLrhime7TFBbVaWhyd,The Party Rages On,0.766
+689,0.231,Zuna,spotify:artist:2otUckChxWf2cp6UP2cD6e,0.823,0.514,"['albanian hip hop', 'german hip hop']",3.82e-06,4,0.186,-7.969,0,68,0.421,111.24,4,3sgGmPQD2J6aQduN36RDBO,Nummer 1,0.515
+690,0.136,Zuno Mattia,spotify:artist:5zeoXBPeeh2N2yeoZWfxGI,0.806,0.671,['italian hip hop'],0.0,1,0.147,-6.286,1,31,0.0443,127.998,4,21mEKTcRTmXW0zEVTM5up6,BAD,0.359
+691,0.316,Zuper,spotify:artist:5thMpMxXjJEQCkr9QGlY10,0.702,0.441,['vapor twitch'],0.236,11,0.112,-9.243,1,33,0.239,150.031,4,4YuIdT9wBIf0xL66KGwq8p,Something Classic,0.375
+692,0.784,Zupfgeigenhansel,spotify:artist:2aszSUPRu3IJLXmbEdyTk4,0.562,0.25,['liedermacher'],0.0,2,0.1,-15.688,0,20,0.0417,118.081,4,54Q6jmixI6282Pd6BCB3jf,Arbetlosemarsch,0.921
+693,0.0263,Zurdok,spotify:artist:2A2x3ZwZEOgWdSmSHZRIok,0.653,0.869,"['latin alternative', 'latin rock', 'mexican rock', 'rock en espanol']",1.22e-06,7,0.268,-6.375,1,45,0.0328,119.153,3,0uZvNFgJxJnwFF7pQycIzH,Estático,0.745
+694,0.000108,Zurich,spotify:artist:3AA28KZvwAUcZuOKwyblJQ,0.618,0.886,['orchestra'],0.881,2,0.0821,-6.099,1,67,0.033,115.082,4,4Qz9GBK1FKWPW8lAToCuKQ,Lake Zurich,0.779
+695,0.949,Zurich Chamber Orchestra,spotify:artist:0DfXBLdnI4KVzyNua2rZ8Q,0.408,0.331,['chamber orchestra'],0.334,4,0.675,-14.665,1,35,0.0634,85.524,1,6GSflM4P98vn84yXp92Q9n,"Violin Concerto in E Major, BWV 1042: III. Allegro Assai",0.69
+696,0.158,Zurita,spotify:artist:6Z5m84DS1LitLKrCEozENa,0.554,0.401,['nu-cumbia'],0.407,5,0.0749,-13.819,1,13,0.198,117.436,4,3OUQetH5FON1626lcWYyjj,Lamento de Cumbia / El Chinchorrito,0.845
+697,0.000908,Zusammenklang,spotify:artist:0r0m8up7CjS8TJodH2HX7C,0.695,0.546,['deep euro house'],0.849,5,0.119,-12.265,0,30,0.0336,116.003,4,6dipx6o0vm53UEvYjv7fiJ,Jule - Zusammenklang Remix,0.229
+698,0.697,Zusha,spotify:artist:0VXG44vdmNhcTCipc2Iz3Z,0.546,0.307,"['israeli mediterranean', 'israeli pop']",0.168,11,0.0993,-11.292,0,25,0.0249,85.949,4,0pcX2jz2uc81AL9Xm56fKg,Tzion,0.288
+699,0.697,Zusha,spotify:artist:0VXG44vdmNhcTCipc2Iz3Z,0.546,0.307,"['israeli mediterranean', 'israeli pop']",0.168,11,0.0993,-11.292,0,25,0.0249,85.949,4,0pcX2jz2uc81AL9Xm56fKg,Tzion,0.288
+700,0.00644,Zushi,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.39,0.837,['hardstyle'],0.0213,4,0.499,-5.979,0,27,0.0496,146.087,4,5U9KVWwlJNcOYhtdihBJO7,Faces,0.045
+701,0.0763,Zut,spotify:artist:5qD12Ild4aUdHlwJEQXZbo,0.741,0.659,['musique pour enfants'],0.000222,0,0.0476,-5.316,0,43,0.0438,103.994,4,6JbaYjNkuC3KJMpyZWKp8t,Eminado,0.63
+702,0.988,Zutty Singleton,spotify:artist:29gFISSJO4GdOPOBFgXL3b,0.548,0.31,['new orleans jazz'],0.869,0,0.158,-14.484,0,47,0.0554,95.765,4,3XfdUtpJ8VW1iCMJkxZob2,Ain't Misbehavin',0.598
+703,0.000812,Zuubi,spotify:artist:6LVyvdZPB44OvS5GH4RXJm,0.628,0.791,['progressive trance house'],0.000203,11,0.0828,-6.858,0,39,0.119,127.931,4,25YRjyMtvqCiPcAPuf74x2,Procyon,0.236
+704,0.806,Zuzana Růžičková,spotify:artist:52EJ6nYs0ly8mo6YEMuzcc,0.352,0.22,['harpsichord'],0.0813,9,0.243,-18.302,1,18,0.0339,140.052,4,1M7jc5gkH8jC8vpMpLivwg,"Sonata for Piano and Violin No. 2 in D major, K. 7: I. Allegro molto",0.595
+705,0.846,Zuzana Smatanova,spotify:artist:4kJi5wbe2vAZ1pXMeAvkDX,0.506,0.383,['slovak pop'],2.66e-06,5,0.112,-8.03,1,25,0.0275,78.001,3,1yu9lA3PGNthZ5ACNFo0uR,Jediný A Jediná,0.164
+706,0.736,Zuzu Bollin,spotify:artist:4T7XsMXUOYlL1FlvqL3SIQ,0.606,0.393,['texas blues'],0.69,10,0.0823,-16.296,1,27,0.0506,131.863,4,2WdjmV6o9JeFqQIKQvF2ej,Why Don't You Eat Where You Slept Last Night?,0.832
+707,0.024,Zuzuka Poderosa,spotify:artist:0TeVa4xdLB8vdzjsvKH6Ri,0.81,0.906,['baile funk'],9.47e-05,11,0.305,-4.42,0,28,0.0757,128.976,4,1K5mcw95UJlIlgaQZt2FZl,Boom Cha,0.795
+708,0.687,Zvonko Bogdan,spotify:artist:4IqcZ2xhLPekx9SOU4luvi,0.438,0.419,"['sevdah', 'yugoslav rock']",0.101,6,0.254,-12.699,0,15,0.0419,115.999,4,5rln2ycmss0MxZYBggq7by,Vratiće Se Rode,0.42
+709,0.785,Zwangere Guy,spotify:artist:2Sm4rGKWBnOQhdqDy4JJh0,0.77,0.506,['belgian hip hop'],0.0,5,0.109,-11.125,0,37,0.276,151.173,4,0PTK5sm0Pz0oV5Dtm8Bo8r,Wrap remix,0.744
+710,0.227,Zware Jongens,spotify:artist:5zViDsu1QEY5DZ4QefVjjD,0.815,0.779,['levenslied'],0.0,7,0.266,-6.762,1,48,0.149,128.062,4,3Aw5wjRbsijGYG3RCmwXaw,De Kneu,0.816
+711,0.00636,Zweihänder,spotify:artist:5TAKKdC7OQSTfKkKlcs6Q4,0.53,0.902,['deep chiptune'],0.903,11,0.286,-8.99,0,27,0.0314,126.038,4,3y6WaIaBn5bLpGToP7LhLi,Slay the Chopper,0.206
+712,0.0802,Zwette,spotify:artist:2txHhyCwHjUEpJjWrEyqyX,0.87,0.554,['deep tropical house'],0.0739,4,0.115,-5.828,0,70,0.0635,123.998,4,5snyhxAh55A2wlNRH7VVZJ,Another Love - Zwette Edit,0.462
+713,0.0802,Zwette,spotify:artist:2txHhyCwHjUEpJjWrEyqyX,0.87,0.554,['deep tropical house'],0.0739,4,0.115,-5.828,0,70,0.0635,123.998,4,5snyhxAh55A2wlNRH7VVZJ,Another Love - Zwette Edit,0.462
+714,0.0325,Zwicker,spotify:artist:0sKvyHIsuZMjaLWyHFX4RV,0.768,0.819,['electro jazz'],0.502,11,0.26,-8.514,0,36,0.0574,115.003,4,2s5EVzujouAeQtitPgwZND,Oddity - John Talbot Remix,0.408
+715,0.0017,Zyce,spotify:artist:6kyeGjpiR7Gdw27yU0yvUm,0.783,0.736,"['full on', 'progressive psytrance']",0.825,7,0.599,-6.912,1,36,0.0748,135.006,4,6kGmIHfsIG3f6rEpppkSNg,Perception,0.558
+716,0.436,Zydecajun,spotify:artist:5Qb9Imdm56SW3Y2wcI94K5,0.679,0.468,"['swamp pop', 'zydeco']",0.0,9,0.211,-8.556,1,33,0.0314,121.899,4,4eAhcwVAUIsautuiO6RGOO,Tupelo Honey,0.355
+717,0.0162,Zydeco All-Stars,spotify:artist:55NP4aqyuSH8xjjde6qONn,0.46,0.709,['zydeco'],0.00017,6,0.128,-11.951,0,24,0.0452,164.413,4,0uKh9L9cbdzqLjI6gF6BfN,Don't Mess With My Toot Toot,0.841
+718,0.0297,Zydeco Flames,spotify:artist:6xfr4dc9rEAg5A9XChCGbv,0.721,0.829,['zydeco'],7.48e-06,6,0.0483,-4.511,1,19,0.0328,102.997,4,5oi73lszZofXBM3CKtcRAN,Dream Come True,0.905
+719,0.0086,Zydeco Force,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.719,0.647,"['cajun', 'swamp pop', 'zydeco']",0.161,2,0.177,-13.814,1,9,0.118,108.138,4,5c7KMuBwQWKp84QELaw2UC,Saints Go Marching In,0.761
+720,0.114,Zydeco Hounds,spotify:artist:4ugE6GBHQdhtCj6KJ9ZaCi,0.714,0.941,['zydeco'],0.135,7,0.0484,-5.144,1,25,0.0448,105.345,4,0ZJdhhuFBxUrAb8GZKTHqg,Bayou Pon Pon,0.963
+721,0.417,Zydeco Hurricanes,spotify:artist:77NIxWuTBewKxMCtAhiYx8,0.702,0.453,['zydeco'],0.00102,5,0.0987,-11.562,1,3,0.0264,107.841,3,2UPilQKmGwGROcPLUgyrio,I'm Coming Home,0.842
+722,0.00489,Zydeco Joe,spotify:artist:5H4FAyv83nQcYjD1HGcnSI,0.561,0.875,['zydeco'],0.000511,9,0.654,-11.901,1,16,0.0377,136.145,4,2JQrMm9v6vezU8z9JwrraX,Cotton-Eyed Joe,0.888
+723,0.0717,Zyklon,spotify:artist:1lJNwrcZP9AEjFL7s8YdbK,0.246,0.836,"['black metal', 'death metal', 'norwegian metal', 'symphonic black metal']",0.000244,4,0.132,-11.966,0,22,0.377,204.128,4,20U7WRLQgMpvHYCtmKh3sf,Zyklon-B-Movie,0.423
+724,0.000607,Zyme,spotify:artist:7gjqZ8coFZimZDtdk04WP1,0.712,0.733,['pinoy hip hop'],0.000118,1,0.0717,-4.648,1,24,0.101,147.926,4,6zywizfYAOcS7NKXeJuWVk,Purple feat. Zyme - Original Mix,0.393
+725,0.00131,Zymosis,spotify:artist:1xTFT2RmbMoHyKwfGb0rUI,0.51,0.787,"['ambient psychill', 'psychill']",0.844,6,0.104,-10.035,1,36,0.0389,129.965,4,6p9Jn9HSwIpiZ3ewjG2JSw,Awakening,0.0746
+726,0.0017,Zynic,spotify:artist:2fCyvnDEdnRubsGvtQFhMX,0.626,0.959,"['futurepop', 'neo-synthpop']",0.438,1,0.181,-6.749,1,28,0.0445,130.001,4,6NcckupdSS4om5xc0srMLv,Dead End,0.961
+727,0.00208,Zyon Base,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.721,0.48,"['drumfunk', 'liquid funk']",0.307,4,0.1,-9.389,0,0,0.0974,170.023,4,3Uc6I3qC2AOoP5OWX4Kq8s,Deeply In My Soul - Zyon Base Remix,0.165
+728,0.0658,Żywiołak,spotify:artist:3EYuaOf6w8uTG7eM8vpMLH,0.411,0.701,['slavic folk metal'],0.896,7,0.109,-11.183,1,32,0.0376,134.04,4,4HMQzKZzUSU6bt2Z1oTkIq,Epopeja Wandalska,0.268
+729,0.00249,ZZ Top,spotify:artist:2AM4ilv6UzW0uMRuqKtDgN,0.545,0.64,"['album rock', 'blues-rock', 'classic rock', 'hard rock', 'metal', 'rock', 'southern rock']",0.0304,4,0.196,-9.937,0,74,0.224,80.544,4,70YvYr2hGlS01bKRIho1HM,La Grange - 2005 Remastered Version,0.606
+730,0.0272,ZZ Ward,spotify:artist:378dH6EszOLFShpRzAQkVM,0.521,0.875,['modern alternative rock'],0.000319,11,0.124,-3.385,0,48,0.0451,151.576,3,5EeXZLPDNCWLpEHzNcL1U7,Hold My Heart (feat. ZZ Ward),0.52
+731,0.232,Zzbra,spotify:artist:0ikbQtussQfljjufJ7xwOj,0.423,0.873,['outer hip hop'],1.92e-05,7,0.37,-5.444,1,0,0.454,88.998,4,79hGR5lNaty9BdU9PYb81I,Zzbra Homie,0.578
+732,9.01e-05,ZZT,spotify:artist:2gv0vhtUiUJeGcYkTybo7G,0.786,0.578,['destroy techno'],0.9,1,0.0939,-6.639,1,27,0.041,125.996,4,1zZnsNx13kVgxUdM9vMr6L,Zzafrika - Gesaffelstein Remix,0.0389
+733,0.456,Zzzzra,spotify:artist:0Z1HUzAek6bJBuBhz8mx0q,0.807,0.627,"['ambient dub techno', 'dub techno']",0.858,7,0.103,-14.742,1,13,0.106,114.91,4,4YVx7zXL28qmvcx7L8uYCZ,L'entraide - Variation,0.583
+734,0.901,µ-Ziq,spotify:artist:7AiamoV760pPGGM5PbOC6X,0.651,0.611,"['acid house', 'bass music', 'detroit techno', 'drill and bass', 'electro', 'electronic', 'intelligent dance music', 'microhouse', 'ninja', 'trip hop']",0.0665,8,0.199,-10.375,1,38,0.0735,132.84,4,1CqZglTGcK0htP3Qck2dLj,Inclement,0.503
+735,0.331,Ай-Q,spotify:artist:5gCV7MJwqHQ7bv2htpvTmB,0.556,0.845,['russian hip hop'],0.0,6,0.101,-6.041,0,14,0.0643,80.024,4,4IdI47eVIuI0YFakFDZ85G,Крылья,0.785
+736,0.821,Александр Розенбаум,spotify:artist:6GO0U13OFE0XntmksjZ4PY,0.657,0.187,"['classic russian rock', 'russian pop', 'russian punk', 'russian rock']",0.0,7,0.113,-13.944,0,28,0.0543,89.389,4,10Fo1KC9bIF3nD7dzzh1FY,Вальс-бостон,0.622
+737,0.343,Алексей Воробьёв,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.807,0.69,"['russian pop', 'russiavision']",0.0,0,0.579,-2.773,0,44,0.0372,120.003,4,5vsZZ88dZmTBkXdFEIlDDh,Сумасшедшая,0.874
+738,0.732,Алла Пугачёва,spotify:artist:0LyfQWJT6nXafLPZqxe9Of,0.531,0.594,"['classic russian pop', 'classic russian rock', 'russian pop', 'russian rock']",8.72e-05,0,0.545,-8.147,1,39,0.055,79.645,4,5YMs1nbcxmwCidwUyleYXb,Million scarlet roses,0.772
+739,0.416,Андрей Леницкий,spotify:artist:4CXul2xeyQKutUpU8vP1b8,0.544,0.708,"['russian pop', 'russiavision']",0.0,1,0.317,-4.924,0,38,0.168,82.626,4,7pdnlVVSvjbP22FjjB3vdk,Лето как осень (feat. Андрей Леницкий),0.471
+740,0.00144,Анжелика Варум,spotify:artist:0cdCzBqjiIW3YATUIWtMQM,0.647,0.85,"['classic russian rock', 'russian pop', 'russian rock', 'russiavision']",0.000161,7,0.294,-5.49,0,33,0.0507,128.002,4,6FE4QDSAfnzGHlVlgFBAXw,Сумасшедшая,0.38
+741,0.0972,Ани Лорак,spotify:artist:6OTMjaRQ9kxdwoPRYTmyOM,0.648,0.668,"['russian pop', 'russiavision']",0.0,4,0.462,-5.081,0,42,0.0451,105.017,4,3dBkIAPBIwFW0pqbVc5MuE,Сопрано,0.605
+742,0.00603,Баста,spotify:artist:6wPhSqRtPu1UhRCDX5yaDJ,0.879,0.643,"['dirty south rap', 'east coast hip hop', 'hardcore hip hop', 'hip hop', 'hip pop', 'pop rap', 'rap']",1.42e-06,1,0.0992,-3.709,1,69,0.0888,120.012,4,1gZ7i4qxXkHZb1r6eioaAP,Don't Cha,0.582
+743,0.0238,Би-2,spotify:artist:3SXDCIdqI1AR686ukKtKCq,0.317,0.904,"['classic russian rock', 'russian hip hop', 'russian pop', 'russian punk', 'russian rock']",0.0165,7,0.343,-2.259,0,39,0.0452,175.842,4,24LuZI9xa1qH0rbhf4i6HA,Полковнику никто не пишет,0.289
+744,0.285,Борис Гребенщиков,spotify:artist:7BIXafmacnax46P30TEzNz,0.42,0.479,"['classic russian rock', 'russian folk', 'russian punk', 'russian rock']",0.000937,0,0.0875,-9.596,1,45,0.0265,136.134,4,5YfugCjNVahpGQaRAsQlkV,Saraswati,0.236
+745,0.242,Бумбокс,spotify:artist:2c3PFZtun8HemDbDfRPV6G,0.67,0.816,"['classic russian rock', 'russian hip hop', 'russian pop', 'russian punk', 'russian rock', 'ukrainian rock']",0.0,4,0.0931,-5.079,0,40,0.256,89.906,4,30d0YcXyQSZQcc2dHdcRhh,Вахтерам,0.855
+746,0.0958,Bianka,spotify:artist:6OTMjaRQ9kxdwoPRYTmyOM,0.526,0.709,"['russian pop', 'russiavision']",0.0,1,0.0983,-4.854,0,39,0.0657,153.921,4,6ofZUiViaPyY57Mv9ZaXiV,Абсолютно всё,0.365
+747,0.371,Валентин Стрыкало,spotify:artist:2zYmwYLeJvcr8vRQe5pQRa,0.891,0.857,"['classic russian rock', 'russian punk', 'russian rock', 'ukrainian rock']",0.0,9,0.143,-4.054,0,36,0.0549,120.074,4,7zoMMlOFm4udEKsei6c34D,Наше лето,0.605
+748,0.511,Валерий Леонтьев,spotify:artist:01pSsqt7FLdq2SC6UqjER3,0.795,0.313,"['classic russian pop', 'russian pop']",0.0,6,0.0999,-9.667,0,20,0.0388,102.609,4,1ximiy1W4LAmBBkDn1l5zS,Исчезли солнечные дни,0.885
+749,0.429,Валерий Меладзе,spotify:artist:2igtm1MhKEpmG3PzToJT40,0.753,0.922,"['classic russian rock', 'russian pop', 'russian rock', 'russiavision']",0.0,10,0.108,-4.553,0,34,0.0569,130.034,4,2zu3dpbWHgIfSPIdp8qZyg,Небеса,0.642
+750,0.332,Валерий Сюткин,spotify:artist:0VjT9l1JdsBHIUzJ6eMTqS,0.805,0.314,['classic russian rock'],1.87e-06,4,0.177,-16.439,1,15,0.212,93.39,3,36vHZ14m6PEYxC0JZ4ZfDd,Семь тысяч над землёй,0.781
+751,0.0494,Валерия,spotify:artist:3KYkCbCf8S3RDAtFoBT3qW,0.727,0.856,"['russian pop', 'russiavision']",0.0,7,0.237,-5.974,0,38,0.0504,124.991,4,4i0ilufcdvOZt7uaAbreyE,Микроинфаркты,0.573
+752,0.101,Вася Обломов,spotify:artist:47OKSxHMlKClrmEITfkgDz,0.669,0.796,"['classic russian rock', 'russian punk', 'russian rock']",0.000146,7,0.146,-3.805,1,27,0.0648,76.88,4,4ZvGUz6x1tOs03AVvQPm5X,Магадан - Original version,0.524
+753,0.133,Вера Брежнева,spotify:artist:3QN85cB7Cehb4ZLjpRW2Jt,0.684,0.917,"['russian pop', 'russiavision']",0.0,1,0.0974,-4.242,0,36,0.0324,104.993,4,3pnypqUavUUHS6kYrlPKuO,Доброе утро,0.707
+754,0.00523,Верка Сердючка,spotify:artist:7uH6CJjqK71HlHW4WHNAJg,0.725,0.959,"['classic russian pop', 'russian pop']",0.0082,0,0.283,-5.267,1,47,0.0566,144.031,4,3ve2mVR6BkXuNWfHVoA5yu,Dancing Lasha Tumbai,0.965
+755,0.26,Виа Гра,spotify:artist:7n5zpKbOmeWWmXA1mqDc3q,0.685,0.83,"['russian pop', 'russiavision']",0.0,5,0.234,-4.4,0,38,0.0732,130.059,4,2izTm9T1lmkc0gnywI6W6C,Перемирие,0.864
+756,0.491,Вика Дайнеко,spotify:artist:1RztaRfceZ5RAz03QeH6kw,0.541,0.526,"['russian pop', 'russiavision']",0.0,0,0.166,-7.576,0,34,0.0613,175.874,4,1v9VbNLMmPWnbGDlJ0Qutm,Сотри его из Memory,0.364
+757,0.122,Виктор Королев,spotify:artist:6k7DgAKn4ucui5dcZO759X,0.713,0.948,['russian pop'],0.0,11,0.0603,-5.358,0,30,0.0667,144.968,4,1GdFnkrLQurdlaHvsq9QKc,Молдованка,0.927
+758,0.00133,Виктор Цой,spotify:artist:2jkl2xJVm71azWAgZKyf42,0.604,0.862,"['classic russian rock', 'russian punk', 'russian rock']",0.83,4,0.121,-8.912,0,34,0.0272,138.839,4,1QGRVXoHYJ2SfMM65q1O3v,Кончится лето,0.838
+759,0.00416,Винтаж,spotify:artist:6QUaYAjVUoA9ADAHubQucV,0.576,0.868,"['russian pop', 'russiavision']",0.00802,9,0.487,-4.65,0,29,0.0837,130.074,4,1hsCgsVv421HoBeDQLBwgN,3 желания (feat. Винтаж),0.526
+760,0.185,Владимир Кузьмин,spotify:artist:0sKY9AcBdiGx4FbFbQsXoX,0.556,0.77,"['classic russian rock', 'russian pop', 'russian rock']",1.27e-06,2,0.0994,-5.568,0,31,0.0863,160.047,4,1q9oogsPvPK5QRTsb2yc0M,Сибирские морозы,0.614
+761,0.0436,Владимир Пресняков,spotify:artist:1rrqk3t5Sr5fiGiAaVQ5Pb,0.493,0.85,['russian pop'],0.0,0,0.124,-4.127,0,28,0.0451,174.015,4,6Zi2P5G1YH85GYoYpRUkB6,Слушая тишину,0.636
+762,0.00108,Воплі Відоплясова,spotify:artist:5qgeG4MsrfCsA6ETMyqprD,0.518,0.882,"['classic russian rock', 'russian rock', 'ukrainian rock']",2.08e-06,9,0.0713,-5.02,0,27,0.0377,105.952,4,5qB3zuAuN8NXNeTaIX2b0K,Весна,0.625
+763,0.0996,Воровайки,spotify:artist:5rQSjjELk41RNkxoPELBlp,0.927,0.922,['russian pop'],1.45e-05,0,0.0337,-4.728,0,12,0.0495,129.968,4,5bR5G19Sr5EN4BRT2okFv0,Мурки - Воровайки - Наколочки,0.963
+764,0.346,Восточный округ,spotify:artist:4tS0YU2IuEm03xyKxsxeOm,0.586,0.696,['russian hip hop'],0.0,8,0.394,-8.977,0,27,0.257,72.969,4,6USrVYCrgfCTUfdUhttJOw,Руки в облака (feat. Miyagi & Эндшпиль),0.759
+765,0.124,Время и Стекло,spotify:artist:6DdeqvIfYu3sH02gdavOu2,0.78,0.696,"['russian pop', 'russiavision']",0.0,3,0.0932,-5.944,0,36,0.0488,95.003,4,5cHlhXO5EMCbvt2pQCJvOB,Так выпала карта,0.266
+766,0.0486,Вячеслав Бутусов,spotify:artist:4OOScgRgwYrB4dSfeDSJmq,0.528,0.73,"['classic russian rock', 'russian punk', 'russian rock']",0.0,7,0.129,-8.651,0,31,0.0346,80.012,4,5v5M5scxhWahCHOE1Pz3zC,Девушка по городу,0.894
+767,0.762,Гансэлло,spotify:artist:5g5a3ENOYfn6myyLen218w,0.627,0.548,['russian hip hop'],0.000109,0,0.113,-9.304,1,34,0.0485,77.003,4,1IXHYP9tTQbj197LWUb3z4,Сам все знаю,0.454
+768,0.225,Гости из будущего,spotify:artist:64z2zAx3ll1sxdGwktocq8,0.717,0.872,['russian pop'],0.0139,1,0.0934,-6.181,0,25,0.0789,125.177,4,3ew9jgK6IZvOyT6YFSlKfT,Беги от меня,0.804
+769,0.000623,Градусы,spotify:artist:0TCey73lJ9ekgKUmyawMjk,0.693,0.684,"['russian pop', 'russian rock', 'russiavision']",6.7e-06,11,0.287,-6.371,0,44,0.0394,127.015,4,0ln3hQj1sBQefGRsHMxorJ,Голая,0.574
+770,0.174,Грибы,spotify:artist:7yNqUSyJGymfJQghNU0zcH,0.941,0.384,"['hard bass', 'russian hip hop']",0.0152,0,0.093,-12.783,1,61,0.16,120.01,4,0cItyj95uqYjvYGchMLzIh,Тает лёд,0.517
+771,0.00857,Григорий Лепс,spotify:artist:6yTYR09WCvsgdnurDW4WQo,0.717,0.664,"['classic russian rock', 'russian pop', 'russian rock', 'russiavision']",2.37e-06,5,0.103,-6.14,1,55,0.0763,126.037,4,44XFhSEHQlLc2vyGeb0Vbt,London - Stereoact Radio Edit,0.684
+772,0.696,Джиган,spotify:artist:5W7N6u4EjCEMKj7bDyzPEC,0.647,0.678,"['russian pop', 'russiavision']",0.000141,6,0.254,-6.473,0,52,0.266,99.6,4,6hbRqQY3HFvSRQ9WulYH3d,DNK (feat. Artem Kacher),0.532
+773,0.152,Дима Билан,spotify:artist:19rplJ3Uh67C1fNAwq7ohw,0.861,0.775,"['eurovision', 'russian pop', 'russiavision']",1.42e-06,5,0.0482,-4.284,0,50,0.0551,115.003,4,1KtkH2ZM52JFzelSYSjDif,Держи,0.513
+774,0.0064,Дмитрий Колдун,spotify:artist:2peqR0adoenHRSBpfyzDmK,0.666,0.733,"['russian pop', 'russiavision']",0.0,0,0.234,-5.173,0,32,0.0411,121.943,4,6rduHolQTWk5NSTkBNw4kd,JA Budu Ljubit` Tebja,0.545
+775,0.0108,Egor Kreed,spotify:artist:2KoLmBXwsgMkfAvoPBlPmb,0.412,0.758,['russiavision'],0.0,8,0.103,-5.745,1,57,0.132,91.537,5,2khK4aqzvb1Dsc2HqaU5zJ,Миллион алых роз,0.37
+776,0.201,Елена Ваенга,spotify:artist:5jBEXCI3Rsg9rw6I1UCbmb,0.83,0.643,"['classic russian rock', 'russian pop', 'russian rock']",0.00143,0,0.0835,-6.853,1,25,0.04,131.995,4,33esgyyD5lhm3ghh8QNzFa,Курю,0.878
+777,0.0281,Елена Темникова,spotify:artist:6lPJV4RlngIEnb6OzcwMDL,0.739,0.675,"['europop', 'russian hip hop', 'russian pop', 'russiavision']",0.00155,8,0.105,-6.391,0,45,0.0368,115.026,4,0RBchLxgu2RyUVXYyef1os,Фиолетовый,0.715
+778,0.361,Ёлка,spotify:artist:1PAvmfu0TKYSVVWGl3uJNC,0.626,0.859,"['classic russian rock', 'russian pop', 'russian rock', 'russiavision']",0.0,3,0.101,-4.044,0,36,0.0322,99.967,4,6s0Kt9M7VoA39OmOetp1J4,Прованс,0.586
+779,0.421,Жак-Энтони,spotify:artist:08RxfNkJpjJ4dJb4xASWzj,0.896,0.426,['russian hip hop'],0.0,5,0.0713,-9.285,1,44,0.297,95.013,4,3Dawel35Km7BLzFfdvIrKI,Делай как надо,0.424
+780,0.0777,Звери,spotify:artist:0ZTNvi1hBP0RCMVjTJEriJ,0.524,0.571,"['classic russian rock', 'russian alternative', 'russian hip hop', 'russian pop', 'russian punk', 'russian rock']",0.0,9,0.335,-6.914,0,40,0.0338,176.808,4,4hAwl65lcaUmPbRaRbB3lE,Районы-кварталы,0.89
+781,0.0326,Звуки Му,spotify:artist:7cZCHoW0UAnBmecxXMQycM,0.761,0.464,"['classic russian rock', 'russian rock']",0.208,11,0.106,-14.66,0,0,0.0867,127.014,4,0NxbZyEmn3FRpLDroDjpJM,Нестрашный му,0.73
+782,0.00152,Земфира,spotify:artist:6oO3QiWdVj5FZQwbdRtsRh,0.637,0.61,"['classic russian rock', 'russian alternative', 'russian pop', 'russian punk', 'russian rock']",0.0,0,0.176,-10.222,1,36,0.0422,140.701,4,0Dkrpy1igf5ufo4hHgTkcz,Ариведерчи,0.41
+783,0.127,Ivan Dorn,spotify:artist:1VZ1TofaV3kj90QJSdg6NG,0.779,0.795,"['russian hip hop', 'russian pop', 'russian rock']",0.0012,1,0.151,-2.45,0,41,0.0605,115.027,4,4AxcPmBDEqp9mkhjmsJZcO,Стыцамен,0.872
+784,0.0011,Иван Кучин,spotify:artist:3YMw26hNLRfSfx59wuyqi7,0.664,0.965,"['classic russian rock', 'russian pop']",0.725,1,0.163,-8.11,0,23,0.0446,149.933,4,2R8I0SNniZZJnVZCSMRWQX,В таверне,0.963
+785,0.0505,Иванушки International,spotify:artist:71u4k2PYUAfp7s5IpNmPVE,0.724,0.918,"['classic russian rock', 'russian pop', 'russian rock']",0.00567,7,0.223,-5.744,0,33,0.0462,134.95,4,6YLOuwL8y5WaenWjqddmZf,Тополиный пух (Андрей Харченко Remix),0.697
+786,0.0964,Игорь Николаев,spotify:artist:2rEEba1d3USlc3fcNHLzKn,0.587,0.888,['russian pop'],0.0,5,0.103,-5.935,0,21,0.0623,129.569,4,1RZt8BPusX3cqD35qgLCiE,Выпьем за любовь,0.834
+787,0.649,Игорь Тальков,spotify:artist:36ECxpIYWNwODir77eHE10,0.342,0.321,"['classic russian pop', 'classic russian rock', 'russian pop', 'russian rock']",0.000521,1,0.194,-13.555,0,26,0.0302,140.567,4,5mupOjWc7YMaUoQ9SQ6bp5,Чистые пруды,0.185
+788,0.00718,Иракли,spotify:artist:4bu8s4uesZmBltnYfIqzoZ,0.754,0.789,"['russian pop', 'russiavision']",5.4e-05,1,0.0544,-7.991,0,32,0.0292,125.004,4,1ahZ8g1zuLuhAUaAvNg7YI,Лондон-Париж,0.97
+789,0.248,Ирина Аллегрова,spotify:artist:2eLrVxwm6t4QeaORq5w8VW,0.598,0.806,['russian pop'],0.0,2,0.156,-6.676,0,38,0.0377,130.107,4,0WBErOmwDKkuWCHGaBrT6g,Я тебе не верю,0.545
+790,0.176,Ирина Дубцова,spotify:artist:674TqX6581VEbWnsUcmo1L,0.61,0.834,"['russian pop', 'russiavision']",0.0,2,0.134,-5.064,0,34,0.116,96.198,4,5hUHQxyVpnskaT71nMGkzn,Люби меня долго,0.264
+791,0.013,Ирина Круг,spotify:artist:3o6J0clA0xel4ggyPHzKK8,0.661,0.895,['russian pop'],3.01e-06,2,0.0647,-6.07,0,31,0.0328,134.042,4,0k49LQ3oOORQ6SDTn2Oewb,Букет белых роз,0.963
+792,0.184,Карандаш,spotify:artist:5eJZf8jmPRKerIoN1DBVoi,0.62,0.832,['russian hip hop'],0.0,9,0.111,-2.609,0,26,0.412,174.012,4,2dm1EHQvJqvlV5ZySXajCg,"ОК (feat. МО, Big Som, L'One)",0.824
+793,0.48,Каспийский груз,spotify:artist:5g5a3ENOYfn6myyLen218w,0.69,0.578,"['azeri pop', 'russian hip hop']",0.000217,0,0.114,-9.394,0,45,0.0683,123.988,4,3KudNAG1g2fsVbzUa5lUQI,Guantanamera - Izzamuzzic Remix,0.435
+794,0.0503,Кино,spotify:artist:2jkl2xJVm71azWAgZKyf42,0.787,0.603,"['classic russian rock', 'russian pop', 'russian punk', 'russian rock']",0.639,9,0.124,-13.919,0,42,0.0261,105.481,4,1SCwVUbxOrqU7NADHm7x7j,Кукушка,0.691
+795,0.0203,Кипелов,spotify:artist:60sTLtD4leMUjSAw3IWzNd,0.662,0.684,"['classic russian rock', 'russian alternative', 'russian punk', 'russian rock']",1.82e-06,11,0.109,-6.241,0,36,0.0678,143.929,4,1la2hy28B4HRL1H6lARKrC,"Свобода - Из к/ф ""Бумер. Фильм второй""",0.598
+796,0.0222,Король и Шут,spotify:artist:0qc4X567Fs1DUbQ7bS2XSJ,0.389,0.8,"['classic russian rock', 'horror punk', 'russian alternative', 'russian punk', 'russian rock']",1.31e-06,2,0.0713,-4.753,0,36,0.0388,148.444,4,1yw0XVT3p3NFVV5M2M8ayL,Кукла колдуна,0.613
+797,0.0782,Кравц,spotify:artist:0Cm90jv892OeEegB3ELmvN,0.901,0.568,['russian hip hop'],0.398,0,0.271,-7.312,1,53,0.0526,119.99,4,2ljYT3DjHXVrygwDbNjm4n,Дисконнект,0.5
+798,0.0782,Кристина Орбакайте,spotify:artist:0Cm90jv892OeEegB3ELmvN,0.901,0.568,['russian pop'],0.398,0,0.271,-7.312,1,53,0.0526,119.99,4,5l6uLuCzbsbL8GklsM83ma,Мой мир,0.5
+799,0.0782,Кровосток,spotify:artist:0Cm90jv892OeEegB3ELmvN,0.901,0.568,"['classic russian rock', 'russian hip hop', 'russian punk', 'russian rock']",0.398,0,0.271,-7.312,1,53,0.0526,119.99,4,1AyzAWA0eTMzeujNQLJfmB,Чебурашка,0.5
+800,0.0716,Ленинград,spotify:artist:2a3EJeQjcAelthFGr5bzQC,0.718,0.807,"['classic russian rock', 'russian hip hop', 'russian pop', 'russian punk', 'russian rock']",0.0,11,0.343,-3.576,0,47,0.0728,130.523,4,1HiOgRDW9OvVNPCiQTGpcO,Вояж,0.705
+801,0.447,Леонид Агутин,spotify:artist:0cdCzBqjiIW3YATUIWtMQM,0.678,0.743,"['classic russian rock', 'russian pop', 'russian rock']",8.15e-05,8,0.0629,-8.076,0,32,0.0316,95.017,4,5KoMj99Jm6opzHlHAxlkZ4,Все в твоих руках,0.844
+802,0.992,Леонид Утесов,spotify:artist:2mffFgZDoS2b9aTOtoOS9n,0.409,0.378,"['classic russian rock', 'russian folk']",0.101,6,0.16,-8.237,0,13,0.0658,88.072,4,4Js16kWIBFGNDIVjd2ZheN,"Крутится, вертится шар голубой",0.522
+803,0.282,ЛСП,spotify:artist:4h8pGxEIOi7j4me1yhYxlD,0.849,0.442,['russian hip hop'],1.52e-05,10,0.161,-7.174,1,43,0.0456,127.973,4,6x4VxcplTRX4tZDNnpXS2Z,Монетка,0.159
+804,0.0371,ЛСП & Pharaoh,spotify:artist:6pwEzC4MVlu1YvMxGKkK3n,0.703,0.52,['russian hip hop'],0.0,9,0.0979,-5.286,0,34,0.0292,110.053,4,2maZbkPeS1RSxdmy9jKFDB,Порнозвезда,0.18
+805,0.495,Любовь Успенская,spotify:artist:1DuX5KV5IxzJ9e5A6KZ2OG,0.684,0.496,"['classic russian pop', 'russian pop']",0.0,11,0.0745,-7.047,0,23,0.0245,107.898,4,20NacH3lviV2b5SqabTCwc,"K edinstvennomu , nezhnomu (К единственному, нежному)",0.32
+806,0.795,Любэ,spotify:artist:4Z2QXZRqTdguBQrM8pr4eD,0.495,0.25,"['classic russian rock', 'russian pop', 'russian punk', 'russian rock']",0.0,1,0.255,-10.606,0,37,0.0332,80.001,4,5YGlD9W8hwcTrO2fP7vyhl,Конь,0.39
+807,0.00239,Ляпис Трубецкой,spotify:artist:1PH7LtTLFyoZUEa7B64pws,0.621,0.961,"['belorush', 'classic russian rock', 'russian alternative', 'russian hip hop', 'russian pop', 'russian punk', 'russian rock', 'ukrainian rock']",0.0,9,0.339,-2.103,0,35,0.0423,125.938,4,59lbVdabKf6dovhIecVeAP,Капитал,0.581
+808,0.23,Макс Барских,spotify:artist:5zXGVPJHUzQPUXKA7AlTi5,0.747,0.635,"['russian pop', 'russiavision']",0.000711,6,0.216,-6.39,0,51,0.055,123.041,4,2lW1SseWHH4tcc3HbcbOua,Туманы,0.525
+809,0.116,Max Korzh,spotify:artist:5meD8C7oGK5yUEY2T7ZZ7W,0.661,0.52,['russian hip hop'],0.0059,4,0.121,-7.449,0,54,0.127,139.961,4,3A3L9EnJaCdKgWJM32Imjt,Малый повзрослел,0.207
+810,0.116,Max Korzh,spotify:artist:5meD8C7oGK5yUEY2T7ZZ7W,0.661,0.52,['russian hip hop'],0.0059,4,0.121,-7.449,0,54,0.127,139.961,4,3A3L9EnJaCdKgWJM32Imjt,Малый повзрослел,0.207
+811,0.0231,Мари Краймбрери,spotify:artist:52OqFsDacV87Zx7BfXuw2i,0.66,0.667,"['russian pop', 'russiavision']",0.0,1,0.128,-5.642,0,45,0.0579,135.116,4,2Rd2V7Jm5VKWhUkj9rVjJh,Полюби меня пьяную,0.482
+812,0.507,Машина Времени,spotify:artist:3OCZhm9zNElyNJNrwG9pC4,0.761,0.691,"['classic russian rock', 'russian punk', 'russian rock']",0.0,4,0.093,-6.386,0,34,0.0987,118.979,4,6segr7iWpQHNeYeoSe2hvg,Однажды Мир Прогнется под Нас,0.685
+813,0.152,Михаил Круг,spotify:artist:4KplcmUZdFxGJoZm65B3Vo,0.756,0.651,"['classic russian rock', 'russian hip hop', 'russian pop', 'russian punk', 'russian rock']",0.00115,4,0.0874,-9.314,0,35,0.0369,131.679,4,146cPTGeq8dLeGfQxIl94e,Владимирский централ,0.33
+814,0.0677,Михаил Шуфутинский,spotify:artist:3Ar1W7H096Z6qSGBMmwSmO,0.7,0.81,"['classic russian rock', 'russian folk', 'russian pop', 'russian rock']",1.39e-06,6,0.0435,-7.411,1,36,0.082,94.023,4,4gUNBfj9s9tYJO54wKBFZi,Mardzhandzha (Марджанджа),0.967
+815,0.0267,Миша Марвин,spotify:artist:6zgKOaA7tWttJS7JMdiCbh,0.481,0.582,['russiavision'],0.0,11,0.179,-4.995,0,46,0.0729,76.847,4,0arLd1RSAJ3vQn6SE4vCkU,История,0.13
+816,0.00753,Мумий Тролль,spotify:artist:6rY1h3kpqbTquyR3qYWo08,0.718,0.602,"['classic russian rock', 'russian hip hop', 'russian pop', 'russian punk', 'russian rock']",0.0,9,0.0609,-8.957,0,38,0.0418,130.056,4,62Vf7c3MtB7BR08VbpnAsX,Vladivostok 2000 (Vladivostok 2000),0.597
+817,0.0199,Наргиз,spotify:artist:0HJI6bW0KFSWkZYtjnErCW,0.532,0.658,"['russian pop', 'russiavision']",0.0,0,0.111,-5.122,0,40,0.028,140.132,4,6VTWBexz6jWjDTKzpFmQVR,Вдвоём (feat. Максим Фадеев),0.338
+818,0.0233,Натали,spotify:artist:5hS5MRLtfuSzP3QX7wpQlN,0.745,0.843,"['russian pop', 'russiavision']",0.0,5,0.0604,-6.054,0,47,0.0508,122.028,4,6QVIFloVpfR19dIMJjFP4D,"О, Боже, какой мужчина!",0.848
+819,0.743,Наутилус Помпилиус,spotify:artist:3tYzkTZtYt5dGBSrAnWpX0,0.349,0.161,"['classic russian rock', 'russian punk', 'russian rock']",0.00217,4,0.109,-15.637,1,35,0.0354,94.88,1,6dbSNKrEyT6rYMGiDdIOBa,Крылья,0.31
+820,0.0458,НЕАНГЕЛЫ,spotify:artist:75FLSLJt2boQ6T2bEvgh1K,0.697,0.757,"['russian pop', 'russiavision']",0.0,8,0.145,-6.006,1,36,0.0381,128.009,4,1booh64p5p3Q8RQKka2hT5,Серёжа,0.518
+821,0.0175,Нейромонах Феофан,spotify:artist:5Lr1Om17ha56YMl8ejZIKe,0.453,0.866,"['russian punk', 'russian rock']",1.52e-05,4,0.267,-5.016,0,31,0.0445,174.928,4,27QB7iOcFYTJfnioGoJwCn,"В душе драм, в сердце светлая русь!",0.35
+822,0.158,Непара,spotify:artist:0rDKyq9sDSJnCCEZWwnama,0.774,0.649,"['classic russian pop', 'russian pop']",0.0,10,0.0858,-7.419,0,32,0.0501,121.009,4,1rZqEXkmNt1opv0F7XwBuJ,Плачь и смотри,0.807
+823,0.0118,Николай Басков,spotify:artist:2NL5u7aIFrmuOHbYBYWjun,0.765,0.86,"['russian pop', 'russiavision']",0.0,5,0.474,-4.047,0,37,0.0705,126.021,4,55tAjx3MTgHbsZLMnkroY4,Фантазёр,0.524
+824,0.816,Ноггано,spotify:artist:1V662Xly7vfsecWoSbsBtT,0.798,0.642,"['classic russian rock', 'russian hip hop', 'russian punk', 'russian rock']",0.0,9,0.427,-5.818,0,49,0.283,87.982,4,0f0FZJrejUrK6OdUDeWFyf,Russian Paradise,0.624
+825,0.0992,Нюша,spotify:artist:4GieO2JjiJOxc7m53YFjza,0.637,0.966,"['russian pop', 'russiavision']",0.00434,10,0.652,-4.068,0,48,0.0656,128.001,4,3hxm4PS4sWa0kEzAXlkjFy,Выше,0.88
+826,0.785,Один в каное,spotify:artist:5fMNki1cAszN37EYRTVdOc,0.606,0.487,"['russian rock', 'ukrainian rock']",0.0,1,0.165,-5.495,0,33,0.0508,179.914,4,12L3PRi1KaDiCPhFngI6Al,Човен,0.553
+827,0.827,Океан Ельзи,spotify:artist:6NTzEgUmN1PIBIYEHhf1kS,0.503,0.33,"['classic russian rock', 'russian pop', 'russian punk', 'russian rock', 'ukrainian rock']",0.000721,7,0.0771,-9.522,0,42,0.0284,147.876,4,5561HkcMU0A4i3D6Tlsxhe,Обійми,0.041
+828,0.937,Олег Анофриев,spotify:artist:0uXgBTe7D7LcY3OFLJYY5Y,0.7,0.27,['classic russian rock'],0.0,2,0.16,-15.26,1,27,0.237,117.817,4,1lXTjdisdLzDFmirwwmvB8,"Песенка Львёнка и Черепахи (Из м/ф ""Как Львенок и Черепаха пели песню"")",0.533
+829,0.00415,Олег Винник,spotify:artist:5NvPR7i91X5PZU5Bitj71Z,0.719,0.824,['russian pop'],1.3e-05,11,0.113,-5.481,0,26,0.12,126.982,4,4ofTI73nNSv5Cj5Efnx88y,Плен,0.723
+830,0.0387,Олег Газманов,spotify:artist:0tKxkHvnDulyGf7uTy1HQK,0.88,0.872,"['classic russian rock', 'russian pop']",6.74e-05,9,0.065,-5.098,0,30,0.0454,123.954,4,1s8eMDYKOrWgFVKL54pcA3,Морячка,0.876
+831,0.14,Ольга Бузова,spotify:artist:6D0uq3URoqvg5EcTzEsNUa,0.878,0.84,"['russian pop', 'russiavision']",0.00204,6,0.133,-6.293,0,41,0.104,120.03,4,4QicDK9TIIabdwyBKBmvID,WIFI,0.86
+832,0.253,Оля Полякова,spotify:artist:5hpfP3fMcBFgQyTEpo19tl,0.817,0.939,"['russian pop', 'russiavision']",0.0,5,0.0799,-2.22,0,30,0.118,126.014,4,1o3ESWDp3YpgVrXV3ut7k6,Королева ночи,0.786
+833,0.514,Пикник,spotify:artist:625pLI6ukICVgPMaZZ9QVX,0.618,0.54,"['classic russian rock', 'russian punk', 'russian rock']",4.58e-05,6,0.218,-9.275,0,31,0.0284,119.999,4,3ACWpPOv7gkGwcvfQAIPHZ,У шамана три руки,0.654
+834,0.481,Пицца,spotify:artist:5UmEsxALI1S6DSz5CGs0Sc,0.455,0.665,"['russian hip hop', 'russian pop', 'russiavision']",0.0,8,0.128,-5.089,0,37,0.285,81.016,4,6xqMa99xQ5Ob6WpEAyOqU3,Оружие,0.385
+835,0.405,Полина Гагарина,spotify:artist:3Pdait6yo2LXvw2CwnagZr,0.623,0.713,"['eurovision', 'russian pop', 'russiavision']",0.0,8,0.255,-4.398,0,44,0.0322,97.029,4,1x4n5OqM3NMulzWlKl7KAW,Обезоружена,0.328
+836,0.223,Потап и Настя,spotify:artist:2Um5y6fRSZz9cttLtet2xS,0.86,0.856,"['russian pop', 'russiavision']",0.0,8,0.222,-2.719,0,45,0.179,100.057,4,0n9ATRv7b9kX9h8ECAphuL,Не пара,0.966
+837,0.174,Пропаганда,spotify:artist:2fA7oIMUQ7vwHsfHW3Fr8H,0.746,0.888,"['russian pop', 'russiavision']",0.0,5,0.257,-3.159,0,36,0.0339,100.019,4,2nyYaabVapu8A1iRMPYE7V,Подруга,0.699
+838,0.146,Рем Дигга,spotify:artist:6L5bLEtpxwd0KOdOr3gtW4,0.665,0.872,['russian hip hop'],0.0,5,0.15,-4.361,1,62,0.199,106.035,4,5rwsJbBNa8SfPW4oFA1GjP,I Got Love,0.233
+839,0.0406,Руки Вверх,spotify:artist:0T6ncGHAiGQ4LhbiUJAasn,0.676,0.898,"['classic russian pop', 'russian pop', 'russian rock', 'russiavision']",0.0537,0,0.801,-5.387,0,39,0.0369,120.006,4,7abFtyHJ7bCf9enHuYToII,Плачешь в темноте,0.471
+840,0.0518,Сати Казанова,spotify:artist:507yN9Cz75k1EeK6xo2cJF,0.689,0.843,"['russian pop', 'russiavision']",0.0,7,0.0681,-5.063,1,44,0.0378,82.005,4,1yeMCWXg3gdbQcIsXwnTiO,До рассвета,0.668
+841,0.334,Святослав Вакарчук,spotify:artist:2xEuSZSodyOIuUAxBM3I5I,0.386,0.276,"['russian rock', 'ukrainian rock']",0.000175,2,0.136,-11.794,0,29,0.0329,81.517,3,76hnKo3B904sHhyeOl2ZEJ,"Така, як ти",0.138
+842,0.262,Сергей Жуков,spotify:artist:4Ft4dgkrt2jvsYIOm4H71z,0.633,0.892,['russian pop'],0.00053,9,0.192,-7.269,0,28,0.0421,100.015,4,5FMdxPIx1uOCt7lRRWmsrA,Капают слёзы,0.905
+843,0.0262,Scriptonite,spotify:artist:01lZudgXsojt5TBHuygB8r,0.782,0.532,['russian hip hop'],0.0,2,0.138,-7.187,1,53,0.2,95.999,4,7FuvJwX4VDPE0bAIq9tfbP,Ламбада,0.185
+844,0.17,Слава КПСС,spotify:artist:7fMhppMTr3ElTOEJqSbkEq,0.95,0.867,['russian hip hop'],2.29e-05,6,0.155,-4.54,1,32,0.258,113.918,4,5r6IhrGntQ9UUcAG1MNT6F,Грустные танцы,0.487
+845,0.000307,Смысловые Галлюцинации,spotify:artist:45HIeH1OpaQDBptDhcKrMo,0.531,0.825,"['classic russian rock', 'russian punk', 'russian rock']",0.294,4,0.264,-7.984,0,34,0.0515,109.96,4,1GwMFy8H74JjHgyrMpEldg,Вечно молодой,0.388
+846,0.00708,Сплин,spotify:artist:6rdFMVoMSEN4GGX98u6QTj,0.613,0.9,"['classic russian rock', 'russian hip hop', 'russian pop', 'russian punk', 'russian rock']",0.0462,4,0.0964,-6.793,0,39,0.0328,104.908,4,2dpGc40PtSLEeNAGrTnJGI,Линия жизни,0.55
+847,0.0111,Стас Михайлов,spotify:artist:3u5JLGdFeioXFOYEzJNZri,0.716,0.933,"['classic russian rock', 'russian pop', 'russiavision']",0.0,11,0.381,-4.9,0,38,0.0646,138.002,4,54JRyC2pdTPYbnf5CzQVG4,Все для тебя,0.908
+848,0.348,Стас Пьеха,spotify:artist:0sHycRSBxNRJPes9wsPi53,0.552,0.836,"['russian pop', 'russiavision']",0.0,9,0.104,-3.885,0,35,0.0514,150.032,4,2xilSb0sljFcBcs3wpXO5q,Я с тобой (Radio Version),0.49
+849,0.0444,Сурганова и Оркестр,spotify:artist:5mgIPYXf55SEmZcPdeECK7,0.505,0.771,"['classic russian rock', 'russian punk', 'russian rock']",5.26e-05,0,0.311,-6.368,1,17,0.0421,80.005,4,61TMY8Lvw5xud1VKaMbU5t,Мураками,0.461
+850,0.03,Тамерлан и Алена,spotify:artist:6iJgcWx2oppqtgBQYibHVU,0.748,0.789,"['russian pop', 'russiavision']",1.06e-05,1,0.0756,-6.06,0,45,0.106,123.952,4,2RoxIZKY0vse0wjGrBtp9h,Потоки ветра,0.612
+851,0.0061,Timati,spotify:artist:6yTYR09WCvsgdnurDW4WQo,0.778,0.768,"['russian hip hop', 'russian pop', 'russiavision']",0.0,0,0.339,-4.885,0,49,0.133,125.012,4,2suqxBuYkeCvyGjBknyWFh,Welcome to St. Tropez - DJ Antoine vs Mad Mark Radio Edit,0.745
+852,0.701,Тина Кароль,spotify:artist:0W3C8tSz8ERP2t37m6Ru6r,0.559,0.508,"['russian pop', 'ukrainian rock']",0.0,8,0.222,-8.011,0,27,0.0324,160.047,4,2hSNHgHx8nYNwqWdTxEldw,Ноченька,0.58
+853,0.0108,Фабрика,spotify:artist:0EKEm3s5k8SV394494b0Af,0.64,0.879,"['russian pop', 'russiavision']",0.00127,10,0.262,-7.359,0,34,0.0461,123.974,4,3mEFnCYuhYkGciP7j8Tn01,Не родись красивой,0.65
+854,0.019,Фактор 2,spotify:artist:0lMbDFkZA1vZDfGMnsaoTs,0.823,0.698,"['russian hip hop', 'russian pop', 'russiavision']",0.0,4,0.0313,-7.601,0,44,0.0734,125.989,4,39Fs5cpjpa6cL72DN5bnqH,Красавица,0.963
+855,0.0402,Филипп Киркоров,spotify:artist:3ANNnVJ7NCdIZV6P2YzvlI,0.515,0.86,"['classic russian rock', 'russian pop', 'russian rock', 'russiavision']",0.0,0,0.427,-3.915,1,47,0.0551,128.077,4,7BSXOxHXWB1e1NzjifboQU,Цвет настроения синий,0.422
+856,0.00178,Ханна,spotify:artist:7nU4hB040gTmHm45YYMvqc,0.601,0.883,"['dance pop', 'pop', 'post-teen pop']",0.0,4,0.418,-3.914,1,62,0.0317,125.952,4,07HPV6hzecJmMJwsIX8YVU,He Could Be the One,0.612
+857,0.037,Чай Вдвоем,spotify:artist:3MhVNaiUYnjBRugInhzROn,0.646,0.92,['russian pop'],0.0,5,0.183,-4.696,0,30,0.12,126.067,4,4Ff1RvsI5xXBscOKSCzKSU,Белое платье,0.716
+858,0.216,Чиж & Co,spotify:artist:5Os2UA78JtURZSEdBN1hiQ,0.646,0.229,"['classic russian rock', 'russian punk', 'russian rock']",9.46e-06,4,0.147,-18.979,0,24,0.0414,122.32,4,5biP2BG8UwJrrO2bJqdizD,Вечная молодость,0.659
+859,0.671,Эндшпиль,spotify:artist:7wb9PPpmdyZ1MTPRXLtIxE,0.445,0.729,['estonian hip hop'],0.0,8,0.352,-1.976,0,54,0.192,136.041,4,6kxofj58dDTcWQLPexzW95,Рапапам (feat. Miyagi & Эндшпиль),0.655
+860,0.0529,Ю-Питер,spotify:artist:1Q5At2fGYkPwgumoJtcCc2,0.542,0.7,"['classic russian rock', 'russian punk', 'russian rock']",0.0,7,0.129,-9.84,0,29,0.0341,79.93,4,0zP9GcbgqDdqb1Xke9iV00,Девушка по городу,0.917
+861,0.0431,Юлианна Караулова,spotify:artist:09tP2EPNNwU20jaHUgXBG2,0.752,0.868,"['russian pop', 'russiavision']",1.71e-05,6,0.065,-4.306,0,43,0.0384,124.948,4,38LC7GyHI046L4nqmzIP2K,Разбитая любовь (DJ PitkiN Remix),0.763
+862,0.0135,Юлия Савичева,spotify:artist:0Y5iFEqyfy3mNg09ZC6b5t,0.662,0.868,"['russian pop', 'russiavision']",7.31e-05,9,0.096,-4.953,0,28,0.0302,127.987,4,0ENydIWcGWKtIXeTf7flL6,Юлия,0.73
+863,0.0181,Юля Волкова,spotify:artist:4H1K7u6druiGiZw3j4eytk,0.833,0.659,['russian pop'],0.136,8,0.085,-4.736,1,26,0.0326,111.972,4,5rVt8JihTHN8k8zv0DqzH4,Просто забыть,0.146
+864,0.128,Юта,spotify:artist:1itLHEuZcATexryYLDWvZn,0.674,0.712,['russian pop'],0.0,1,0.0976,-5.828,1,21,0.034,79.006,3,3pzUNLq9wdaWUgFh6zyn3w,Любимый мой,0.866
+865,0.466,ЯрмаК,spotify:artist:0oHyOQzDKjW5JVf347hue4,0.756,0.754,['russian hip hop'],0.0,9,0.11,-5.251,0,36,0.309,84.931,4,6D99og9DlJb2ucXHSJOnhm,Мама,0.65
+866,0.589,Aviv Geffen,spotify:artist:73ieysHN7XpJYEnEAYsO3K,0.358,0.468,"['hebrew pop', 'israeli pop', 'israeli rock', 'mizrahi']",1.4e-06,4,0.0955,-8.039,1,39,0.0268,75.053,1,3WyvZJGxtORVdtOkNyHBJp,קוצים,0.328
+867,0.256,Itay Levi,spotify:artist:2ZRiDEplNEZDgPBziiFEmk,0.793,0.811,"['hebrew pop', 'israeli mediterranean', 'israeli pop', 'mizrahi']",0.0,7,0.0884,-4.051,0,46,0.104,115.042,4,2YaGf7h9KLbPbeqSYEpiYc,Maman,0.793
+868,0.00303,Regev Hod,spotify:artist:0Fhli3d4ykenPL9cA8RYay,0.665,0.868,"['hebrew pop', 'israeli mediterranean', 'israeli pop', 'israeli rock', 'mizrahi']",0.0,11,0.0683,-4.711,0,22,0.0302,127.963,4,2dzAAPW7trwFXLLCi6g52m,יחביבתי,0.75
+869,0.0387,Zohar Argov,spotify:artist:54jZWpivOTllo1afYNSx5U,0.599,0.728,"['hebrew pop', 'israeli mediterranean', 'israeli pop', 'mizrahi']",6.62e-06,10,0.0789,-4.056,0,38,0.0261,133.413,4,02dq80DpQQ0vPkSQEoQzKt,נכון להיום,0.531
+870,0.167,Tuna,spotify:artist:1TZXFnFYNzRTDrNFoH8YC0,0.76,0.77,"['blues-rock', 'classic rock', 'country rock', 'electric blues', 'folk rock', 'jam band', 'psychedelic rock', 'roots rock', 'southern rock']",0.0,0,0.436,-6.474,1,57,0.0484,105.096,4,6FooQEHlzu2d38aZ9SjJvV,El Niño De La Tuna,0.766
+871,0.51,Ishay Ribo,spotify:artist:3VTm1513t2LL1mSKzzyQuj,0.73,0.448,"['hebrew pop', 'israeli mediterranean', 'israeli pop', 'mizrahi']",1.26e-05,11,0.0926,-9.074,0,44,0.0309,104.007,4,52n4gF126eIllrGuc9Zus6,לשוב הביתה,0.632
+872,0.16,Moshe Peretz,spotify:artist:04d5YzXNZxuQkLZWkfD7ft,0.793,0.782,"['hebrew pop', 'israeli mediterranean', 'israeli pop', 'mizrahi']",0.0,2,0.0645,-6.585,1,40,0.0524,112.079,4,5W4VLgOhaqHUDNuqLtuFYw,כוס של יין,0.707
+873,0.0631,Static & Ben El Tavori,spotify:artist:0xHa28taiElkcQf9o3z76g,0.7,0.82,"['hebrew pop', 'israeli mediterranean', 'israeli pop', 'mizrahi']",1.69e-06,9,0.133,-3.103,1,51,0.367,130.028,4,6lR6VBmCIm7gZwE4msLdb9,Tudo Bom,0.725
+874,0.0833,Ivri Lider,spotify:artist:3jcHyrPcJhrTMdlthE8p74,0.428,0.552,"['hebrew pop', 'israeli mediterranean', 'israeli pop', 'israeli rock', 'mizrahi']",0.000176,6,0.0805,-7.89,1,30,0.0652,129.893,4,0ekMFsKyfkzbW1STYoNAIG,"10,000 Emerald Pools - The Young Professionals Remix",0.2
+875,0.662,Rami Kleinstein,spotify:artist:0qrJgevjXorpFIC1pV0Lmj,0.664,0.494,"['hebrew pop', 'israeli pop', 'mizrahi']",5e-05,6,0.0957,-9.666,0,34,0.0507,90.941,4,2sLzl4SqPIV4O95VoD1dHK,מתנות קטנות,0.468
+876,0.879,Shotei Hanevuah,spotify:artist:32wex4hBuWlr13lLASfSjm,0.484,0.301,"['israeli mediterranean', 'israeli pop', 'mizrahi']",0.155,6,0.101,-11.238,0,37,0.029,129.927,4,7FP6cGnmLMMNBg6I63Sm1U,קול גלגל,0.161
+877,0.876,الشيخ سعد الغامدي,spotify:artist:4VNwKKVga21MzXDEOTQqX4,0.472,0.207,['islamic recitation'],0.0,3,0.185,-11.545,1,31,0.0373,107.46,3,7rvAIC8R7RKwHqrGnxpRWq,Sourate Al Inssane,0.383
+878,0.919,Kim EZ,spotify:artist:3ErHVJMsxTq2lLSmnONBm9,0.284,0.313,['korean pop'],0.0,0,0.108,-6.918,1,51,0.0349,199.572,3,4HN2lu14JqrBVT1OYinP8f,HEAVEN,0.351
+879,0.919,로꼬 Loco & Gray,spotify:artist:3ErHVJMsxTq2lLSmnONBm9,0.284,0.313,['korean pop'],0.0,0,0.108,-6.918,1,51,0.0349,199.572,3,0gJuzd44IqrWaPMJ7z9O0k,My Last (feat. 로꼬 Loco & Gray),0.351
+880,0.924,박보영,spotify:artist:0jMuf24m4Bn1vcdQmvGp3z,0.737,0.23,['korean pop'],0.000347,9,0.109,-12.431,1,41,0.0332,115.695,4,6YepaCG8cUabGz3lyCgCxv,떠난다,0.188
+881,0.668,스캇 브래너 Scott Brenner & 다윗의 장막,spotify:artist:72n9L2e8BKVPWM4KGjxu0D,0.178,0.362,['korean worship'],3.92e-05,0,0.137,-8.411,1,14,0.0288,67.986,3,04tB0YAL3Vhm6LbaPgF6sU,약한 나로 강하게 What The Lord Has Done In Me,0.108
+882,0.782,IVY,spotify:artist:2h93pZq0e7k5yf4dywlkpM,0.567,0.388,"['latin', 'latin hip hop', 'reggaeton', 'trap latino', 'tropical']",0.000309,9,0.248,-9.579,0,76,0.0384,116.362,4,2ZWlPOoWh0626oTaHrnl2a,Ivy,0.452
+883,0.994,에피톤 프로젝트,spotify:artist:0RLe3YEakXpt0FEXyFtwgN,0.556,0.12,"['k-indie', 'korean pop']",0.932,2,0.134,-19.667,1,33,0.0429,140.117,3,0BQ3kSfeLFq3CMtuHbYUHD,"봄날, 벚꽃 그리고 너",0.205
+884,0.744,Yoon Mirae,spotify:artist:1Do4bSzfUl0KWL9r1fITu0,0.411,0.506,"['k-hop', 'k-pop', 'korean pop']",0.0,10,0.119,-5.528,1,46,0.0308,131.413,4,35x3bQ8tjBYpboRMMoCVed,You are my world,0.176
+885,0.00922,이상의날개 Wings of the ISANG,spotify:artist:1qkffQjaoJenV9hhcKbPg4,0.453,0.678,['k-indie'],5.11e-05,9,0.0477,-7.291,0,12,0.0494,131.936,4,30fmYitATdMGMbyDtJ3j6U,변명 Shame,0.0872
+886,0.601,KNK,spotify:artist:5zx2slDKDXNn1e6779RzPd,0.605,0.81,['k-pop'],0.0,7,0.263,-5.654,0,44,0.0406,93.039,4,0IRN9abm1W3W2IyUiYp0qQ,KNOCK,0.549
+887,0.447,KREAM,spotify:artist:6xS5PpBWaVYraexEkEjjXv,0.818,0.673,"['rap', 'southern hip hop', 'trap music', 'underground hip hop', 'vapor trap']",0.0,11,0.111,-3.886,1,69,0.235,130.035,4,3HPygYwlZeehBTDZXMhsrR,Mars (feat. Lil Uzi Vert),0.567
+888,0.581,優客李林,spotify:artist:6FAeDq0UGuzHeLiUzz45mA,0.467,0.436,"['c-pop', 'classic mandopop']",0.0,4,0.163,-7.225,1,45,0.0267,136.008,4,7jqrgcmsmzJCPglfLEb3zG,輸了你贏了世界又如何,0.166
+889,0.405,吳宗憲,spotify:artist:2EWl5LrZsWltRv2z9dbgH1,0.435,0.502,"['c-pop', 'classic mandopop', 'mandopop']",0.0,2,0.167,-8.756,1,34,0.0277,135.905,4,1bsnc4yEcWvxITeIGKedSB,是不是這樣的夜晚你才會這樣的想起我,0.216
+890,0.0554,吳建豪,spotify:artist:2Lcyl3luks1H4TDORlJIUW,0.63,0.867,['mandopop'],0.0,6,0.126,-2.97,1,18,0.0409,80.046,4,2JMWj3mh5mTA1ADOTiyRpS,Is This All,0.758
+891,0.122,Steve Chou,spotify:artist:1Qneon4tYZ7srVOU91bTsO,0.501,0.511,"['c-pop', 'classic mandopop', 'mandopop']",0.0,7,0.279,-9.836,0,52,0.0291,78.045,4,4mronxcllhfyhBRqyZi8kU,黃昏,0.113
+892,0.707,Vic Chou,spotify:artist:03pYLhfpWF8iKk4p6Cm5w9,0.37,0.393,['mandopop'],0.0,0,0.15,-8.891,1,31,0.0427,180.07,4,0sx8DfYkU5VTc2t40vYh3K,讓我愛你,0.231
+893,0.989,周璇,spotify:artist:1bONVLlQIiuULYblokrPxj,0.48,0.124,"['c-pop', 'vintage chinese pop']",0.332,1,0.0973,-16.356,1,23,0.0316,103.877,4,5Nf7tFEa64qCyNMxnAQ9Sh,Blooming Flowers and the Full Moon (Hua Hao Yue Yuan),0.591
+894,0.883,周蕙,spotify:artist:0T1grpeZ4qvXm7ALeRPKno,0.627,0.258,"['classic mandopop', 'mandopop']",0.0,4,0.159,-11.624,1,25,0.0319,80.043,3,1T2ysHWyCCSVrK5uWwSind,約定,0.206
+895,0.749,Chiang Yu-Heng,spotify:artist:0Nb4cyosZVQQ5x3QxZkVJL,0.247,0.224,"['c-pop', 'classic mandopop', 'vintage chinese pop']",0.0238,7,0.282,-17.378,1,35,0.0322,69.601,4,206uxOQVHqRJh06auGLKJJ,再回首,0.346
+896,0.925,左小祖咒,spotify:artist:4vxioc97hgfD8zIEbfFBZP,0.552,0.145,['chinese indie rock'],3.65e-05,3,0.102,-12.137,0,8,0.0338,132.012,4,25vMbVN0yqDBPihMiHymdJ,泸沽湖情歌 (A Love Song of Lake Lugu),0.138
+897,0.678,巫啟賢,spotify:artist:7y52WmTUJZQU7m83zYfoV2,0.559,0.635,"['c-pop', 'classic mandopop', 'vintage chinese pop']",2.16e-06,1,0.106,-5.347,1,35,0.0314,125.863,4,5hMFr5j0btsmS56acvkVwG,太傻,0.298
+898,0.427,康士坦的變化球,spotify:artist:4fmdz90I7bCk35iK6GZ9fK,0.431,0.525,['taiwan indie'],0.897,3,0.323,-12.151,1,36,0.0315,80.007,4,1PHK96FQztyEgKM5iNuKMl,在你死後才想起曾經答應陪你去散步,0.184
+899,0.0335,後海大鯊魚,spotify:artist:6t6LaBZTwu8yOL6trXc81v,0.599,0.677,['chinese indie rock'],0.742,9,0.116,-10.114,0,3,0.0295,128.013,4,6CUbmIVYYeDHh3wtd0R3BM,愛是熱門,0.482
+900,0.277,徐懷鈺,spotify:artist:06w51RzkHkpkp2x09REY7v,0.573,0.465,['classic mandopop'],0.0,10,0.107,-8.265,1,31,0.0263,144.08,4,6hm6WgGwprxmlbN1ibq4AI,心中的遺憾,0.255
+901,0.388,Abin Fang,spotify:artist:3sHU5vwszRfnJNhvcYNZdS,0.526,0.523,['mandopop'],0.0,11,0.0955,-6.045,1,48,0.0359,99.834,4,7CnNwlg20X6gT2Mug1Kyjw,壞人,0.272
+902,0.819,李香蘭,spotify:artist:7Kb6okLNmQmENkjdGA2HgO,0.243,0.284,['vintage chinese pop'],5.82e-05,8,0.812,-10.427,0,9,0.0323,81.291,3,1LL6agt3isbaZU0rMY4mpB,李香蘭,0.117
+903,0.232,柯以敏,spotify:artist:4Ehea7526rf7bWumvaU1cc,0.666,0.504,['classic mandopop'],0.0,4,0.142,-6.393,1,17,0.0327,125.893,4,0YoZD0alPamTuvyN7nrczC,太傻,0.193
+904,0.061,柯有倫,spotify:artist:3LyN3dzJjv35T1XcDysnZG,0.494,0.565,['mandopop'],0.0,3,0.121,-4.958,0,39,0.0291,120.026,4,3yYItsSZmRG3NhtJER0DeW,零,0.0989
+905,0.62,楊培安,spotify:artist:3Pf6bS1cRCdiMT5XRH9St1,0.507,0.552,"['classic mandopop', 'mandopop']",0.000177,11,0.0979,-5.77,0,37,0.0289,129.942,4,5uSxWzjH1Deb0SVCqlNPiK,生死相隨 (電視劇《秦時麗人明月心》片尾曲),0.321
+906,0.441,Jody Chiang,spotify:artist:3jPL2UtbCi2DuvuK2dolR6,0.392,0.453,"['c-pop', 'classic mandopop', 'hokkien pop', 'mandopop', 'vintage chinese pop']",0.000306,0,0.171,-8.864,1,30,0.0272,91.957,4,6Sw3lCaKAUBqsPHTO5q7ot,家後 - Live,0.118
+907,0.805,游鴻明,spotify:artist:1AZC6jC2Y5aQPeMWfVAqon,0.452,0.326,"['c-pop', 'classic mandopop', 'mandopop']",0.0,5,0.112,-11.417,1,26,0.0392,128.739,4,4sq1AOtKS8L73gARXhxPig,戀上另一個人,0.223
+908,0.00536,竇唯,spotify:artist:7xMGjlJ3a6wH3LrwiWEJvx,0.728,0.652,"['chinese experimental', 'chinese indie rock']",0.126,8,0.0765,-13.939,0,18,0.036,111.272,4,6M4gwba7uVlM5tfqzb0el8,高級動物,0.459
+909,0.671,葉巧琳,spotify:artist:48tRNx6mDy91ETezlPgihs,0.59,0.433,['cantopop'],0.0,1,0.143,-6.633,1,31,0.0276,133.875,4,0RzMquiOrqRWF3yHpSS8hw,神把眼淚都留給了人,0.358
+910,0.483,蛋堡 x 黃玠,spotify:artist:4XZNROthOZV5k7sPAG3UTX,0.601,0.767,['chinese hip hop'],0.0,0,0.249,-8.364,1,31,0.0547,82.019,4,13WuxHOJdApCaWfACurQ0f,放個假,0.501
+911,0.369,Zhao Chuan,spotify:artist:2deH7GtKAGqNAYCtsruIQ8,0.43,0.377,"['c-pop', 'classic mandopop']",0.0,4,0.11,-10.568,1,29,0.033,152.999,4,5WATA7hRf5fhVi3rRwVZnv,我很醜可是我很溫柔,0.135
+912,0.669,辛曉琪,spotify:artist:75UZxcclb8ahAZl69xMKLJ,0.564,0.158,"['c-pop', 'classic mandopop']",3.42e-05,10,0.119,-14.396,1,37,0.0322,87.83,4,0rUiL3L1lurq2lzcfUCSji,味道,0.0784
+913,0.108,Queen Wei,spotify:artist:31o2LJ3ZpFgb4WMZzC1gOR,0.295,0.533,['mandopop'],2.23e-06,9,0.122,-9.81,1,42,0.0371,167.326,4,0AoLF8kZSDuMz032j4ZnC0,聽見下雨的聲音,0.176
+914,0.672,黃小琥,spotify:artist:6KCusBln9NTESgcuI0DlUz,0.334,0.431,"['c-pop', 'classic mandopop', 'mandopop']",0.0,6,0.101,-5.861,1,48,0.0347,201.701,3,4xZIMRwaaBx7CZMmM6KLuh,沒那麽簡單,0.212
+915,0.886,Zooey Wonder,spotify:artist:6VI0p0xTjBKKxQN8i8vGpD,0.605,0.222,['taiwan indie'],0.000241,7,0.111,-11.761,1,35,0.0313,108.039,4,5Gs7avC6HzSOD7pyUi1IuI,面對明日的勇氣,0.167
+916,0.83,黃義達,spotify:artist:7kaq0LysuRSgBZSorlZ7Vj,0.554,0.51,['mandopop'],0.0,0,0.116,-6.534,1,44,0.0269,79.973,4,4lD40vyG33AcLiftmxQSC8,那女孩對我說,0.436
